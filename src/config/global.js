@@ -170,7 +170,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF4_621209_DU.pdf',
+        download: 'downloads/CF11_621209_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -276,8 +276,7 @@ export default {
     {
       referencia:
         '¿Qué es la Gestión de Procesos? (BPM) - Guía Definitiva. (2024, 23 julio).',
-      link:
-        'https://www.boc-group.com/es/blog/bpm/fundamentos-de-la-gestion-de-procesos-de-negocio-y-su-papel-en-la-excelencia-operativa/',
+      link: 'https://www.boc-group.com/es/blog/bpm/fundamentos-de-la-gestion-de-procesos-de-negocio-y-su-papel-en-la-excelencia-operativa/',
     },
     {
       referencia:
@@ -312,8 +311,7 @@ export default {
     {
       referencia:
         'Romero, M. J., Maldonado, C., y Núñez, L. (2021). El nuevo paradigma de la omnicanalidad. ',
-      link:
-        'https://www.minsait.com/sites/default/files/newsroom_documents/elnuevoparadigmadelaomnicanalidad.pdf',
+      link: 'https://www.minsait.com/sites/default/files/newsroom_documents/elnuevoparadigmadelaomnicanalidad.pdf',
     },
     {
       referencia:
@@ -322,8 +320,7 @@ export default {
     },
     {
       referencia: 'Universidad América Latina - UAL. (2021). Demostraciones.',
-      link:
-        'http://ual.dyndns.org/biblioteca/Promocion_de_Ventas/Pdf/Unidad_20.pdf',
+      link: 'http://ual.dyndns.org/biblioteca/Promocion_de_Ventas/Pdf/Unidad_20.pdf',
     },
     {
       referencia:
@@ -337,8 +334,7 @@ export default {
     },
     {
       referencia: 'Wolters Kluwer N.V. (2025). Guías y listas de comprobación.',
-      link:
-        'https://www.wolterskluwer.com/es-es/solutions/legal-software/content-suite/content-library',
+      link: 'https://www.wolterskluwer.com/es-es/solutions/legal-software/content-suite/content-library',
     },
     {
       referencia:
