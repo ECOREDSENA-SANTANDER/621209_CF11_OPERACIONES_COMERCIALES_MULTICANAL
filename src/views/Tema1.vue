@@ -33,7 +33,7 @@
                   .col-10
                     p.mt-3 Informar. Esto incluye detalles sobre características, beneficios, precios, promociones y puntos de venta.
       
-      p Estos dos objetivos deben estar implícitos en cualquier pieza publicitaria, y aunque no son exclusivos de la publicidad, sí exponen el porqué de su existencia para beneficio de las marcas. Su propósito será siempre la provocación, la acentuación o lograr la aceptación de la marca, producto o servicio que se expone en las diferentes piezas publicitarias, tales como comerciales de televisión, anuncios de prensa y revista, publicidad exterior, cuñas radiales, volantes, afiches, #[em eCards], banners, etc. 
+      p Estos dos objetivos deben estar implícitos en cualquier pieza publicitaria, y aunque no son exclusivos de la publicidad, sí exponen el porqué de su existencia para beneficio de las marcas. Su propósito será siempre la provocación, la acentuación o lograr la aceptación de la marca, producto o servicio que se expone en las diferentes piezas publicitarias, tales como comerciales de televisión, anuncios de prensa y revista, publicidad exterior, cuñas radiales, volantes, afiches, #[em eCards], #[em banners], etc. 
       
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
@@ -54,7 +54,8 @@
                 .row.justify-content-center.align-items-center
                   .col-4
                     img.mb-4(src='@/assets/curso/temas/tema1/ico1.png', alt='tema1')
-                p.text-center Su función es la transmisión de mensajes persuasivos que cautiven a las personas que se encuentran en el establecimiento. No confundir con diseño de envases y empaques o con #[em merchandising].
+                p.text-center La PLV presenta mensajes que buscan llamar la atención de los clientes y motivar la compra dentro del establecimiento. No debe confundirse con el diseño de envases y empaques ni con el #[em merchandising], es decir, con las estrategias utilizadas para organizar y presentar los productos en el punto de venta.
+
               .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-1.png')})`}")
         .col-sm-6.col-xl-5.mb-4.mb-xl-0
           .tarjeta.tarjeta-slide.arriba.bg02(@mouseover="indicadorTarjetaSlide = false")
@@ -63,7 +64,7 @@
                 .row.justify-content-center.align-items-center
                   .col-4
                     img.mb-4(src='@/assets/curso/temas/tema1/ico1.png', alt='tema1')
-                p.text-center Se refiere a las estrategias y acciones desarrolladas por el anunciante que mercadea sus productos en el interior del establecimiento, donde exhibe su material (PLV). Por lo tanto, el material que usa el establecimiento para la señalización de los productos no, se puede considerar (PLV). 
+                p.text-center La PLV incluye los materiales publicitarios que una empresa o marca ubica dentro del establecimiento para promocionar sus productos. No incluye las señales que utiliza el establecimiento para orientar a los clientes o indicar dónde se encuentran los productos.
               .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-2.png')})`}")
   
       separador
@@ -95,7 +96,7 @@
           p Se refiere a la recordación de marca. Sus funciones incluyen mantener una reputación elevada del producto o servicio, recordar su presencia en el mercado y el lugar donde se puede adquirir, hacer que el cliente lo tenga en mente para futuras necesidades y evocar el producto o servicio incluso cuando no hay fechas especiales. 
   
       .row.justify-content-center.align-items-end(data-aos="fade-right")
-        .col-lg-4.col-md-7.col-7
+        .col-lg-4.col-md-7.col-7.mb-3
           img(src="@/assets/curso/temas/tema1/img2.png")
         .col-lg-8.col-md-12.col-12
           p.mb-4 En el interior del establecimiento coinciden fabricantes, detallistas y consumidores. Obviamente, aquí también están presentes sus intereses. Fabricantes y detallistas concuerdan en tener a la PLV como una herramienta vital para alcanzar a los consumidores, pero son diferentes como se indica a continuación:
@@ -105,7 +106,7 @@
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     figure
-                      img(src='@/assets/curso/temas/tema1/sly1-1.png', alt='Texto que describa la imagen')
+                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-1.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Detallista
                     p.mb-4 Traer hacia el punto de venta, mostrar las ventajas que posee el establecimiento, alcanzar una imagen determinada, posicionar el punto de venta, motivar la visita a la tienda y tener compras a futuro, dar eficacia y animación al establecimiento.
@@ -113,7 +114,7 @@
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     figure
-                      img(src='@/assets/curso/temas/tema1/sly1-2.png', alt='Texto que describa la imagen')
+                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-2.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Fabricantes
                     p.mb-4 Incrementar sus marcas o productos en el punto de venta, diferenciarlos de la competencia, conseguir ubicaciones idóneas dentro del punto de venta, recalcar visualmente las propiedades del producto.
@@ -121,10 +122,10 @@
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     figure
-                      img(src='@/assets/curso/temas/tema1/sly1-3.png', alt='Texto que describa la imagen')
+                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-3.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Consumidor
-                    p.mb-4 García, 2015, explica que a pesar de ser locales de autoservicio, por lo general necesita tener una orientación y una información dentro del almacén.
+                    p.mb-4 García (2015) explica que, aunque el establecimiento sea de autoservicio, el consumidor generalmente necesita orientación e información para encontrar y seleccionar los productos.
   
       separador
       #t_1_2.titulo-segundo.mb-5
@@ -135,7 +136,7 @@
         .col-lg-8
           PasosA.color-acento-contenido.mb-5(tipo="l")
             .row.align-items-end
-              .col-auto
+              .col-auto.mb-3
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema1/ps1-1.png', alt='').img125
               .col-lg
@@ -147,11 +148,11 @@
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema1/ps1-2.png', alt='')
             .row.align-items-end
-              .col-auto
+              .col-auto.mb-3
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema1/ps1-3.png', alt='')
               .col-lg
-                p Tiene grafismos publicitarios que fortalecen la identidad de la marca del fabricante y / o producto promocionado.
+                p Tiene grafismos publicitarios que fortalecen la identidad de la marca del fabricante y/o producto promocionado.
             .row.align-items-end
               .col-lg
                 p Tiene un sistema que admite el posicionamiento y ubicación en el establecimiento.
@@ -159,7 +160,7 @@
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema1/ps1-4.png', alt='')
             .row.align-items-end
-              .col-auto
+              .col-auto.mb-3
                 figure(data-aos="zoom-in")
                   img(src='@/assets/curso/temas/tema1/ps1-5.png', alt='')
               .col-lg
@@ -168,7 +169,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-8
           .cajon.color-primario.p-4.mb-4
-            p.text-center Así mismo García 2015, expone la importancia de las características que logran que sus formas, estilos y materiales sean muy diversos. Las formas y estilos pueden ser abstractos o simbólicos, que respetan y son coherentes con la filosofía y principios de la marca o del producto, además de tener en cuenta el perfil del consumidor, porque es a él a quien la publicidad se va a dirigir. Los materiales de estos productos pueden ser el plástico, vidrio, metal, cristal, madera, cartón, papel e incluso las cerámicas. 
+            p Además, García (2015) explica que la publicidad en el punto de venta puede presentar diversas formas, estilos y materiales. Las formas y los estilos pueden ser abstractos o simbólicos, pero deben ser coherentes con la identidad de la marca o del producto y tener en cuenta las características del público al que se dirigen. Para elaborar estos materiales publicitarios se pueden utilizar plástico, vidrio, metal, cristal, madera, cartón, papel o cerámica.
   
       separador
       #t_1_3.titulo-segundo.mb-5
@@ -222,7 +223,7 @@
       p.mb-4 Los siguientes son los dos tipos de promoción:
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-3.col-md-5.col-5
+        .col-lg-3.col-md-5.col-5.mb-4
           img(src='@/assets/curso/temas/tema1/img3.png', alt='')
         .col-lg-9.col-md-12.col-sm-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -262,9 +263,9 @@
       p Si la empresa quiere lograr el éxito con la promoción se necesita tener en cuenta los siguientes ítems:
   
       .row.mb-3
-          .col-md.tarjeta--boton.tema1.p-4.mx-2
+          .col-md.tarjeta--boton.tema1.p-4.mx-2.mb-3
             .row.align-items-center.justify-content-center
-              .col-lg-3.col-md-5.col-5
+              .col-lg-3.col-md-5.col-5.mb-3
                 img(src='@/assets/curso/temas/tema1/tar3-1.png', alt='')     
               .col-lg-8.col-md-12.col-sm-12.p-1
                 h4 Originalidad. 
@@ -278,9 +279,9 @@
                 p Saber a quién se va a dirigir la promoción, porque de esta forma puede tener una respuesta más positiva por parte de este público.
   
       .row.mb-3
-          .col-md.tarjeta--boton.tema1.p-4.mx-2
+          .col-md.tarjeta--boton.tema1.p-4.mx-2.mb-3
             .row.align-items-center.justify-content-center
-              .col-lg-3.col-md-5.col-5
+              .col-lg-3.col-md-5.col-5.mb-3
                 img(src='@/assets/curso/temas/tema1/tar3-3.png', alt='')     
               .col-lg-8.col-md-12.col-sm-12.p-1
                 h4 Incentivo #[em ad hoc.] 
@@ -294,7 +295,7 @@
                 p Se debe pensar en qué fechas realizar las promociones, especialmente en los momentos en que la marca vende menos productos.
   
       .row.mb-5
-          .col-md.tarjeta--boton.tema1.p-4.mx-2
+          .col-md.tarjeta--boton.tema1.p-4.mx-2.mb-3
             .row.align-items-center.justify-content-center
               .col-lg-3.col-md-5.col-5
                 img.mt-5(src='@/assets/curso/temas/tema1/tar3-5.png', alt='')     
@@ -303,7 +304,7 @@
                 p El plan promocional debe contener una diversidad de incentivos y estrategias que vayan impactando al cliente poco a poco.
           .col-md.tarjeta--boton.tema1.p-4.mx-2
             .row.align-items-center.justify-content-center
-              .col-lg-3.col-md-5.col-5
+              .col-lg-3.col-md-5.col-5.mb-3
                 img(src='@/assets/curso/temas/tema1/tar3-6.png', alt='')     
               .col-lg-8.col-md-12.col-sm-12.p-1
                 h4 Ser proactivo.
@@ -316,8 +317,8 @@
       
       p.mb-4 La promoción tiene que ser coherente con la campaña de comunicación o publicitaria, que se incluya en el plan de mercadeo de la marca, teniendo perfectamente claro cuál es la intención de la promoción:
   
-      .row.justify-content-center.align-items-end.mb-5
-        .col-lg-4.col-md-6.col-6
+      .row.justify-content-center.align-items-end.mb-3
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema1/img4.png', alt='')
         .col-lg-4.col-md-12.col-sm-12
           ol.lista-ol--cuadro.lista-ol-.fa-ol.p-2
@@ -431,7 +432,7 @@
               h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Clasificación y tipología
               img.icon(src='@/assets/curso/temas/icon.svg') 
           p.mt-5 El  objetivo de un evento debe definir su tipología, mientras que su formato es el medio o canal utilizado para llevarlo a cabo.
-          p Por ejemplo, los eventos de motivación pueden realizarse mediante #[em networking], viajes de incentivos o convenciones. Los eventos de posicionamiento de marca pueden llevarse a cabo a través de acciones callejeras, #[em marketing]  de guerrilla, #[em roadshows, happenings], #[em marketing] ambiental o eventos promocionales. Los eventos institucionales pueden utilizar formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas. Además, los eventos relacionales y co-participativos pueden organizarse mediante desayunos, almuerzos, #[em focus groups], cocreación, entre otros.
+          p Por ejemplo, los eventos de motivación pueden realizarse mediante actividades para crear contactos profesionales, viajes de incentivo o convenciones. Los eventos de posicionamiento de marca pueden incluir acciones callejeras, mercadeo de guerrilla, eventos itinerantes, actividades artísticas y eventos promocionales. Los eventos institucionales pueden desarrollarse mediante presentaciones empresariales, patrocinios o juntas de accionistas. Además, los eventos relacionales y coparticipativos pueden organizarse mediante desayunos, almuerzos, grupos focales y actividades de cocreación, entre otros.
           p Así, se pueden explorar muchas más modalidades de eventos que pueden ser consideradas en las estrategias patrocinadas por una marca.
           p Pueden diferenciarse en dos grandes bloques: 
         .col-lg-4.col-md-6.col-6
@@ -449,28 +450,28 @@
       TabsC.color-primario.mb-5(data-aos="zoom-in-left")
         .py-3.py-md-5(titulo="<i>Roadshows</i>")
           .row.justify-content-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-1.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
               p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de #[em marketing], que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.
         .py-3.py-md-4.px-3(titulo="Aniversarios de empresa")
           .row.justify-content-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-2.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
               p Son un excelente momento para festejar, aprovechando la ocasión para la creación de un evento especial con los empleados, y por qué no, con los clientes. Con el paso del tiempo este tipo de eventos se han ido transformando hasta ser considerados como vitales para la empresa, porque un aniversario es un momento que debe ser cuidado y medido al milímetro y donde existe la oportunidad para lograr un mejoramiento en la imagen de la marca proyectándose hacia el exterior como una empresa afianzada en el mercado. Se puede aprovechar para atraer nuevos clientes, fidelizar a los existentes y mejorar el conocimiento de la marca.
         .py-3.py-md-4.px-3(titulo="Ruedas de prensa")
           .row.justify-content-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-3.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
               p Convocatoria que efectúa una marca para reunir a los medios de comunicación para informarles sobre algo de interés. También se les conoce como conferencia de prensa y consiste en invitar a los periodistas a un mismo lugar de tal forma que tengan la información suministrada por la empresa de manera simultánea, con el fin de que los puedan reproducir en los periódicos, revistas, programas de televisión o radio, e incluso en medios digitales a través de internet, como blogs y sitios web. Por lo general se elige un espacio amplio y cómodo por fuera de la empresa como un auditorio o un teatro, aunque hay marcas que deciden hacerlo internamente, porque tienen espacios capacitados para poderlo realizar al interior de sus oficinas.
         .py-3.py-md-4.px-3(titulo="Lanzamiento de productos")
           .row.justify-content-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-4.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Para planificar un evento de lanzamiento, es crucial seleccionar el sitio adecuado para su desarrollo. Para ello, se debe considerar la audiencia objetivo y evaluar si disfrutarán más del evento en persona o mediante una experiencia #[em online]. Estos detalles son vitales, ya que elegir el lugar perfecto para el lanzamiento del producto puede ser un factor determinante para el éxito comercial. Un evento en vivo debe celebrarse en un lugar atractivo, que motive a la gente a asistir, lo cual contribuirá a aumentar las ventas y a generar nuevo engagement por parte de los clientes. También es importante decidir la cantidad de asistentes deseada; no siempre se necesita una gran multitud, ya que una experiencia íntima puede tener tanto impacto como un evento masivo.
+              p Para planificar un evento de lanzamiento, es crucial seleccionar el sitio adecuado para su desarrollo. Para ello, se debe considerar la audiencia objetivo y evaluar si disfrutarán más del evento en persona o mediante una experiencia #[em online]. Estos detalles son vitales, ya que elegir el lugar perfecto para el lanzamiento del producto puede ser un factor determinante para el éxito comercial. Un evento en vivo debe celebrarse en un lugar atractivo, que motive a la gente a asistir, lo cual contribuirá a aumentar las ventas y a generar nuevo #[em engagement] por parte de los clientes. También es importante decidir la cantidad de asistentes deseada; no siempre se necesita una gran multitud, ya que una experiencia íntima puede tener tanto impacto como un evento masivo.
   
       .row.mb-4
         .col-12
@@ -482,35 +483,35 @@
                 p.mt-1 #[b Eventos internos.] Hacia dentro de la empresa, dirigido al personal de esta o público vinculado de forma muy estrecha, principalmente eventos de formación, motivación e incentivo. La siguiente clasificación son tipos de eventos internos:
   
       TabsC.color-primario.mb-5(data-aos="zoom-in-left")
-        .py-3.py-md-5(titulo="<i>Open Days</i>")
+        .py-3.py-md-5(titulo="<i>Open days</i>")
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab2-1.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
               p Son jornadas de puertas abiertas donde los centros educativos ofrecen a los clientes o familias potenciales, su mejor cara para comunicar su oferta educativa, mostrar sus instalaciones, así como también los servicios adicionales que tenga el centro.
         .py-3.py-md-4.px-3(titulo="Inauguraciones")
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab2-2.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
               p Evento o festejo que tiene como fin celebrar el estreno de algo en especial, como, por ejemplo, la apertura de un nuevo local. Al hacer mención de la palabra inauguración, se refiere al #[em debut] de algo.
         .py-3.py-md-4.px-3(titulo="Convenciones de ventas")
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab2-3.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
               p Evento en el que se transmiten los nuevos objetivos y estrategias empresariales para todo el personal. Su finalidad es que estas convenciones se deben alinear con los planes estratégicos de la empresa.
         .py-3.py-md-4.px-3(titulo="Actos")
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab2-4.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p El término se refiere a desayunos de trabajo, almuerzos de trabajo sin acompañante, tés de trabajo y #[em snacks] de trabajo. Estos eventos son una de las prácticas más comunes en las empresas. Generalmente, se celebran en cafeterías o en amplios salones de reuniones, aunque algunas empresas prefieren realizarlos en lugares externos, como hoteles o restaurantes.
-              p La finalidad principal de estos encuentros se resume en tres puntos clave: negociación con proveedores, distribuidores o aliados estratégicos; acuerdos con proveedores, distribuidores, aliados estratégicos, empleados o sindicatos; y beneficios para proveedores, distribuidores, aliados estratégicos, empleados, sindicatos, clientes y la sociedad en general.
+              p El término hace referencia a reuniones de trabajo que se desarrollan durante desayunos, almuerzos, tés o snacks. Estos eventos constituyen una práctica frecuente en las empresas y, por lo general, se realizan en cafeterías o salones de reuniones. No obstante, algunas organizaciones prefieren llevarlos a cabo en lugares externos, como hoteles o restaurantes.
+              p La finalidad principal de estos encuentros se centra en tres aspectos: negociar con proveedores, distribuidores y aliados estratégicos; establecer acuerdos con empleados, sindicatos y demás grupos de interés; y generar beneficios para las organizaciones, sus aliados, los clientes y la sociedad en general.
               p Estos eventos pueden contar con la presencia de personalidades del ámbito político nacional o internacional, cuyo propósito es proporcionar un respaldo institucional significativo.
         .py-3.py-md-4.px-3(titulo="Viajes de incentivo")
           .row.justify-content-center.align-items-center
-            .col-lg-3.col-md-5.col-5.mb-4
+            .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab2-5.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
               p Ofrece a los empleados una recompensa en forma de viaje por haber logrado los objetivos o por haber culminado exitosamente un proyecto innovador. 

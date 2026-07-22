@@ -11,7 +11,8 @@
         .col-lg-8.col-md-12.col-sm-12
           p Es el grupo de instrumentos de comunicación que usa la empresa de forma masiva o personalizada para hacer promoción de una marca, producto o servicio, con el fin de llamar la atención del público objetivo al que van dirigidos (Wolters, 2021).
           .cajon.color-acento-contenido.p-4.mb-4
-            p La comunicación es uno de los cuatro instrumentos básicos del mercadeo, que se clasifican tradicionalmente en publicidad, relaciones públicas, promoción de ventas y venta personal. En la actualidad se han sumado otras dos, el #[em buzz marketing] o el #[em marketing] experiencial. Por eso, hoy se suele hablar de comunicación 360º o Comunicación Integrada de #[em Marketing] (CIM). La idea es que ayude a lograr los objetivos de #[em marketing] a través de la comunicación, buscando la eficacia en las estrategias y su respectivo plan de acción, conociendo lo mejor posible al cliente objetivo e impactándolo a través de todos los medios que sean posibles (según el músculo financiero de la marca) y con una estrategia envolvente.
+            p La comunicación comercial reúne diferentes herramientas que la empresa utiliza para informar, relacionarse con sus públicos y promocionar sus productos o servicios. Entre estas herramientas se encuentran la publicidad, las relaciones públicas, la promoción de ventas, la venta personal, la comunicación digital, el mercadeo de boca a boca y el mercadeo de experiencias.
+            p Cuando estas herramientas se planean y utilizan de manera coordinada, se habla de Comunicación Integrada de Mercadeo (CIM). Su propósito es transmitir mensajes claros y coherentes en los diferentes canales de contacto, de acuerdo con las características del público objetivo, los objetivos de la empresa y los recursos disponibles.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema3/img1.png', alt='')
   
@@ -62,30 +63,30 @@
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema3/img2.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           p.mb-2 Un plan de comunicación usado para cualquier nivel debe pasar por las siguientes etapas:
           .row.justify-content-center.align-items-center.bg01.borde-redondo
             .col-lg-12.col-md-12.col-sm-12
               .row.justify-content-center.align-items-center.mt-4
-                .col-lg-1.col-md-2.col-4
-                  img(src='@/assets/curso/temas/tema3/ico1.png', alt='')
+                .col-lg-1.col-md-2.col-3.mb-3
+                  img(src='@/assets/curso/temas/tema3/ico2.svg', alt='')
                 .col-lg-10.col-md-12.col-sm-12
                   p El plan inicia  con el diagnóstico general de la empresa y la identificación del problema que esta tiene actualmente.
               .row.justify-content-center.align-items-center
-                .col-lg-1.col-md-2.col-4
-                  img(src='@/assets/curso/temas/tema3/ico2.png', alt='')
+                .col-lg-1.col-md-2.col-3.mb-3
+                  img(src='@/assets/curso/temas/tema3/ico4.svg', alt='')
                 .col-lg-10.col-md-12.col-sm-12
                   p Luego de desarrollar este análisis en la etapa inicial se pasa a la segunda etapa donde definen los objetivos: lo que se desea lograr con la comunicación. 
               .row.justify-content-center.align-items-center
-                .col-lg-1.col-md-2.col-4
-                  img(src='@/assets/curso/temas/tema3/ico3.png', alt='')
+                .col-lg-1.col-md-2.col-3.mb-3
+                  img(src='@/assets/curso/temas/tema3/ico3.svg', alt='')
                 .col-lg-10.col-md-12.col-sm-12
                   p La tercera etapa se enfoca en identificar el público objetivo al que va dirigida la comunicación. Además, en esta fase se establecen la estrategia del mensaje (qué y cómo se desea comunicar) y la estrategia de medios (qué canales se emplearán).
               .row.justify-content-center.align-items-center.mb-4
-                .col-lg-1.col-md-2.col-4
-                  img(src='@/assets/curso/temas/tema3/ico4.png', alt='')
+                .col-lg-1.col-md-2.col-3.mb-3
+                  img(src='@/assets/curso/temas/tema3/ico1.svg', alt='')
                 .col-lg-10.col-md-12.col-sm-12
                   p Finalmente, se debe adjudicar un presupuesto que sirva para conseguir los objetivos trazados. Además de diseñar un cronograma donde se ordene bien la planeación, los objetivos, las estrategias, las acciones, los responsables y las fechas de realización de cada acción, de tal forma que el equipo de trabajo revise, semana tras semana, cuáles son las actividades para desarrollar.
   
@@ -103,32 +104,32 @@
             .row.align-items-center.justify-content-center(numero="1" titulo= "Teléfono")
               .col-md-10.col-lg-7.col-sm-12
                 p Es considerado el más tradicional por excelencia y sin importar la aparición de nuevas tecnologías continúa siendo uno de los medios más usados. Este medio entrega muchas ventajas, como, por ejemplo, es inmediato, rápido, permite un contacto bidireccional y una fluidez en la comunicación. Como desventaja, es que le falta, un contacto  más en directo, persona a persona. La mayoría de las empresas lo tienen entre sus canales preferidos para contactar a sus clientes. 
-              .col-md-2.col-lg-4.col-4
+              .col-md-2.col-lg-4.col-10
                 img(src='@/assets/curso/temas/tema3/ps1-1.png', alt='')
             .row.align-items-center.justify-content-center(numero="2" titulo= "Correo electrónico")
               .col-md-10.col-lg-7.col-sm-12
                 p Una de las vías que más adeptos ha recabado desde los inicios de la red. Es muy versátil en cuanto al reparto de tiempos (se puede responder de inmediato, pero también dejar pasar un tiempo, si no se quiere hacerlo de inmediato). Tiene un componente de "formalidad" que otorga el formato por escrito y que se puede archivar con facilidad. El correo electrónico es, sin lugar a duda, uno de los favoritos tanto para clientes como para empresas.
-              .col-md-2.col-lg-4.col-4
+              .col-md-2.col-lg-4.col-10
                 img(src='@/assets/curso/temas/tema3/ps1-2.png', alt='')
             .row.align-items-center.justify-content-center(numero="3" titulo= "Formulario de contacto")
               .col-md-10.col-lg-7.col-sm-12
                 p Es un medio bastante útil, porque es primordial para interactuar con los clientes y poderles ofrecerles una manera veloz y sin problemas de mantener un contacto directo con la empresa. Su función es la de recibir el primer contacto con un cliente potencial, que por lo general se encuentra ubicado en el sitio web, y que a partir de ahí comienza  la venta, por lo que es una pieza vital en el engranaje para entregar valor a la marca.
-              .col-md-2.col-lg-4.col-4
+              .col-md-2.col-lg-4.col-10
                 img(src='@/assets/curso/temas/tema3/ps1-3.png', alt='')
             .row.align-items-center.justify-content-center(numero="4" titulo= "Redes sociales")
               .col-md-10.col-lg-7.col-sm-12
                 p Estas plataformas se usan como medios de contacto personalizado y resultan bastante útiles. La empresa debe saber cuáles redes sociales usar. La sugerencia es tener pocas redes sociales y que sean aquellas donde el cliente potencial se encuentra presente.
-              .col-md-2.col-lg-4.col-4
+              .col-md-2.col-lg-4.col-10
                 img(src='@/assets/curso/temas/tema3/ps1-4.png', alt='')
             .row.align-items-center.justify-content-center(numero="5" titulo= "<i>Chatbot</i>")
               .col-md-10.col-lg-7.col-sm-12
-                p Herramienta de software que reemplaza las funciones de una persona y que a través de una interfaz tipo chat puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
-              .col-md-2.col-lg-4.col-4
+                p Herramienta de #[em software] que reemplaza las funciones de una persona y que a través de una interfaz tipo chat puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
+              .col-md-2.col-lg-4.col-10
                 img(src='@/assets/curso/temas/tema3/ps1-5.png', alt='')
             .row.align-items-center.justify-content-center(numero="6" titulo= "WhatsApp")
               .col-md-10.col-lg-7.col-sm-12 
                 p Herramienta que posee un gran potencial para que las empresas tengan una comunicación directa con los clientes. Es una aplicación que brinda una funcionalidad importante para las empresas (WhatsApp Business) para que estas puedan tener un contacto más ágil con sus clientes a través de un #[em chatbot] que permite a la marca responder de manera instantánea a una gran cantidad de contactos diariamente. Este #[em chatbot] es muy útil para empresas que reciben masivamente contactos en el día, además de que puede direccionar las consultas a cada área a través de él. 
-              .col-md-2.col-lg-4.col-4
+              .col-md-2.col-lg-4.col-10
                 img(src='@/assets/curso/temas/tema3/ps1-6.png', alt='')
   
       separador
@@ -136,10 +137,10 @@
         h2 3.2 El asesor comercial
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-9.mb-4
           img(src='@/assets/curso/temas/tema3/img3.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
-          p Profesional cuya función principal es proporcionar información completa y detallada a clientes potenciales con el objetivo de facilitar una  decisión de compra. Entre otras responsabilidades, este profesional debe conocer los mercados, productos y servicios, así como realizar un seguimiento continuo de los clientes o. posibles compradores (Wetto, 2017).
+          p Profesional cuya función principal es proporcionar información completa y detallada a clientes potenciales con el objetivo de facilitar una  decisión de compra. Entre otras responsabilidades, este profesional debe conocer los mercados, productos y servicios, así como realizar un seguimiento continuo de los clientes o posibles compradores (Wetto, 2017).
           p El asesor comercial, en general, es un vendedor, pero no se limita a realizar una venta. Su objetivo es obtener de los clientes la información necesaria para ofrecerles el producto que mejor se ajuste a sus necesidades. En este sentido, brindan atención antes, durante y después de la compra. Desempeñan un rol de doble vía: además de asesorar y proporcionar información útil a los clientes, recopilan datos importantes que la empresa puede utilizar para mejorar en todos los aspectos, desde productos y servicios hasta estrategias comerciales, #[em branding] y mercado objetivo.
   
       .mb-4.d-flex.ps-lg-0
@@ -155,49 +156,49 @@
             LineaTiempoC.color-acento-contenido(text-small)
               .row.justify-content-center.align-items-center(titulo="A")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-1.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-1.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conocer ampliamente el mercado
                   p Esta función abarca no solo poseer datos precisos sobre la esencia de la venta, sino también sobre desarrollar una investigación de las necesidades reales de los clientes, para ofrecerles el producto o servicio que mejor se adecúe a sus necesidades o deseos. También permite al asesor comercial descubrir potenciales clientes, conociendo en dónde se encuentran y cómo contactarlos.
               .row.justify-content-center.align-items-center(titulo="B")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-2.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-2.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conocer el producto o servicio que ofrece
                   p Todo asesor comercial debe probar el producto o servicio que ofrece poniéndose por un instante en la piel del consumidor. Así es como el asesor puede estar en capacidad de dar respuesta a cualquier pregunta o duda que tenga el cliente, y llegar incluso a anticiparse, proporcionándole la información puntual que él está requiriendo.
               .row.justify-content-center.align-items-center(titulo="C")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-3.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-3.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Ser un asesor activo
                   p Esta función es la que hace la diferencia entre un vendedor de un asesor comercial. El asesor no se limita en responder preguntas del cliente, sino que intenta indagar sobre sus necesidades, escuchándolo con atención para ofrecerle la mejor opción, aunque esta pueda ser completamente distinta a la que en principio el cliente buscaba.
               .row.justify-content-center.align-items-center(titulo="D")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-4.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-4.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Proporcionar información pertinente
                   p Es una obligación tener consigo toda la información sobre el producto. Esto lo puede lograr leyendo los instructivos y datos de los productos, pero también probándolos, sintiendo en carne propia los atributos y carencias, usos y precauciones. El vendedor busca el producto que el cliente le pidió. En cambio, el asesor comercial averigua sobre la necesidad que el comprador desea satisfacer al adquirirlo y, si es del caso, le puede sugerir una mejor elección, o simplemente ratifica la buena selección del producto por parte del cliente. También debe estar enterado sobre competencia y sobre las características del mercado. Por ello, debe tener curiosidad, ser investigador y estar al día sobre tendencias, novedades, actualidad, lanzamiento de productos, artículos discontinuos, cambios en las políticas comerciales o de fabricación, leyes, normas y todo aquello que pueda incidir o comprometer la venta.
               .row.justify-content-center.align-items-center(titulo="E")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-5.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-5.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Mantener una comunicación eficiente
                   p También es obligatorio tener los instrumentos adecuados para tener una excelente comunicación, tanto oral como escrita, con el comprador. Además de entenderlo y escucharlo, debe aplicar la psicología para conseguir información relevante con el fin de ofrecerle la mejor elección o, si es necesario, hacerlo cambiar de opinión. Por eso, esta función también trae consigo el ser perceptivo y el ser comprensivo.
               .row.justify-content-center.align-items-center(titulo="F")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-6.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-6.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Tener una actitud proactiva
                   p Debe adelantarse a las necesidades del cliente, siempre pensando en su satisfacción y en la solución de sus problemas. Esto lo logra siempre y cuando lo conozca bien, sabiendo qué es lo que necesita y por qué lo busca, llevando un historial de sus compras y obteniendo datos relevantes como, por ejemplo, qué productos ha adquirido, cuál es el estilo de vida que tiene, cuáles son sus gustos e intereses, cómo se compone su núcleo familiar, y todos los datos que pueda obtener de él. Es así como el asesor comercial podrá estar en condiciones de anticiparse al cliente para poderle ofrecer beneficios o variedad de elecciones hasta que descubra lo que realmente requiere, como, por ejemplo, nuevos productos o nuevas versiones de artículos que ya tiene.
               .row.justify-content-center.align-items-center(titulo="G")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-7.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-7.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Hacer seguimiento de los clientes
                   p Una de las funciones más importantes es hacer un seguimiento exhaustivo de los clientes, identificando a los compradores insatisfechos  que no encontraron en el mercado el producto que satisfaga sus necesidades o deseos. Es crucial mantener la lealtad de los clientes fieles y captar a los potenciales, motivándolos a realizar una compra y familiarizarse con los productos de la marca. Para lograrlo, es esencial administrar una base de datos actualizada que permita al asesor comercial contactar tanto a clientes actuales como potenciales. Esta base de datos debe incluir información como números telefónicos y correos electrónicos para enviarles noticias y ofertas de su interés.
               .row.justify-content-center.align-items-center(titulo="H")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2(src='@/assets/curso/temas/tema3/ps2-8.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-8.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conjugar intereses
                   p En una acción de compra intervienen tres actores: el cliente, el vendedor y el producto que se promociona. Como en toda relación comercial, el objetivo es que todos los actores obtengan un beneficio: el comprador satisface su necesidad, el vendedor recibe una comisión por la venta, y el producto contribuye a la rentabilidad de la empresa. Para que esta relación comercial perdure en el tiempo, es esencial que el asesor comercial, quien actúa como puente entre la empresa y el cliente, mantenga satisfechos a ambos a través de una excelente atención. Esto se logra mediante una comunicación honesta y clara entre los tres actores (Wetto, 2017).
@@ -207,7 +208,7 @@
         h2 3.3 Medios de comunicación impresos
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-8.mb-4
           img(src='@/assets/curso/temas/tema3/img4.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           p Son aquellos que al producirse deben pasar por un proceso de impresión, siendo los periódicos, las revistas y los folletos algunos de los que más se destacan. Sin embargo, dentro de estos, y además de los nombrados anteriormente, se encuentran otras publicaciones en papel, como, por ejemplo, los libros, plegables, carteles, afiches, lonas y anuncios. Su finalidad es la información que deben entregar a los clientes, sobre temas de su interés; además de motivar, educar, construir relaciones y generar una primera compra por parte del cliente.
@@ -234,7 +235,7 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Revistas
-                  p Así como los periódicos, las revistas también son medios masivos visuales, con la ventaja de poder seleccionar mejor a la audiencia meta (hay revistas especializadas en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc). 
+                  p Así como los periódicos, las revistas también son medios masivos visuales, con la ventaja de poder seleccionar mejor a la audiencia meta (hay revistas especializadas en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc.). 
                   p Tienen mayor calidad tanto en impresión (usa tintas CMYK – cian, magenta, y #[em black]) como en el papel (propalcote), por lo que son más costosas para los lectores y también para los anunciantes.  
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema3/sly1-2.png")
@@ -309,7 +310,7 @@
                     .row.mt-5.mb-3
                     .col-lg-6.mt-5.bgblanco
                       h4.mt-2.ps-2 Demos gratis de los videojuegos
-                      p.ps-2 Esta industria también ha comprendido el potencial que tiene ofrecer muestras gratuitas, porque así motivan la compra del videojuego más adelante. En la actualidad, esta muestra puede ser online, descargando una versión gratuita de internet; el cliente queda con deseos de obtener la versión completa. Estrategia que funciona muy bien.
+                      p.ps-2 Esta industria también ha comprendido el potencial que tiene ofrecer muestras gratuitas, porque así motivan la compra del videojuego más adelante. En la actualidad, esta muestra puede ser #[em online], descargando una versión gratuita de internet; el cliente queda con deseos de obtener la versión completa. Estrategia que funciona muy bien.
               .tarjeta.tarjeta--slyder(:style="{'background-image': `url(${require('@/assets/curso/temas/tema3/sly2-5.png')})`}").borde-recto
                 .row(titulo="xxx").mt-4
                   .row.mt-5
@@ -317,7 +318,7 @@
                     .row.mt-5.mb-3
                     .col-lg-6.mt-5.bgblanco
                       h4.mt-2.ps-2 Plantillas gratuitas Wordpress y Wix
-                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios web y blogs, llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc). El cliente puede elegir una plantilla para su sitio web, probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio web o blog.
+                      p.ps-2 Son dos plataformas de plantillas gratuitas que ya tienen múltiples opciones de diseños de sitios web y blogs, llamativos e impactantes visualmente, y que están perfectamente diseñados por categorías (tecnología, restaurantes, viajes, moda, servicios, etc.). El cliente puede elegir una plantilla para su sitio web, probarla, editarla y personalizarla. Y cuando esté seguro de su diseño y tenga comprados el dominio y el #[em hosting] en internet, procede a pagar a dichas plataformas la plantilla. Es negocio asegurado cuando se trata de una empresa o una persona que primero desea ver cómo queda su diseño de sitio web o blog.
             .row.mt-5
   
       p.mb-4.mt-4 La estrategia consiste entonces en que las empresas entreguen muestras gratis de sus productos con la finalidad de fidelizar los clientes reales y habituales o de alcanzar clientes potenciales que se interesen por lo que la empresa ofrece. Cuando el cliente prueba un producto, sea cual sea, tiene más posibilidades de terminar comprándolo, siempre y cuando le haya gustado.
@@ -348,7 +349,7 @@
         h2 3.5 Material publicitario en el punto de venta
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-2.col-md-3.col-3
+        .col-lg-2.col-md-3.col-5.mb-4
           img(src='@/assets/curso/temas/tema3/img6.png', alt='')
         .col-lg-10.col-md-12.col-sm-12
           p El concepto de material POP proviene de #[em Point Of Purchase], por sus siglas en inglés; su traducción directa es punto de compra; que se refiere al material situado en los lugares donde se exhiben los productos con el fin de atraer la atención del cliente para motivarlos a una acción de compra (Yate, 2021).
@@ -373,7 +374,7 @@
             li 
               i.fas.fa-check-circle
               span.mb-0 Responder a condiciones de tendencias, fechas especiales y modas.
-        .col-lg-4.col-md-6.col-4
+        .col-lg-4.col-md-6.col-7
           img(src='@/assets/curso/temas/tema3/img7.png', alt='')
   
       .mb-4.d-flex.ps-lg-0
@@ -389,15 +390,13 @@
               template(v-slot:imagen)
                 figure
                   img(src='@/assets/curso/temas/tema3/pc1.png', alt='Texto que describa la imagen')
-  
-              div(x="70%" y="14%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
+              .tarjeta.color-acento-contenido.p-4(x="70%" y="14%" numero="+")
                   .row.align-items-center.justify-content-center
                     .col-lg-6
                       .h4 Exhibidor
                       p Exponen los productos en diferentes zonas del establecimiento, que van desde el mostrador hasta los pasillos, permitiendo que los artículos se destaquen. 
                       p Originan la interacción con el cliente, haciendo que se estimule en el cliente una experiencia de compra personalizada, porque le deja analizar que el producto satisface una necesidad, permitiéndole ver, tocar y en ocasiones probar el producto. Al utilizar exhibidores POP, se pueden rentabilizar los espacios vacíos existentes en el establecimiento, ya que se aprovechan zonas donde las góndolas no pueden llegar.
-                    .col-lg-3
+                    .col-lg-4
                       img(src='@/assets/curso/temas/tema3/pc1-1.png', alt='')
   
               div(x="78%" y="31%" tooltip="Ver más" numero="+")
@@ -597,7 +596,7 @@
                 .tarjeta.white-card.p-4
                   .row.align-items-center.justify-content-center
                     .col-lg-6
-                      .h4 Banner o pendón
+                      .h4 #[em Banner] o pendón
                       p Pieza publicitaria decorativa colgante que sirve para destacar una categoría, marca o producto y que está situada en el punto de venta. Generalmente son de gran formato y pueden colgar del techo, de la pared, entre columnas o postes o incluso puede tener una estructura autosostenible. Sus funciones son las de magnificar el producto o marca, orientar al cliente, destacar el distintivo visual y ser usado en eventos o fechas especiales como activación de marca, lanzamiento de nuevos productos o promociones especiales.
                     .col-lg-3
                       img(src='@/assets/curso/temas/tema3/pc1-21.png', alt='')
@@ -616,7 +615,7 @@
                   .row.align-items-center.justify-content-center
                     .col-lg-6
                       .h4 Banderines
-                      p Son instrumentos de ambientación en la zona comercial que destaca un marca o producto en el punto de venta. Sus funciones son las de aumentar la presencia de la marca o producto, ayudar a las promociones en temporadas especiales (Día del Padre o de la Madre aniversarios, etc.) y utilizar el espacio bajo el techo como medio publicitario.
+                      p Son instrumentos de ambientación en la zona comercial que destaca un marca o producto en el punto de venta. Sus funciones son las de aumentar la presencia de la marca o producto, ayudar a las promociones en temporadas especiales (Día del Padre o de la Madre, aniversarios, etc.) y utilizar el espacio bajo el techo como medio publicitario.
                     .col-lg-3
                       img(src='@/assets/curso/temas/tema3/pc1-23.png', alt='')
   
@@ -634,7 +633,7 @@
         h2 3.6 Omnicanalidad
   
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema3/img8.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           p La omnicanalidad busca ofrecer una experiencia de cliente cohesiva y significativa, independientemente del canal utilizado, ya sea tradicional o digital. Esta estrategia, ampliamente aceptada por empresas y estrategas de #[em marketing], aún cuenta con pocos casos de implementación completa debido a su novedad (Romero, Maldonado y Núñez, 2021).
@@ -647,7 +646,7 @@
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
-          p.mb-5 Herramientas como el #[em Customer Journey], el #[em Buyer] Persona, diagnósticos de madurez y nuevas tecnologías facilitan la ejecución a lo largo de la cadena de valor del cliente. El diagnóstico de madurez evalúa y mejora la aplicación práctica de estrategias, llevando a una mayor calidad en el desarrollo de software.
+          p.mb-5 Herramientas como el #[em Customer Journey], el #[em Buyer] Persona, diagnósticos de madurez y nuevas tecnologías facilitan la ejecución a lo largo de la cadena de valor del cliente. El diagnóstico de madurez evalúa y mejora la aplicación práctica de estrategias, llevando a una mayor calidad en el desarrollo de #[em software].
           .mb-4.d-flex.ps-lg-0
             .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
               h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") De la multicanalidad a la omnicanalidad
@@ -660,13 +659,13 @@
       .row.justify-content-center(data-aos="zoom-in-left").mb-5
         .col-sm-12.col-md-12.col-lg-10
           .titulo-sexto.color-acento-contenido
-            h5 Figura 5. 
+            h5 Figura 3. 
             | Multicanalidad a omnicanalidad 
           figure
-            img(src='@/assets/curso/temas/tema3/fig4.png', alt='La figura 4 describe la transición de la multicanalidad a la omnicanalidad en la atención al cliente. En la multicanalidad, el cliente puede interactuar con la empresa a través de diversos canales (redes sociales, tienda, correo, sitio web, teléfono), pero de forma independiente. En contraste, la omnicanalidad integra todos estos canales, permitiendo una experiencia unificada y coherente, donde la información del cliente se comparte entre los diferentes puntos de contacto, mejorando la satisfacción y eficiencia en la comunicación.')
+            img(src='@/assets/curso/temas/tema3/fig4.png', alt='La figura 3 describe la transición de la multicanalidad a la omnicanalidad en la atención al cliente. En la multicanalidad, el cliente puede interactuar con la empresa a través de diversos canales (redes sociales, tienda, correo, sitio web, teléfono), pero de forma independiente. En contraste, la omnicanalidad integra todos estos canales, permitiendo una experiencia unificada y coherente, donde la información del cliente se comparte entre los diferentes puntos de contacto, mejorando la satisfacción y eficiencia en la comunicación.')
             figcaption.mt-2 Nota. Tomada de Zendesk (s.f).
   
-      p.mb-4 Esta gestión integral del relacionamiento con los clientes necesita de soluciones tecnológicas que lo soporten y que, además, sumen valor a lo largo del #[em Customer Journey], entregando consistencia entre los canales usados en cada uno de los diferentes “momentos de la verdad” (puntos relevantes de la relación con el cliente). Desde el momento en que realiza una compra, hasta el contacto con el servicio de atención al cliente, asentar una reclamación, analizar un extracto bancario online o efectuar un cambio de tarifa de una empresa de suministros, siempre se debe reflejar consistencia y se debe actuar como canales interrelacionados. Los clientes pueden permitir distintos niveles de servicio en los distintos canales esperando que la propuesta de valor de marca sea coherente entre ellos. 
+      p.mb-4 Esta gestión integral del relacionamiento con los clientes necesita de soluciones tecnológicas que lo soporten y que, además, sumen valor a lo largo del #[em Customer Journey], entregando consistencia entre los canales usados en cada uno de los diferentes “momentos de la verdad” (puntos relevantes de la relación con el cliente). Desde el momento en que realiza una compra, hasta el contacto con el servicio de atención al cliente, asentar una reclamación, analizar un extracto bancario #[em online] o efectuar un cambio de tarifa de una empresa de suministros, siempre se debe reflejar consistencia y se debe actuar como canales interrelacionados. Los clientes pueden permitir distintos niveles de servicio en los distintos canales esperando que la propuesta de valor de marca sea coherente entre ellos. 
       
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
@@ -694,7 +693,7 @@
               .col-lg-7.col-md-12.col-sm-12
                 h4 Personalización  de las interacciones.
                 p Gracias al conocimiento integral del cliente se puede comenzar a planear la interacción con él para poderle ofrecer un servicio que se adapte a su perfil. Es vital hacer sentir al cliente como alguien “relevante” para la marca. Por eso se le debe hablar con nombre propio, tratarlo de forma natural y amena, y siempre siendo coherentes con sus deseos y necesidades, de esta manera, se fortalece su vínculo emocional con la marca.
-          .py-3.py-md-5(titulo="Interacciones")
+          .py-3.py-md-5(titulo="Propuestas de valor")
             .row.justify-content-center
               .col-lg-3.col-md-5.col-5.mb-4
                 img(src='@/assets/curso/temas/tema3/tab1-3.png', alt='')

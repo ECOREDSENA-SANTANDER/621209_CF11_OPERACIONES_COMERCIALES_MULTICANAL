@@ -8,7 +8,7 @@
         h1 Productos y servicios
       
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema2/img1.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           p El producto es cualquier artículo que se ofrece en el mercado para su compra y que satisface una necesidad o deseo. Además, tiene atributos y beneficios que lo pueden hacer diferente a la competencia. Algunos de los productos sufren un proceso de transformación para llegar a su forma final con la que se exhibirá en los establecimientos (Chávez, 2016).
@@ -40,7 +40,7 @@
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Características de la gama de productos
           img.icon(src='@/assets/curso/temas/icon.svg') 
 
-      p Este tema está relacionado con las dimensiones del surtido, discutidas en el módulo anterior. En esta sección, profundizaremos en el concepto y en la gama de productos que se define mediante las siguientes variables:
+      p Este tema está relacionado con las dimensiones del surtido, discutidas en el módulo anterior. En esta sección, se profundiza en el concepto y en la gama de productos que se define mediante las siguientes variables:
 
       .row.fondo2.align-items-center(data-aos="fade-down").mb-5
   
@@ -133,7 +133,7 @@
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-4
           img(src='@/assets/curso/temas/tema2/img2.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           .bg01.borde-redondo.p-4
@@ -141,35 +141,35 @@
               .tarjeta.tarjeta--slyder
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly2-1.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-1.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Generadores de utilidades.
                     p Se refiere a aquellos que se cobran y que el cliente está dispuesto a pagar. Por ejemplo, marcas funerarias, de seguros, de diversiones, financieras, de servicios médicos, entre otros. 
               .tarjeta.tarjeta--slyder
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly2-2.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-2.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Mixtos.
                     p Es cuando el producto necesita del componente de servicio, sin importar si es en un grado mayor o menor. Como ejemplo se pueden citar los restaurantes, porque el producto va a variar de precio de acuerdo con la calidad de los servicios y atención prestada (música de fondo o en vivo, espacios amplios y cómodos, zonas de juegos para los niños, entre otros).
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly2-3.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-3.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Servicios de apoyo.
                     p Son servicios adicionales que ayudan a vender un producto al proporcionar apoyo extra, como el servicio  de entrega a domicilio, atención clara, oportuna, entre otros. Estos servicios están diseñados para motivar al cliente a realizar una compra. Por ejemplo, en la venta de camionetas 4 x 4, se puede ofrecer a los clientes y sus familias pases de cortesía para asistir a un evento durante el fin de semana, permitiéndoles experimentar el vehículo en un entorno real.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Servicio de entrega.
                     p.mb-4 El cliente del siglo XXI quiere hacer el mínimo esfuerzo en la compra de un artículo. Este apartado se refiere a tener un excelente servicio de entrega y manejo de mercancías, con el apoyo de pedidos vía teléfono, fax, correo electrónico y WhatsApp. Así mismo, se deben dar facilidades para su adquisición, pues esto, es vital en el momento de comprar productos.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Servicio de crédito.
                     p En la actualidad es el más requerido por los clientes para productos que le resulten costosos. Puede ser por medio de tarjetas de crédito, cheques por fechados, cuentas corrientes, tarjetas débito, etc.
@@ -184,25 +184,25 @@
           TabsA.color-acento-botones.mb-5
             .tarjeta.bgrosado.p-4(titulo="Intangibilidad del servicio")
               .row.justify-content-center.align-items-center
-                .col-lg-4.col-md-6.col-6
+                .col-lg-4.col-md-6.col-6.mb-3
                   img(src='@/assets/curso/temas/tema2/tab1-1.png', alt='')
                 .col-lg-7.col-md-12.col-sm-12  
                   p Los servicios no pueden ser vistos, probados, sentidos, olfateados o escuchados. En el sector de servicios, se promocionan experiencias intangibles. Por ejemplo, el servicio de un seguro médico es intangible, no se toca, pero se tiene la seguridad que cuenta con médicos cuando se requieran.
             .tarjeta.bgrosado.p-4(titulo="Carácter indisociable del servicio")
               .row.justify-content-center.align-items-center
-                .col-lg-4.col-md-6.col-6
+                .col-lg-4.col-md-6.col-6.mb-3
                   img(src='@/assets/curso/temas/tema2/tab1-2.png', alt='')
                 .col-lg-7.col-md-12.col-sm-12  
                   p Es cuando los servicios se producen y se consumen al mismo tiempo y no se pueden separar de sus proveedores, ya sean estos, personas, máquinas o instalaciones. Por ejemplo, un restaurante vende comida, que es un producto, pero sustancialmente es un servicio y en este caso solo se hace tangible cuando se consume.
             .tarjeta.bgrosado.p-4(titulo="Carácter  perecedero del servicio")
               .row.justify-content-center.align-items-center
-                .col-lg-4.col-md-6.col-6
+                .col-lg-4.col-md-6.col-6.mb-3
                   img(src='@/assets/curso/temas/tema2/tab1-3.png', alt='')
                 .col-lg-7.col-md-12.col-sm-12  
                   p Los servicios no se pueden conservar, acumular o archivar en un cajón para luego ponerlos en venta, o para usarlos. Por ejemplo, los minutos en los que un odontólogo no tiene pacientes, no se puede acumular para venderlos más adelante, simplemente porque esos minutos ya no vuelven y se pierden por siempre.
             .tarjeta.bgrosado.p-4(titulo="Variabilidad del servicio")
               .row.justify-content-center.align-items-center
-                .col-lg-4.col-md-6.col-6
+                .col-lg-4.col-md-6.col-6.mb-3
                   img(src='@/assets/curso/temas/tema2/tab1-4.png', alt='')
                 .col-lg-7.col-md-12.col-sm-12  
                   p Se refiere a  que la calidad en el servicio puede variar porque va a depender de quién los ofrece, cuándo, dónde y cómo los ofrece.
@@ -211,10 +211,10 @@
         h2 2.3 La estrategia comercial de ventas
   
       .row.justify-content-center.align-items-end.mb-5
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema2/img3.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
-          p Silva. (2020), afirma que, en un mundo donde la transformación digital se ha acelerado, y con un mercado sellado por una competencia extrema, se hace vital que toda marca cuente con una estrategia comercial de ventas que se centre en la satisfacción de los clientes.
+          p Silva (2020), afirma que, en un mundo donde la transformación digital se ha acelerado, y con un mercado sellado por una competencia extrema, se hace vital que toda marca cuente con una estrategia comercial de ventas que se centre en la satisfacción de los clientes.
           p Si la marca desea suministrar la mejor experiencia a los clientes, requiere tener una estrategia comercial bien diseñada, la cual enlace con el consumidor y lo motive no solo a comprar, sino a formar parte de la “tribu” de marca, es decir, conjunto de personas que están identificados con un producto, compartiendo ciertos argumentos y teniendo nociones parecidas sobre la marca.
           .cajon.color-primario.p-4
             p Hoy en día, en pleno siglo XXI, contar con una estrategia comercial es cuestión de supervivencia. Aproximadamente el 80 % de las compañías que no diseñan nuevas estrategias de #[em marketing] y ventas desaparecen del mercado. 
@@ -232,7 +232,7 @@
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
       .row.justify-content-center.align-items-center.mb-5.mt-5
-        .col-lg-3.col-md-5.col-5
+        .col-lg-3.col-md-5.col-5.mb-4
           img(src='@/assets/curso/temas/tema2/img5.png', alt='')
         .col-lg-9.col-md-12.col-sm-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -352,38 +352,38 @@
             LineaTiempoC.color-acento-contenido(text-small)
               .row.justify-content-center.align-items-center(titulo="Paso 1")
                 .col-md-3
-                  img(src='@/assets/curso/temas/tema2/ps1-1.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-1.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Elaborar la matriz DOFA
                   p Para la ejecución de este paso se debe tener el #[em brief] empresarial, especialmente conocer el contexto y la filosofía de la empresa, o sea, la visión, misión y valores declarados por la misma.
               .row.justify-content-center.align-items-center(titulo="Paso 2")
                 .col-md-3
-                  img(src='@/assets/curso/temas/tema2/ps1-2.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-2.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Definir los objetivos comerciales
                   p Es importante saber que estos objetivos no comprenden solo números de ventas, sino también la penetración del mercado, la fidelización de los clientes, el posicionamiento de marca, la percepción e imagen de la marca, entre otros aspectos.
               .row.justify-content-center.align-items-center(titulo="Paso 3")
                 .col-md-3
-                  img(src='@/assets/curso/temas/tema2/ps1-3.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-3.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Establecer la cartera de clientes
                   p Tener muy claro cuál es el segmento al cual van dirigidos los productos de la marca. Resulta imposible desarrollar acciones de ventas si no se conoce quiénes son y cómo piensan los clientes a los cuales se dirigirá cada producto.
               .row.justify-content-center.align-items-center(titulo="Paso 4")
                 .col-md-3
-                  img(src='@/assets/curso/temas/tema2/ps1-4.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-4.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Definir responsables, plazos y mecanismos de control para cada una de las acciones que se diseñen
                   p Es importante contar con un registro de las personas que hacen parte del equipo de ventas y los ejecutivos comerciales, de tal forma que puedan acceder a un ciclo de trabajo uniforme y concreto, donde se perciba quién es el responsable de cada acción, qué fechas de cumplimiento tiene y cuáles son los mecanismos de control que se tienen, todo con el fin de poder tener oportunidades de mejora en cuanto se tengan indicadores. 
                   p La mayoría de las empresas que trabajan con sistemas de control de ventas tienen mejores resultados e ingresos más altos.
               .row.justify-content-center.align-items-center(titulo="Paso 5")
                 .col-md-3
-                  img(src='@/assets/curso/temas/tema2/ps1-5.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-5.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Utilizar la información del embudo de ventas para diseñar las acciones de la estrategia comercial
                   p Las acciones deben diseñarse de manera personalizada y para tener información sobre los hábitos y el comportamiento del cliente, el embudo es primordial para obtener estos datos. (Embudo de ventas: describe el proceso de conversión de prospectos a clientes, incluyendo métricas clave como tasas de conversión y tiempo en cada etapa.)
               .row.justify-content-center.align-items-center(titulo="Paso 6")
                 .col-md-3
-                  img(src='@/assets/curso/temas/tema2/ps1-6.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-6.png', alt='Texto que describa la imagen')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Diseñar una estrategia comercial con soporte omnicanal
                   p Es el uso creativo de los medios #[em offline] y #[em online] para beneficio de la marca. Las empresas que acogen una estrategia comercial omnicanal tienen mayores posibilidades de retener más clientes y de lograr mejores resultados.
@@ -392,8 +392,8 @@
       #t_2_4.titulo-segundo.mb-5
         h2 2.4 Las ventas
   
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-1.col-md-2.col-2
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-1.col-md-2.col-3.mb-3
           img(src='@/assets/curso/temas/tema2/img8.png', alt='')
         .col-lg-11.col-md-12.col-col-sm-12
           p Es vital que los empleados de la empresa, y en especial los ejecutivos de ventas, conozcan los productos de la marca. De esta manera los trabajadores reflejan el compromiso que poseen como colaboradores. No cabe duda de que la razón de ser que tiene toda empresa es satisfacer al cliente, pero para conseguirlo, primero debe conocer las necesidades y lo que motiva al cliente para tomar una decisión de compra; de esta manera se orientan mejor todos los esfuerzos para poder lograr los objetivos trazados (Navarro, 2012).
@@ -405,7 +405,7 @@
   
       p.mb-4 Una de las más importantes labores que debe tener un especialista en mercadeo es estar pendiente constantemente del entorno para intentar realizar un pronóstico de lo que puede suceder en los próximos meses y años, porque eso ayuda con la elaboración de estrategias entre diferentes escenarios o situaciones. Como ejemplo se puede mencionar lo que la sociedad ha vivido con el Covid-19 y la forma en que muchas empresas pudieron sostenerse o incluso, mejorar sus ventas porque diseñaron estrategias para lograrlo.
   
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-3
         .col-lg-10.col-md-12.col-sm-12.bordenaranjaredondo.p-5
           .titulo-nuevo.mt-2
             | 
@@ -413,11 +413,8 @@
           p.mb-4 El entorno externo no depende de la empresa porque tiene variables o factores que nacen fuera de ella, por lo tanto, no pueden ser controlados por la empresa, este se integra por los siguientes factores:
       
       .row.fondocontenedor.justify-content-center.align-items-center.mb-5
-  
-        .titulo-sexto.color-acento-contenido
-          h5 Figura 2. 
-          | Análisis “PESTEL” 
-  
+        .py-3
+        p Seleccione cada punto interactivo para conocer los factores del entorno externo que pueden influir en las ventas de una empresa.
         .row.justify-content-center.align-items-center.mb-5
           .col-lg-12
               ImagenInfografica.color-acento-botones
@@ -450,9 +447,7 @@
               h4 Entorno interno
             p.mb-4 El entorno interno sí depende de la empresa porque tiene variables o factores que nacen dentro de ella, por lo tanto, se pueden controlar de tal forma que la empresa pueda tener un mejoramiento continuo. Los siguientes son esos factores:
   
-      .titulo-sexto.color-acento-contenido
-        h5 Figura 3. 
-        | Factores entorno interno 
+      p Seleccione cada letra para conocer los factores internos que pueden influir en las ventas de una empresa.
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12
@@ -503,35 +498,35 @@
             .col-md-7
               p Se ejecuta a través de un catálogo que se envía por correo postal o se pone directamente en el buzón del cliente. Puede tener el formato de “inserto”, que es un anuncio pagado tipo volante o folleto que se ubica dentro de las páginas de las revistas o periódicos. 
               p Este tipo de ventas tiene como ventaja que puede describir la información del producto o servicio con gran detalle. Pero, en la actualidad, con la presencia del correo electrónico su uso ha disminuido considerablemente. 
-            .col-md-4.mb-4.mb-md-0
+            .col-md-4.mb-4.mb-md-0.col-8
               img(src='@/assets/curso/temas/tema2/aco1-1.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Ventas telefónicas")
             .col-md-7
               p También conocida como #[em telemarketing], especialmente se usa en mercados de gran consumo o para lanzar productos nuevos o en promoción especial.
               P Con la aparición de la telefonía celular y de internet, ya no es tan usual ver esta técnica en la actualidad. 
-            .col-md-4.mb-4.mb-md-0
+            .col-md-4.mb-4.mb-md-0.col-8
               img(src='@/assets/curso/temas/tema2/aco1-2.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Ventas electrónicas")
             .col-md-7
               p Es el tipo de venta que se respalda en la transferencia de datos a través del ecosistema digital.
               p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios webs y hasta el WhatsApp sirven de apoyo.
-            .col-md-4.mb-4.mb-md-0
+            .col-md-4.mb-4.mb-md-0.col-8
               img(src='@/assets/curso/temas/tema2/aco1-3.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Ventas por televisión")
             .col-md-7
               p Se conocen también como televenta y se refieren a la demostración de productos o servicios de forma minuciosa; la idea es destacar los beneficios como por ejemplo un precio llamativo (puede ser una oferta o descuento) o también las ventajas competitivas.
               p Por lo general, se transmiten diariamente en el mismo horario familiar.
-            .col-md-4.mb-4.mb-md-0
+            .col-md-4.mb-4.mb-md-0.col-8
               img(src='@/assets/curso/temas/tema2/aco1-4.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Venta personal")
-            .col-md-7
+            .col-md-7.mb-4
               p En esta técnica sí hay contacto directo entre vendedor y cliente. Puede tener dos variables: ejecutarse por dentro o por fuera de las sedes de la empresa.
               .titulo-sexto.color-acento-contenido
-                h5 Figura 4. 
+                h5 Figura 2. 
                 | Venta personal
               img(src='@/assets/curso/temas/tema2/aco1-5-2.png', alt='Diagrama de flujo simple que muestra cómo la Venta Personal, se divide en venta interna o dentro del establecimiento y venta externa o fuera del establecimiento.')
-            .col-md-4.mb-4.mb-md-0
-              img(src='@/assets/curso/temas/tema2/aco1-5-1.png', alt='')
+            .col-md-4.mb-4.mb-md-0.col-8
+              img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/aco1-5-1.png', alt='')
   
       .row
         .col-md-5
@@ -567,10 +562,10 @@
       .row
         .col-md-5
           .cajon.color-primario.p-4.mb-4
-            p Por su lado, en las ventas externas, se pueden clasificar en: 
+            p Por su lado, las ventas externas, se pueden clasificar en: 
   
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-4
           img(src='@/assets/curso/temas/tema2/img10.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           .bg01.borde-redondo.p-4
@@ -578,21 +573,21 @@
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly3-1.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-1.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Ventas a domicilio.
                     p.mb-4 Cuando la venta se ejecuta en el lugar de ubicación del cliente y por lo general en ese instante se hace la orden de compra y luego se hace entrega del producto o servicio. Este tipo de ventas pueden ser “venta por cita en el domicilio del cliente”, cuando el vendedor visita al consumidor con una cita previa acordada por ambos; “venta de puerta en puerta”, cuando el vendedor, sin pedir cita, toca a la puerta del domicilio o lugar de estadía del cliente; y “venta en el lugar de trabajo”, cuando el vendedor visita al cliente en horario laboral en su oficina, previa cita.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly3-2.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-2.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Venta ambulante.
                     p.mb-4 Cuando la venta no tiene un lugar fijo. Lo que sí es seguro es que se realiza en la calle y por lo general no presenta garantía en la calidad del producto.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly3-3.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-3.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Auto venta.
                     p.mb-4 Cuando la empresa establece itinerarios para llevar a los clientes los productos que normalmente son perecederos y se consumen diariamente. El vendedor usa una ruta ya establecida de manera estratégica y entrega los productos a clientes que por lo general son tiendas minoristas.
@@ -608,16 +603,16 @@
       #t_2_5.titulo-segundo.mb-5
         h2 2.5 Buenas Prácticas de Manufactura (BPM)
   
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-1.col-md-2.col-2
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-1.col-md-2.col-3.mb-3
           img(src='@/assets/curso/temas/tema2/img11.png', alt='')
         .col-lg-11.col-md-12.col-sm-12
           p Estas  son las normas establecidas oficialmente por las empresas que actualmente regulan a las Plantas Procesadoras de Alimentos (PPA) en relación con los procedimientos de fabricación, limpieza y desinfección, higiene personal, manipulación, controles, registros y almacenamiento, garantizando así la calidad y seguridad de los alimentos (Amagua, Coronel, Quintana y Reyes, 2016).
   
       p.mb-4 El uso de las BPM en la industria de alimentos puede ser empleado alrededor de las PPA o al interior de estas:
   
-      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
-        .col-lg.col-md-12.col-sm-12
+      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
+        .col-lg.col-md-12.col-sm-12.mb-4
           .bordeazulredondo.p-4
             .row.align-items-center.justify-content-center
               .col-lg-10.col-md-5.col-5
@@ -626,7 +621,7 @@
             p.mb-5.text-center En los pisos, paredes, cielo raso y desagües.
             .row.mb-5.mt-5
             .row.mb-3
-        .col-lg.col-md-12.col-sm-12
+        .col-lg.col-md-12.col-sm-12.mb-4
           .bordeazulredondo.p-4
             .row.align-items-center.justify-content-center
               .col-lg-10.col-md-5.col-5
@@ -634,7 +629,7 @@
             h4.mb-0.text-center En los alrededores
             p.mb-5.text-center Zonas externas a las PPA para presentar facilidades sanitarias.
             .row.mb-5
-        .col-lg.col-md-12.col-sm-12
+        .col-lg.col-md-12.col-sm-12.mb-4
           .bordeazulredondo.p-4
             .row.align-items-center.justify-content-center
               .col-lg-10.col-md-5.col-5
@@ -642,7 +637,7 @@
             h4.mb-0.text-center Con equipos
             p.mb-5.text-center Desinfección, mantenimiento y calibración de los equipos.
             .row.mb-4
-        .col-lg.col-md-12.col-sm-12
+        .col-lg.col-md-12.col-sm-12.mb-4
           .bordeazulredondo.p-4
             .row.align-items-center.justify-content-center
               .col-lg-10.col-md-5.col-5
@@ -650,7 +645,7 @@
             h4.mb-0.text-center En almacenes
             p.mb-5.text-center Ubicación interna, buena ventilación e iluminación.
             .row.mb-4
-        .col-lg.col-md-12.col-sm-12
+        .col-lg.col-md-12.col-sm-12.mb-4
           .bordeazulredondo.p-4
             .row.align-items-center.justify-content-center
               .col-lg-10.col-md-5.col-5
@@ -697,7 +692,7 @@
   
       p.mb-4 La empresa siempre debe procurar que, de manera permanente, se hagan acciones como barrer, limpiar, enjuagar, escurrir, desinfectar. Existen algunos factores que afectan a la limpieza y desinfección de las PPA: 
   
-      .row(data-aos="fade-down")
+      .row(data-aos="fade-down").mb-2
         .col-lg-4.col-md-12.col-12
           .tarjeta-avatar
             img.mt-2(src='@/assets/curso/temas/tema2/tar6-1.png' alt='')
@@ -706,7 +701,7 @@
                 .p-4
                   br
                   h4.mt-5.text-center Diseño de la planta
-                  p.mt-2.mb-5.text-center Materiales de construcción. diseño arquitectónico de las instalaciones.
+                  p.mt-2.mb-5.text-center Materiales de construcción, diseño arquitectónico de las instalaciones.
         .col-lg-4.col-md-12.col-12
           .tarjeta-avatar
             img.mt-2(src='@/assets/curso/temas/tema2/tar6-2.png' alt='')
@@ -733,14 +728,14 @@
           .bgrosado.p-4.borde-redondo
             h4.mb-3.text-center Zona 1
             .row.align-items-center.justify-content-center
-              .col-9
+              .col-7
                 img(src='@/assets/curso/temas/tema2/tar7-1.png', alt='').mb-4
             p.text-center.mb-4 Superficies que tengan contacto con el producto, bandas transportadoras, mesas de trabajo, sierras, tuberías, tanques, rebanadoras, llenadores, herramientas. 
         .col-lg-3.col-md-6.col-12.mb-4
           .bgrosado.p-4.borde-redondo
             h4.mb-3.text-center Zona 2
             .row.align-items-center.justify-content-center
-              .col-9
+              .col-7
                 img(src='@/assets/curso/temas/tema2/tar7-2.png', alt='').mb-4
             p.mb-5.text-center Exterior de los equipos, unidades de refrigeración, pisos, marcos, coches de transporte.
             .row.mb-5
@@ -748,7 +743,7 @@
           .bgrosado.p-4.borde-redondo
             h4.mb-3.text-center Zona 3
             .row.align-items-center.justify-content-center
-              .col-9
+              .col-7
                 img(src='@/assets/curso/temas/tema2/tar7-3.png', alt='').mb-4
             p.mb-5.text-center Teléfonos, montacargas, intercomunicadores, drenajes, paneles.
             .row.mb-5
@@ -756,7 +751,7 @@
           .bgrosado.p-4.borde-redondo
             h4.mb-3.text-center Zona 4
             .row.align-items-center.justify-content-center
-              .col-9
+              .col-7
                 img(src='@/assets/curso/temas/tema2/tar7-4.png', alt='').mb-4
             p.mb-5.text-center Vestidores, pasillos, cafetería, cuarto de entrenamientos, salas de reuniones, lavandería.
             .row.mb-5
@@ -767,7 +762,7 @@
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
       .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema2/img12.png', alt='')
         .col-lg-8.col-md-12.col-col-sm-12
           p.mb-4 Existen dos métodos de limpieza:
@@ -776,28 +771,28 @@
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly4-1.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-1.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Limpieza en húmedo
-                    p.mb-4 Utiliza detergentes y agua. Se usan los siguientes procedimientos: Pre enjuague para eliminar la suciedad y ablandarla, de tal manera que luego sea fácilmente contrarrestada por el detergente. Luego viene la limpieza con el detergente en la que se pueden tener a disposición compuestos para efectuar la limpieza, como lo son álcalis, fosfatos, ácidos, humectantes y agentes quelantes; cada compuesto se aplica según sea la necesidad.
+                    p.mb-4 Utiliza detergentes y agua. Se usan los siguientes procedimientos: Preenjuague para eliminar la suciedad y ablandarla, de tal manera que luego sea fácilmente contrarrestada por el detergente. Luego viene la limpieza con el detergente en la que se pueden tener a disposición compuestos para efectuar la limpieza, como lo son álcalis, fosfatos, ácidos, humectantes y agentes quelantes; cada compuesto se aplica según sea la necesidad.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly4-2.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-2.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Limpieza en seco
                     p.mb-4 Elimina la suciedad seca sin usar agua; se puede desarrollar a través de aspiradora, soplador (aire a presión), escoba, cepillo, raspador, etc.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly4-3.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-3.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Desinfección
                     p.mb-4 Se deben definir planes validados de limpieza y desinfección por cada área y equipo, teniendo en cuenta la frecuencia, método, producto y responsable directo de cada área. Se debe hacer una selección de detergentes y desinfectantes, además de tener claros los datos técnicos y precauciones, con disolución adecuada a la hora de desinfectar. Todas las superficies que entren en contacto con los alimentos incluyen herramientas y guantes, que deben limpiarse y desinfectarse de forma frecuente. Las superficies que se usan para fabricar alimentos de baja humedad deben estar secos y en condiciones sanitarias.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img(src='@/assets/curso/temas/tema2/sly4-3.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-3.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Monitoreo ambiental
                     p.mb-4 Las pruebas para el control  ambiental son una manera de calcular la efectividad de los procesos sanitarios: evaluar las superficies y aguas de enjuague bioluminiscencia. Proteínas descompuestas: método de detección colorimétrico (verde, gris, púrpura). Se deben tener claro cuáles son los puntos de monitoreo, los tanques de almacenamiento, las conexiones en sistemas, los cortadores.
@@ -821,7 +816,7 @@
               h2 Definiciones para elaborar un Programa de Control de Plagas (PCP):
   
         .row.justify-content-center.align-items-center.mb-4
-          .col-lg-3.col-md-5.col-5
+          .col-lg-3.col-md-5.col-5.mb-4
             img(src='@/assets/curso/temas/tema2/img13.png', alt='')
           .col-lg-7.col-md-12.col-sm
             ul.lista-ul--color.color-acento-contenido.fa-ul
@@ -905,8 +900,8 @@
       #t_2_6.titulo-segundo
         h2 2.6 Las demostraciones
   
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-md-6.col-6
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-4.col-md-6.col-6.mb-4
           img(src='@/assets/curso/temas/tema2/img15.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
           p La convicción es un tema vital en el proceso de ventas. La convicción radica en mostrar pruebas, hechos que comprueben lo que se afirma por parte de la empresa, bien sea publicitariamente o a través del equipo de la fuerza de ventas. Por eso al cliente se le debe convencer, pero muy importante, entusiasmarlo a la compra, de lo contrario sería inútil e improductivo. El cliente  no solo debe estar convencido de las características del producto, sino, más importante aún, de las ventajas y beneficios que este le proporciona al comprarlo. Por ello, la demostración es una acción vital y decisiva a través de la cual el vendedor puede persuadir a sus clientes.
@@ -914,23 +909,23 @@
           .row
             .col-lg-6.col-md-12.col-sm-12
               .row.justify-content-center.align-items-center
-                .col-lg-3.col-md-2.col-3
+                .col-lg-3.col-md-2.col-3.mb-3
                   img(src='@/assets/curso/temas/tema2/icono1.png', alt='')
                 .col-lg-9.col-md-10.col-sm-12
                   p #[b Comprensión:] entender qué tipo de producto es.
               .row.justify-content-center.align-items-center
-                .col-lg-3.col-md-2.col-3
+                .col-lg-3.col-md-2.col-3.mb-3
                   img.mt-4(src='@/assets/curso/temas/tema2/icono2.png', alt='')
                 .col-lg-9.col-md-10.col-sm-12
                   p #[b Interés:] generar el deseo de saber más acerca del producto.
             .col-lg-6.col-md-12.col-sm-12
               .row.justify-content-center.align-items-center
-                .col-lg-3.col-md-2.col-3
+                .col-lg-3.col-md-2.col-3.mb-3
                   img(src='@/assets/curso/temas/tema2/icono3.png', alt='')
                 .col-lg-9.col-md-10.col-sm-12
                   p #[b Credulidad:] confiar en las ventajas del producto.
               .row.justify-content-center.align-items-center
-                .col-lg-3.col-md-2.col-3
+                .col-lg-3.col-md-2.col-3.mb-3
                   img(src='@/assets/curso/temas/tema2/icono4.png', alt='')
                 .col-lg-9.col-md-10.col-sm-12
                   p #[b Persuasión:] motivar al posible cliente para que compre el producto por los beneficios exhibidos en la demostración.
@@ -980,7 +975,7 @@
               span.mb-0 Clarifica conceptos que podrían ser abstractos.
             li 
               i.fas.fa-check-circle
-              span.mb-0 Ahorra tiempo span al exponer de manera personalizada las ventajas y beneficios del producto.
+              span.mb-0 Ahorra tiempo al exponer de manera personalizada las ventajas y beneficios del producto.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema2/img16.png', alt='')
   
@@ -990,7 +985,7 @@
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
       .row.align-items-center.justify-content-center
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema2/img17.png', alt='')
         .col-lg-8.col-md-12.col-col-sm-12
           p Un vendedor comercial, siendo un excelente orador y exhibidor de productos, puede mejorar su actuación utilizando otros canales como el audio y el video para reforzar su mensaje, una técnica conocida como demostración.
@@ -1005,7 +1000,7 @@
   
       .row.align-items-center.justify-content-center
         .col-sm-12.col-md-12.col-lg-8
-            PasosA.color-acento-contenido.mb-5(tipo="l")
+            PasosA.color-acento-contenido.mb-3(tipo="l")
               .row.align-items-end
                 .col-auto
                   h4.mb-4  Participación
@@ -1104,7 +1099,7 @@
                   i.fas.fa-check-circle
                   span.mb-0 Demostración efectiva en el tiempo preciso. 
         .col-lg-6.col-md-12.col-sm-12
-          p.mt-3 La manera en que el vendedor ordena su material y sincroniza la demostración, incide directamente en la selección de las herramientas visuales (tales como fotografías, esquemas, gráficos, diagramas, pruebas, etc). Esta selección brinda el más alto potencial para optimizar las demostraciones debido a las siguientes razones:
+          p.mt-3 La manera en que el vendedor ordena su material y sincroniza la demostración, incide directamente en la selección de las herramientas visuales (tales como fotografías, esquemas, gráficos, diagramas, pruebas, etc.). Esta selección brinda el más alto potencial para optimizar las demostraciones debido a las siguientes razones:
           .row.align-items-center.justify-content-center
             .col-lg-4.col-md-6.col-6
               img(src='@/assets/curso/temas/tema2/tar10-2.png', alt='')
@@ -1125,7 +1120,7 @@
         h2 2.7 Las degustaciones
       
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-6.col-6
+        .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema2/img18.png', alt='')
         .col-lg-8.col-md-12.col-sm-12    
           p Es una actividad promocional que se constituye en una importante herramienta para mostrar al público las bondades de un nuevo producto, un nuevo sabor, una nueva fórmula o un producto que tuvo cambios y lo mejoraron, entre otros. Hay diferentes opciones para llegar e impactar al cliente potencial con la intención de que pruebe el producto, que en realidad es el objetivo central de la actividad (Universidad América Latina - UAL, 2021). 
@@ -1138,17 +1133,17 @@
       .row.mb-4
         AcordionA.bg07(tipo="b" clase-tarjeta="tarjeta bg07")
           .row.justify-content-center.align-items-center(titulo="Preparación")
-            .col-lg-2.col-md-3.col-6
+            .col-lg-2.col-md-3.col-6.mb-3
               img(src='@/assets/curso/temas/tema2/aco2-1.png', alt='Texto que describa la imagen')
             .col-lg-8.col-md-12.col-sm-12
               p Hay productos que necesitan ser preparados porque pueden ser cocinados, asados o se les puede agregar algún condimento, dejando esto en responsabilidad de quien exhibe la degustación. Logrando así, la aceptación o rechazo, por parte del cliente.  Es importante tener en cuenta que no se puede alterar el sabor original con demasiados condimentos, para no afectar la intención de la degustación.
           .row.justify-content-center.align-items-center(titulo="Ejecución")
-            .col-lg-2.col-md-3.col-6
+            .col-lg-2.col-md-3.col-6.mb-3
               img(src='@/assets/curso/temas/tema2/aco2-2.png', alt='Texto que describa la imagen')
             .col-lg-8.col-md-12.col-sm-12
               p Es vital que en la creación del plan de degustación se tengan en cuenta las negociaciones necesarias con el establecimiento comercial para ejecutar la actividad de forma adecuada. Por ejemplo, la instalación de un #[em stand] o mueble degustador, su tamaño, si se requiere de tomacorriente, que esté cerca del producto en góndola, cuántas personas estarán presentes haciendo la presentación de la degustación, si se necesita refrigeración, si es necesario un espacio en el establecimiento para guardar materiales o productos, etc. 
           .row.justify-content-center.align-items-center(titulo="Personal")
-            .col-lg-2.col-md-3.col-6
+            .col-lg-2.col-md-3.col-6.mb-3
               img(src='@/assets/curso/temas/tema2/aco2-3.png', alt='Texto que describa la imagen')
             .col-lg-8.col-md-12.col-sm-12
               p La degustación brinda significativos beneficios para la marca, aunque su implementación no siempre es fácil. Por esta razón se sugiere contar  con expertos en el tema, más específicamente, de agencias promocionales que recluten, seleccionen, contraten, capaciten y supervisen al personal que desarrollará la actividad de degustación. También es vital que la actividad se realice con tiempo para que la agencia promocional pueda reunir al personal idóneo, prepararlo de la mejor forma y evitar contratiempos en el momento de la degustación. 

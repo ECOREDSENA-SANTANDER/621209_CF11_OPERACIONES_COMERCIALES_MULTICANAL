@@ -275,9 +275,8 @@ export default {
   referencias: [
     {
       referencia:
-        '¿Qué es la Gestión de Procesos? (BPM) - Guía Definitiva. (2024, 23 julio).',
-      link:
-        'https://www.boc-group.com/es/blog/bpm/fundamentos-de-la-gestion-de-procesos-de-negocio-y-su-papel-en-la-excelencia-operativa/',
+        'Rausch, T. ¿Qué es la Gestión de Procesos? (BPM). BOC Group.',
+      link: ' https://www.boc-group.com/es/blog/bpm/gestion-de-procesos-bpm/ ',
     },
     {
       referencia:
@@ -296,7 +295,7 @@ export default {
     },
     {
       referencia:
-        'Florido, M. (2021). Muestras Gratis: ¿Una estrategia de <i>marketing</i> efectiva?',
+        'Florido, M. (2015). Muestras Gratis: ¿Una estrategia de <i>marketing</i> efectiva?',
       link: 'https://www.marketingandweb.es/marketing/muestras-gratis/',
     },
     {
@@ -311,7 +310,7 @@ export default {
     },
     {
       referencia:
-        'Romero, M. J., Maldonado, C., y Núñez, L. (2021). El nuevo paradigma de la omnicanalidad. ',
+        'Romero San José, M. J., Maldonado Tiegs, C., Núñez García, L. (s. f.).  ',
       link:
         'https://www.minsait.com/sites/default/files/newsroom_documents/elnuevoparadigmadelaomnicanalidad.pdf',
     },
@@ -331,8 +330,7 @@ export default {
       link: '',
     },
     {
-      referencia:
-        'Wetto, M. (20 de Septiembre de 2017). Funciones del asesor comercial. Obtenido de Lifeder.',
+      referencia: 'Lifeder. (30 de enero de 2023). Asesor comercial.',
       link: 'https://www.lifeder.com/funciones-asesor-comercial/',
     },
     {
@@ -357,7 +355,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable Ecosistema de Recursos Educativos Digitales (RED)',
+            'Profesional G06. Responsable del Ecosistema de Recursos Educativos Digitales (RED) ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -372,24 +370,24 @@ export default {
       autores: [
         {
           nombre: 'Samuel Pinilla Hurtado',
-          cargo: 'Contratista',
+          cargo: 'Experto temático',
           centro: 'Centro de Comercio – Regional Antioquia',
         },
         {
           nombre: 'Zvi Daniel Grosman',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro Agropecuario “La Granja” – Regional Tolima',
+          centro: 'Centro Agropecuario La Granja – Regional Tolima',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Revisora metodológica y pedagógica ',
-          centro: 'Regional Distrito Capital- Centro de Diseño y Metrología ',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'José Gabriel Ortiz Abella',
           cargo: 'Corrector de estilo',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica.',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Paola Morales Páez',
@@ -403,7 +401,7 @@ export default {
       autores: [
         {
           nombre: 'Yuly Andrea Rey Quiñonez',
-          cargo: 'Diseñador de contenidos digitales',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -413,7 +411,7 @@ export default {
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animador y producción audiovisual',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -422,8 +420,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda ',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales  ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
