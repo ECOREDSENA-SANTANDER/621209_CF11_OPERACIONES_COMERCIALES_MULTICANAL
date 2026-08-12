@@ -90,7 +90,7 @@ export default {
           },
           {
             numero: '2.5',
-            titulo: 'Buenas prácticas de manufactura',
+            titulo: 'Buenas Prácticas de Manufactura (BPM)',
             hash: 't_2_5',
           },
           {
@@ -310,7 +310,7 @@ export default {
     },
     {
       referencia:
-        'Romero San José, M. J., Maldonado Tiegs, C., Núñez García, L. (s. f.).  ',
+        'Romero San José, M. J., Maldonado Tiegs, C., Núñez García, L. (s. f.). El nuevo paradigma de la omnicanalidad. ',
       link:
         'https://www.minsait.com/sites/default/files/newsroom_documents/elnuevoparadigmadelaomnicanalidad.pdf',
     },

@@ -60,7 +60,6 @@ export default {
           mensaje_correcto: 'Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
-
         {
           id: 2,
           texto:
@@ -195,33 +194,35 @@ export default {
           mensaje_correcto: 'Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
+
         {
           id: 6,
           texto:
-            'La publicidad utilizada para fortalecer el posicionamiento de una marca dentro del establecimiento corresponde principalmente a:',
+            'En la planeación de un evento promocional, la marca debe priorizar que:',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Publicidad institucional o de imagen.',
-              esCorrecta: true,
+              texto: 'El mensaje sea ambiguo para generar expectativa.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Publicidad exclusivamente normativa.',
-              esCorrecta: false,
+              texto:
+                'El mensaje sea claro, entendible y transmitido por un medio coherente con lo que se desea comunicar.',
+              esCorrecta: true,
             },
             {
               id: 'c',
               texto:
-                'Publicidad destinada únicamente al control de inventarios.',
+                'El evento se realice sin objetivos para favorecer la improvisación.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Publicidad enfocada en reemplazar el empaque del producto.',
+                'El público no tenga relación con la finalidad de la actividad.',
               esCorrecta: false,
             },
           ],
@@ -232,28 +233,30 @@ export default {
         {
           id: 7,
           texto:
-            'Los elementos de comunicación visual ubicados dentro del establecimiento hacen parte del <i>marketing</i>:',
+            'Si una empresa necesita un <i>stand custom</i> económico, rápido de armar y fácil de transportar, la opción más adecuada es:',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Industrial.',
+              texto: 'Un <i>stand</i> creativo o temático de alta complejidad.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Financiero.',
+              texto: 'Un <i>stand custom</i> con diseño totalmente libre.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'En el punto de venta.',
+              texto:
+                'Un <i>stand</i> portátil con soporte gráfico de la marca.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Exclusivamente digital.',
+              texto:
+                'Un <i>stand<i> que requiera montaje especializado permanente.',
               esCorrecta: false,
             },
           ],
@@ -263,30 +266,33 @@ export default {
 
         {
           id: 8,
-          texto: 'Un <i>stand custom</i> se caracteriza principalmente porque:',
+          texto:
+            'La diferencia central entre producto y servicio consiste en que:',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Es diseñado de forma personalizada para comunicar la identidad de una marca o producto.',
-              esCorrecta: true,
+              texto: 'El servicio siempre se puede almacenar y vender después.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Tiene siempre el mismo diseño para cualquier empresa.',
+              texto:
+                'El producto no necesita ningún componente de servicio para funcionar en el mercado.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Se utiliza únicamente para almacenar mercancía.',
+              texto:
+                'El producto siempre es intangible y el servicio siempre es físico.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Reemplaza completamente la exhibición de productos.',
-              esCorrecta: false,
+              texto:
+                'El producto es tangible y el servicio es intangible, aunque ambos pueden requerir componentes complementarios.',
+              esCorrecta: true,
             },
           ],
           mensaje_correcto: 'Ha acertado la respuesta.',
@@ -295,31 +301,30 @@ export default {
 
         {
           id: 9,
-          texto:
-            'En un establecimiento de <i>retail</i>, la publicidad en el punto de venta busca principalmente:',
+          texto: 'En una gama de productos, la amplitud se refiere a:',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Facilitar la decisión de compra mediante información y estímulos visuales.',
+                'El número de familias o líneas de producto que ofrece la marca.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Sustituir la atención del personal de ventas.',
+              texto:
+                'La cantidad de variantes que existen dentro de cada referencia.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Eliminar la exhibición física de los productos.',
+              texto: 'El precio promedio de todos los productos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto:
-                'Reducir el número de referencias disponibles para el cliente.',
+              texto: 'La distancia física entre los productos en el lineal.',
               esCorrecta: false,
             },
           ],
@@ -329,29 +334,29 @@ export default {
 
         {
           id: 10,
-          texto: 'El material POP cumple principalmente la función de:',
+          texto:
+            'Cuando un servicio no se puede guardar para venderlo después, se evidencia la característica de:',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Apoyar la comunicación y promoción del producto en el punto de venta.',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'Reemplazar el inventario físico del establecimiento.',
+              texto: 'Consistencia del producto.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Carácter perecedero del servicio.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'Controlar los procesos contables de la empresa.',
+              texto: 'Tangibilidad del servicio.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Sustituir la capacitación del personal comercial.',
+              texto: 'Codificación del portafolio.',
               esCorrecta: false,
             },
           ],

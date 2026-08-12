@@ -506,7 +506,7 @@
             .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab2-4.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p El término hace referencia a reuniones de trabajo que se desarrollan durante desayunos, almuerzos, tés o snacks. Estos eventos constituyen una práctica frecuente en las empresas y, por lo general, se realizan en cafeterías o salones de reuniones. No obstante, algunas organizaciones prefieren llevarlos a cabo en lugares externos, como hoteles o restaurantes.
+              p El término hace referencia a reuniones de trabajo que se desarrollan durante desayunos, almuerzos, tés o #[em snacks]. Estos eventos constituyen una práctica frecuente en las empresas y, por lo general, se realizan en cafeterías o salones de reuniones. No obstante, algunas organizaciones prefieren llevarlos a cabo en lugares externos, como hoteles o restaurantes.
               p La finalidad principal de estos encuentros se centra en tres aspectos: negociar con proveedores, distribuidores y aliados estratégicos; establecer acuerdos con empleados, sindicatos y demás grupos de interés; y generar beneficios para las organizaciones, sus aliados, los clientes y la sociedad en general.
               p Estos eventos pueden contar con la presencia de personalidades del ámbito político nacional o internacional, cuyo propósito es proporcionar un respaldo institucional significativo.
         .py-3.py-md-4.px-3(titulo="Viajes de incentivo")

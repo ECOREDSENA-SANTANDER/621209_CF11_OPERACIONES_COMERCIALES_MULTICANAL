@@ -774,7 +774,7 @@
                     img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-1.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Limpieza en húmedo
-                    p.mb-4 Utiliza detergentes y agua. Se usan los siguientes procedimientos: Preenjuague para eliminar la suciedad y ablandarla, de tal manera que luego sea fácilmente contrarrestada por el detergente. Luego viene la limpieza con el detergente en la que se pueden tener a disposición compuestos para efectuar la limpieza, como lo son álcalis, fosfatos, ácidos, humectantes y agentes quelantes; cada compuesto se aplica según sea la necesidad.
+                    p.mb-4 Utiliza detergentes y agua. Se usan los siguientes procedimientos: preenjuague para eliminar la suciedad y ablandarla, de tal manera que luego sea fácilmente contrarrestada por el detergente. Luego viene la limpieza con el detergente en la que se pueden tener a disposición compuestos para efectuar la limpieza, como lo son álcalis, fosfatos, ácidos, humectantes y agentes quelantes; cada compuesto se aplica según sea la necesidad.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
