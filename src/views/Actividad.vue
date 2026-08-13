@@ -256,7 +256,7 @@ export default {
             {
               id: 'd',
               texto:
-                'Un <i>stand<i> que requiera montaje especializado permanente.',
+                'Un <i>stand</i> que requiera montaje especializado permanente.',
               esCorrecta: false,
             },
           ],

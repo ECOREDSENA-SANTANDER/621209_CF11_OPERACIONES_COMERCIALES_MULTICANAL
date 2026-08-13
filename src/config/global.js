@@ -275,8 +275,8 @@ export default {
   referencias: [
     {
       referencia:
-        'Rausch, T. ¿Qué es la Gestión de Procesos? (BPM). BOC Group.',
-      link: ' https://www.boc-group.com/es/blog/bpm/gestion-de-procesos-bpm/ ',
+        'Rausch, T. (s. f.). ¿Qué es la Gestión de Procesos? (BPM). BOC Group',
+      link: 'https://www.boc-group.com/es/blog/bpm/gestion-de-procesos-bpm/',
     },
     {
       referencia:
