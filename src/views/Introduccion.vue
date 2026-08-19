@@ -8,7 +8,7 @@
           span
             i.fas.fa-info
         h1 Introducción
-      p Las ventas comerciales radican, principalmente, en el desarrollo de estrategias y acciones promocionales diseñadas por las empresas, para iniciar a comprender este mundo de las ventas en el formato comercial, se invita a visitar  el siguiente video:
+      p Las ventas comerciales radican, principalmente, en el desarrollo de estrategias y acciones promocionales diseñadas por las empresas, para comenzar a comprender este mundo de las ventas en el formato comercial, se invita a visitar  el siguiente video:
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10

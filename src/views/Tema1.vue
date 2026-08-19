@@ -20,7 +20,7 @@
                   .col-2
                     h1.mt-4.textonaranja a
                   .col-10
-                    p.mt-4 Persuadir, influenciar, motivar al cliente a una acción de compra. 
+                    p.mt-4 Persuadir, influenciar y motivar al cliente a una acción de compra.
         .col-lg-6.col-md-12.col-sm-12.p-1
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
@@ -39,7 +39,7 @@
         .col-lg-8.col-md-12.col-sm-12
           .cajon.color-acento-contenido.p-4.mb-4
             p Ahora, en cuanto a la publicidad en el punto de venta, esta se lleva a cabo dentro de la tienda y se conoce comúnmente como #[b PLV (Publicidad en el Lugar de Venta), PPV (Publicidad en el Punto de Venta) o POP (#[em Point of Purchase] - Publicidad en el Punto de Compra).]
-          p Estas siglas hacen referencia a una manera de comunicar que con frecuencia la emplean los anunciantes que mercadean sus productos en el interior de los establecimientos comerciales. Y más exactamente se refiere a las piezas publicitarias diseñadas con el propósito de exponerlas en el punto de venta para alcanzar de manera directa a los clientes. Por ello deben ser persuasivas y hacer del punto de venta, su canal de comunicación, logrando que la publicidad esté de frente al cliente, justo en el espacio correcto y en el momento preciso en el que se ejecuta una acción de compra.
+          p Estas siglas hacen referencia a una manera de comunicar que con frecuencia la emplean los anunciantes que mercadean sus productos en el interior de los establecimientos comerciales. Más exactamente se refiere a las piezas publicitarias diseñadas con el propósito de exponerlas en el punto de venta para alcanzar de manera directa a los clientes. Por ello deben ser persuasivas y hacer del punto de venta, su canal de comunicación, logrando que la publicidad sea visible para el cliente, justo en el espacio correcto y en el momento preciso en el que se ejecuta una acción de compra.
         .col-lg-4.col-md-8.col-8
           img(src='@/assets/curso/temas/tema1/img1.png', alt='')
   
@@ -99,7 +99,7 @@
         .col-lg-4.col-md-7.col-7.mb-3
           img(src="@/assets/curso/temas/tema1/img2.png")
         .col-lg-8.col-md-12.col-12
-          p.mb-4 En el interior del establecimiento coinciden fabricantes, detallistas y consumidores. Obviamente, aquí también están presentes sus intereses. Fabricantes y detallistas concuerdan en tener a la PLV como una herramienta vital para alcanzar a los consumidores, pero son diferentes como se indica a continuación:
+          p.mb-4 En el interior del establecimiento coinciden fabricantes, detallistas y consumidores. Obviamente, aquí también están presentes sus intereses. Fabricantes y detallistas concuerdan en tener a la PLV como una herramienta vital para alcanzar a los consumidores, pero son diferentes, como se indica a continuación:
           .bg01.borde-redondo.p-4
             SlyderF(columnas="col-lg-12 col-md-12 col-12")
               .tarjeta.tarjeta--slyder.p-3
@@ -203,7 +203,7 @@
                   img(src="@/assets/curso/temas/tema1/sly2-2.png")
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-7.col-md-12.col-sm-12
-                  h4.mb-4 Programas de fidelización #[em focus costumer]
+                  h4.mb-4 Programas de fidelización #[em focus customer]
                   p.mb-4 En la actualidad el cliente es el eje central de toda estrategia comercial, por eso, bajo el apelativo de #[em marketing] relacional, esta actividad ha estado en crecimiento. Se trata de una estrategia de mercadeo que se establece por una marca con el objetivo de premiar el comportamiento de compra de los clientes, generando un sentido de lealtad y pertenencia hacia la marca. 
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly2-3.png")
@@ -244,7 +244,7 @@
                   li 
                     .lista-ol--cuadro__vineta
                       span #[b c]
-                    span.mb-0 Que incentive. El cliente debe sentir atracción a la promoción, la cual debe influir en su decisión de compra.
+                    span.mb-0 Que incentive. El cliente debe sentirse atraído por la promoción, la cual debe influir en su decisión de compra.
                   li 
                     .lista-ol--cuadro__vineta
                       span #[b d]
@@ -253,14 +253,14 @@
               .row.justify-content-center.align-items-center
                 p No busca necesariamente un aumento inmediato en las ventas, sino incentivar un comportamiento presente o futuro, como ofrecer un producto nuevo junto a uno conocido para que el cliente lo pruebe. También incluye campañas para motivar a empleados y personal de distribución, reducir el monto de crédito pactado con clientes, y promociones estratégicas para mejorar la imagen de la empresa (Zambrano, 2021).
                 p Estas técnicas, integradas en el plan de mercadeo, buscan lograr objetivos específicos mediante estímulos y acciones temporales dirigidas a un público particular. Su finalidad es ofrecer al cliente un aliciente para que compre un producto o servicio lo más pronto posible, aumentando puntualmente las ventas (Burin, 2017).
-                p Técnicas promocionales incluyen regalos publicitarios, animación del punto de venta, tarjetas de fidelización, eventos, concursos, y lanzamientos de productos. Bien planificadas, estas herramientas pueden potenciar la imagen de la marca y se pueden usar a nivel estratégico a través de diversos canales de distribución y por empresas de cualquier tamaño, nacionales o internacionales.
+                p Las técnicas promocionales incluyen regalos publicitarios, animación del punto de venta, tarjetas de fidelización, eventos, concursos, y lanzamientos de productos. Bien planificadas, estas herramientas pueden potenciar la imagen de la marca y se pueden usar a nivel estratégico a través de diversos canales de distribución y por empresas de cualquier tamaño, nacionales o internacionales.
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Variables para considerar
           img.icon(src='@/assets/curso/temas/icon.svg') 
       
-      p Si la empresa quiere lograr el éxito con la promoción se necesita tener en cuenta los siguientes ítems:
+      p Si la empresa quiere lograr el éxito con la promoción, se necesita tener en cuenta los siguientes ítems:
   
       .row.mb-3
           .col-md.tarjeta--boton.tema1.p-4.mx-2.mb-3
@@ -384,9 +384,9 @@
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
-          p.mb-4 Son una parte vital de las estrategias de comunicación de las empresas. La marca apela al evento cuando tiene algo que notificar. No se trata solo de lanzar un mensaje a los clientes, se trata de la transmisión de los valores de la marca y siendo capaces de envolverlo en un entorno creativo, donde se pueda transmitir experiencias y emociones significativas.
+          p.mb-4 Los eventos son una parte vital de las estrategias de comunicación de las empresas. La marca apela al evento cuando tiene algo que notificar. No se trata solo de lanzar un mensaje a los clientes, se trata de la transmisión de los valores de la marca y siendo capaces de envolverlo en un entorno creativo, donde se puedan transmitir experiencias y emociones significativas.
           .cajon.color-acento-contenido.p-4.mb-4
-            p #[b Un evento debe ser capaz de causar el interés por parte de los medios de comunicación (a los cuales se les debe invitar para que estén presentes y luego puedan hacer un #[em Free Press], informando sobre lo ocurrido), así como también debe impactar a los clientes y público presente. Y lo más importante, la idea es lograr la fidelización de los clientes.] 
+            p #[b Un evento debe ser capaz de causar el interés por parte de los medios de comunicación (a los cuales se les debe invitar para que estén presentes y luego puedan hacer un #[em Free Press], informando sobre lo ocurrido), así como también debe impactar a los clientes y al público presente. Y lo más importante, la idea es lograr la fidelización de los clientes.] 
           p Un buen evento no solo sirve para transferir mensajes a los presentes, sino que, además, puede segmentar para captar la atención de un conjunto determinado de personas, o incluso de transmitir a los presentes una serie de valores, pasando de una simple información a la generación de emociones y sensaciones, lo que es otra forma de transferencia de los objetivos de un evento. 
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema1/img5.png', alt='')
@@ -471,7 +471,7 @@
             .col-lg-3.col-md-5.col-7.mb-4
               img(src='@/assets/curso/temas/tema1/tab1-4.png', alt='')
             .col-lg-7.col-md-12.col-sm-12
-              p Para planificar un evento de lanzamiento, es crucial seleccionar el sitio adecuado para su desarrollo. Para ello, se debe considerar la audiencia objetivo y evaluar si disfrutarán más del evento en persona o mediante una experiencia #[em online]. Estos detalles son vitales, ya que elegir el lugar perfecto para el lanzamiento del producto puede ser un factor determinante para el éxito comercial. Un evento en vivo debe celebrarse en un lugar atractivo, que motive a la gente a asistir, lo cual contribuirá a aumentar las ventas y a generar nuevo #[em engagement] por parte de los clientes. También es importante decidir la cantidad de asistentes deseada; no siempre se necesita una gran multitud, ya que una experiencia íntima puede tener tanto impacto como un evento masivo.
+              p Para planificar un evento de lanzamiento, es crucial seleccionar el sitio adecuado para su desarrollo. Para ello, se debe considerar la audiencia objetivo y evaluar si la audiencia disfrutará más del evento de manera presencial o mediante una experiencia #[em online]. Estos detalles son vitales, ya que elegir el lugar perfecto para el lanzamiento del producto puede ser un factor determinante para el éxito comercial. Un evento en vivo debe celebrarse en un lugar atractivo, que motive a la gente a asistir, lo cual contribuirá a aumentar las ventas y a generar nuevo #[em engagement] por parte de los clientes. También es importante decidir la cantidad de asistentes deseada; no siempre se necesita una gran multitud, ya que una experiencia íntima puede tener tanto impacto como un evento masivo.
   
       .row.mb-4
         .col-12
@@ -534,7 +534,7 @@
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-6.col-md-12.col-sm-12
-          p La participación por parte de la empresa en eventos y congresos es rentable a la hora de enlazar con otros profesionales, destacarse sobre la competencia e incluso captar clientes nuevos. Y en ese sentido es muy importante conocer qué tipos de estanterías hay en el mercado para elegir la que mejor se acomode a la empresa. 
+          p La participación por parte de la empresa en eventos y congresos es rentable a la hora de enlazar con otros profesionales, destacarse sobre la competencia e incluso captar clientes nuevos. Y en ese sentido es muy importante conocer qué tipos de estanterías hay en el mercado para elegir el que mejor se acomode a las necesidades de la empresa.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema1/img7.png', alt='')
   
@@ -571,7 +571,7 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
                   h4.mb-4 #[em Stand] creativo o temático
-                  p.mb-4 Se trata de los #[em stands] más evolucionados y demandan de mano de obra experta, porque su diseño y montaje necesita de mayor precisión, si se compara con un #[em stand] con sistema modular. Según sea el tema de evento o el contexto de la marca, se puede crear un diseño versátil y llamativo, como puede ser el diseño de una bodega o cava,  para promocionar vinos. Se debe tener en cuenta que su costo es superior.
+                  p.mb-4 Se trata de los #[em stands] más evolucionados y requieren mano de obra experta, porque su diseño y montaje necesita de mayor precisión, si se compara con un #[em stand] con sistema modular. Según sea el tema de evento o el contexto de la marca, se puede crear un diseño versátil y llamativo, como puede ser el diseño de una bodega o cava,  para promocionar vinos. Se debe tener en cuenta que su costo es superior.
                 .col-lg-5.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema1/sly3-4.png")
   

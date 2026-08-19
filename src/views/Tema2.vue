@@ -13,7 +13,7 @@
         .col-lg-8.col-md-12.col-sm-12
           p El producto es cualquier artículo que se ofrece en el mercado para su compra y que satisface una necesidad o deseo. Además, tiene atributos y beneficios que lo pueden hacer diferente a la competencia. Algunos de los productos sufren un proceso de transformación para llegar a su forma final con la que se exhibirá en los establecimientos (Chávez, 2016).
           .cajon.color-primario.p-4.mb-4
-            p El término "bienes" incluye tanto productos como servicios. Los productos son tangibles; se pueden tocar, usar, comer, aplicar, etc. Ejemplos de productos son zapatos, hamburguesas y perfumes. Por otro lado, los servicios son intangibles; no se pueden tocar, pero se pueden utilizar. Ejemplos de servicios incluyen los bancarios, funerarios y de salud. 
+            p El término productos y servicios comprende tanto bienes tangibles como servicios intangibles. Los productos son tangibles; se pueden tocar, usar, comer, aplicar, etc. Ejemplos de productos son zapatos, hamburguesas y perfumes. Por otro lado, los servicios son intangibles; no se pueden tocar, pero se pueden utilizar. Ejemplos de servicios incluyen los bancarios, funerarios y de salud. 
           p Tanto los productos como los servicios necesitan de la parte tangible e intangible para su eficiente funcionamiento. La naturaleza del producto es la tangibilidad; pero, para que funcione en el mercado, necesita de su parte intangible, o sea, el servicio.
       
       .row.justify-content-center(data-aos="zoom-in-left").mb-4
@@ -28,7 +28,7 @@
         p Por ejemplo, cuando se compra una pastilla para el dolor muscular, se busca en la farmacia más cercana y a la hora de hacer la compra se requiere de un servicio de atención, facturación y servicio de entrega del producto. 
             
       .row
-        p Por su lado, la naturaleza del servicio es intangible, pero, en cuanto a su funcionamiento, necesita de su parte tangible. Por ejemplo, un hotel brinda el servicio de hospedaje, pero, para poder proporcionar este servicio, necesita de infraestructura física, inmobiliario y equipamiento. 
+        p Por su lado, la naturaleza del servicio es intangible, pero, en cuanto a su funcionamiento, necesita de su parte tangible. Por ejemplo, un hotel brinda el servicio de hospedaje, pero, para poder proporcionar este servicio, necesita de infraestructura física, mobiliario y equipamiento. 
   
       separador
       #t_2_1.titulo-segundo.mb-5
@@ -172,7 +172,7 @@
                     img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Servicio de crédito.
-                    p En la actualidad es el más requerido por los clientes para productos que le resulten costosos. Puede ser por medio de tarjetas de crédito, cheques por fechados, cuentas corrientes, tarjetas débito, etc.
+                    p En la actualidad es el más requerido por los clientes para productos que le resulten costosos. Puede ser por medio de tarjetas de crédito, cheques posfechados, cuentas corrientes, tarjetas débito, etc.
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
@@ -205,7 +205,7 @@
                 .col-lg-4.col-md-6.col-6.mb-3
                   img(src='@/assets/curso/temas/tema2/tab1-4.png', alt='')
                 .col-lg-7.col-md-12.col-sm-12  
-                  p Se refiere a  que la calidad en el servicio puede variar porque va a depender de quién los ofrece, cuándo, dónde y cómo los ofrece.
+                  p Se refiere a  que la calidad en el servicio puede variar porque va a depender de quién lo ofrece, cuándo, dónde y cómo los ofrece.
   
       #t_2_3.titulo-segundo.mb-5
         h2 2.3 La estrategia comercial de ventas
@@ -214,15 +214,15 @@
         .col-lg-4.col-md-6.col-6.mb-3
           img(src='@/assets/curso/temas/tema2/img3.png', alt='')
         .col-lg-8.col-md-12.col-sm-12
-          p Silva (2020), afirma que, en un mundo donde la transformación digital se ha acelerado, y con un mercado sellado por una competencia extrema, se hace vital que toda marca cuente con una estrategia comercial de ventas que se centre en la satisfacción de los clientes.
-          p Si la marca desea suministrar la mejor experiencia a los clientes, requiere tener una estrategia comercial bien diseñada, la cual enlace con el consumidor y lo motive no solo a comprar, sino a formar parte de la “tribu” de marca, es decir, conjunto de personas que están identificados con un producto, compartiendo ciertos argumentos y teniendo nociones parecidas sobre la marca.
+          p Silva (2020), afirma que, en un mundo donde la transformación digital se ha acelerado, y con un mercado marcado por una competencia extrema, se hace vital que toda marca cuente con una estrategia comercial de ventas que se centre en la satisfacción de los clientes.
+          p Si la marca desea suministrar la mejor experiencia a los clientes, requiere tener una estrategia comercial bien diseñada, la cual enlace con el consumidor y lo motive no solo a comprar, sino a formar parte de la “tribu” de marca, es decir, conjunto de personas que están identificadas con un producto, compartiendo ciertos argumentos y teniendo nociones parecidas sobre la marca.
           .cajon.color-primario.p-4
             p Hoy en día, en pleno siglo XXI, contar con una estrategia comercial es cuestión de supervivencia. Aproximadamente el 80 % de las compañías que no diseñan nuevas estrategias de #[em marketing] y ventas desaparecen del mercado. 
   
       .row.justify-content-center.align-items-end.mb-5
         .col-lg-8.col-md-12.col-sm-12
           p La estrategia comercial se puede definir como el grupo de acciones que una empresa puede poner en práctica con el fin de dar a conocer un producto nuevo, para aumentar su participación de mercado. Esta  se plasma en una “hoja de ruta”, un plan diseñado de manera personalizada según el contexto y necesidades de cada empresa, de acuerdo con sus características y filosofía empresarial (objetivos, principios, misión, visión y valores).
-          p En una estrategia comercial de ventas se unen un conjunto de acciones racionales y elegidas dentro de la compañía. Se deben centrar en el cliente y sus acciones tienen como fin poder posicionar la marca en el mercado. Va mucho más allá del aumento en las ventas ya que su dirección apunta a la perduración de la marca y sus ventas en el tiempo, garantizando de esta manera su existencia.
+          p En una estrategia comercial de ventas se unen un conjunto de acciones racionales y elegidas dentro de la compañía. Se deben centrar en el cliente y sus acciones tienen como fin poder posicionar la marca en el mercado. Va mucho más allá del aumento en las ventas, ya que busca la permanencia de la marca y el sostenimiento de sus ventas en el tiempo, garantizando de esta manera su existencia.
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema2/img4.png', alt='')
   
@@ -238,7 +238,7 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="No existe estrategia  sin contexto")
               .row.justify-content-center.align-items-center
-                p Para que la estrategia marche, debe dar respuesta a la pregunta “¿En dónde se encuentra la empresa?”. La respuesta debe incluir datos reveladores sobre su situación actual en el año que termina, así como tener en cuenta variables globales e internas que pueden impactar en el funcionamiento de la empresa. Según sea el contexto empresarial se diseña la estrategia, siempre con mirar a un mejoramiento continuo, con base en ese análisis de su situación actual.
+                p Para que la estrategia marche, debe dar respuesta a la pregunta “¿En dónde se encuentra la empresa?”. La respuesta debe incluir datos reveladores sobre su situación actual, así como tener en cuenta variables globales e internas que pueden impactar en el funcionamiento de la empresa. Según sea el contexto empresarial se diseña la estrategia, siempre con miras a un mejoramiento continuo, con base en ese análisis de su situación actual.
             .row.col-xl-11.m-auto(titulo="Necesidad de una visión y una misión")
               .row.justify-content-center.align-items-center
                 p La visión es el norte de la marca, si se visualiza, entonces se puede alcanzar. No se pueden planificar estrategias si no se sabe a dónde se quiere llegar. Por su lado, la misión, es el ahora, quién se es en la actualidad. Por otro lado, una estrategia comercial para que sea exitosa debe ser realista, lo que implica tener claro cuáles son las metas a las que la empresa puede dar cumplimiento según sus recursos, en un período determinado de tiempo. Por eso, la visión y la misión son fundamentales.
@@ -251,7 +251,7 @@
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Principios de la estrategia comercial de ventas
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p.mb-4 Las premisas permiten la creación de las condiciones previas para el diseño y ejecución de la estrategia comercial de ventas: Por su lado, los principios son reglas sagradas que se deben cumplir para que la estrategia marche.
+      p.mb-4 Las premisas permiten la creación de las condiciones previas para el diseño y ejecución de la estrategia comercial de ventas. Por su lado, los principios son reglas sagradas que se deben cumplir para que la estrategia marche.
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-col-sm-12
@@ -267,7 +267,7 @@
             li 
               .lista-ol--cuadro__vineta.acento-contenido
                 span #[b C]
-              span.mb-0 Cada uno de los empleados de la empresa debe tener conocimiento sobre la estrategia comercial, así como también las acciones concretas que se van a desarrollar para aportar a la contribución con el cumplimiento de sus labores.
+              span.mb-0 Cada uno de los empleados de la empresa debe tener conocimiento sobre la estrategia comercial, así como de las acciones concretas que se van a desarrollar para contribuir al cumplimiento de sus labores.
             li 
               .lista-ol--cuadro__vineta.acento-contenido
                 span #[b D]
@@ -340,7 +340,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-8.col-md-12.col-sm-12
           p La estrategia comercial #[em online] incluye todos aquellos tipos de estrategias que la marca desarrolla en el ecosistema digital (redes sociales, correo electrónico, blog, sitio web, etc.), son vitales para las empresas contemporáneas. 
-          p Por su lado, la estrategia comercial #[em offline] completa todas las acciones tradicionales de ventas desarrolladas a lo largo de la historia. Utiliza canales distintos a internet, pero eso no quiere decir que sean incompatibles.
+          p Por su lado, la estrategia comercial #[em offline] comprende todas las acciones tradicionales de venta desarrolladas a lo largo de la historia. Utiliza canales distintos a internet, pero eso no quiere decir que sean incompatibles.
           p Son muchas las marcas que de manera exitosa unen ambos tipos de estrategia (#[em online] y #[em offline]), dando como resultado una decisión inteligente porque de esta manera se logra el diseño de una estrategia omnicanal que en la actualidad es de amplia aceptación.  A continuación, se expondrán los siguientes pasos para el desarrollo de una estrategia comercial efectiva.      
         .col-lg-4.col-md-6.col-6
           img(src='@/assets/curso/temas/tema2/img7.png', alt='')
@@ -435,7 +435,7 @@
                   p.mb-0 Se refiere a desarrollar un análisis sobre qué elementos de la sociedad pueden influir en la empresa y cómo están cambiando. Se busca el poder identificar aquellas tendencias que tiene la sociedad actual. En esta variable se deben tener presentes el comportamiento demográfico, los cambios en el nivel de ingresos, los cambios en gustos o modas que puedan repercutir en el nivel de las compras, la diversidad cultural, los valores éticos, los cambios en cómo nos relacionamos o comunicamos, y hasta rasgos religiosos que sean interesantes tenerlos en cuenta. Con este análisis se pueden identificar los artículos que satisfacen mejor las necesidades del cliente. 
                 .tarjeta.p-4(x="26%" y="50%" numero="+" style='border-radius: 8px; background-color: #74D578')
                   h5 Ecológicos.
-                  p.mb-0 Se refiere a estar al enterado de los posibles cambios normativos desde el contexto ecológico, y del nivel de conciencia social de este movimiento. La naturaleza siempre nos da enseñanzas importantes, más aún en la actualidad porque se ha comenzado a visualizar los resultados negativos por culpa de los abusos en los recursos naturales. Por eso, antes de lanzar un producto al mercado, se debe analizar si la materia prima para la producción y fabricación del producto afecta negativamente a la ecología.
+                  p.mb-0 Se refiere a estar enterado de los posibles cambios normativos desde el contexto ecológico, y del nivel de conciencia social de este movimiento. La naturaleza siempre nos da enseñanzas importantes, más aún en la actualidad porque se ha comenzado a visualizar los resultados negativos por culpa de los abusos en los recursos naturales. Por eso, antes de lanzar un producto al mercado, se debe analizar si la materia prima para la producción y fabricación del producto afecta negativamente a la ecología.
                 .tarjeta.p-4(x="38%" y="16%" numero="+" style='border-radius: 8px; background-color: #FFDB26')
                   h5 Legales.
                   p.mb-0 Son los cambios en las normativas que estén relacionadas con el contexto empresarial, y que también puede influir de forma positiva o negativa. Las licencias, las leyes o normas sobre el empleo, leyes de seguridad y salud en el trabajo, leyes antimonopolios, el entorno legal en el país de origen de la empresa, derechos de propiedad intelectual, sectores protegidos o regulados, entre otros.
@@ -460,7 +460,7 @@
                 p.mb-0 Tiene que ver con la filosofía empresarial, o sea sus principios, objetivos, misión, visión y valores de una empresa. Se convierten en su ruta de navegación, su norte. 
               .tarjeta.color-acento-contenido.p-4(x="74%" y="50%" numero="B")
                 h5 Recursos humanos
-                p.mb-0 Tiene que ser con los empleados de la empresa y es obligatorio reflexionar sobre la integración de todos los miembros que hacen parte de la empresa. Se debe analizar en los perfiles, la rotación y las características que deben tener los ejecutivos de la fuerza de ventas ya que pueden tener una gran movilidad.
+                p.mb-0 Tiene que ver con los empleados de la empresa y es obligatorio reflexionar sobre la integración de todos los miembros que hacen parte de la empresa. Se deben analizar los perfiles, la rotación y las características que deben tener los ejecutivos de la fuerza de ventas ya que pueden tener una gran movilidad.
               .tarjeta.color-acento-contenido.p-4(x="66%" y="82%" numero="C")
                 h5 Recursos financieros
                 p.mb-0 Tiene que ver con el músculo financiero de la empresa. Si tiene buenos recursos financieros podrá invertir en la investigación y desarrollo de nuevos productos o servicios y, además, capacitar correctamente a quienes laboran en esta área.
@@ -509,7 +509,7 @@
           .row.justify-content-center.align-items-center(titulo="Ventas electrónicas")
             .col-md-7
               p Es el tipo de venta que se respalda en la transferencia de datos a través del ecosistema digital.
-              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios webs y hasta el WhatsApp sirven de apoyo.
+              p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios web y hasta el WhatsApp sirven de apoyo.
             .col-md-4.mb-4.mb-md-0.col-8
               img(src='@/assets/curso/temas/tema2/aco1-3.png', alt='Texto que describa la imagen')
           .row.justify-content-center.align-items-center(titulo="Ventas por televisión")
@@ -576,7 +576,7 @@
                     img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-1.png', alt='Texto que describa la imagen')
                   .col-md-8
                     h4.mb-4 Ventas a domicilio.
-                    p.mb-4 Cuando la venta se ejecuta en el lugar de ubicación del cliente y por lo general en ese instante se hace la orden de compra y luego se hace entrega del producto o servicio. Este tipo de ventas pueden ser “venta por cita en el domicilio del cliente”, cuando el vendedor visita al consumidor con una cita previa acordada por ambos; “venta de puerta en puerta”, cuando el vendedor, sin pedir cita, toca a la puerta del domicilio o lugar de estadía del cliente; y “venta en el lugar de trabajo”, cuando el vendedor visita al cliente en horario laboral en su oficina, previa cita.
+                    p.mb-4 Cuando la venta se ejecuta en el lugar de ubicación del cliente y por lo general en ese instante se hace la orden de compra y luego se hace entrega del producto o servicio. Este tipo de ventas puede ser “venta por cita en el domicilio del cliente”, cuando el vendedor visita al consumidor con una cita previa acordada por ambos; “venta de puerta en puerta”, cuando el vendedor, sin pedir cita, toca a la puerta del domicilio o lugar de estadía del cliente; y “venta en el lugar de trabajo”, cuando el vendedor visita al cliente en horario laboral en su oficina, previa cita.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
@@ -596,8 +596,8 @@
                   .col-md-11
                     h4.mb-4 Venta multinivel.
                     p Cuando se crea una red que se compone por un cliente que se asocia a una empresa para obtener un código que lo autoriza como vendedor de sus productos y puede obtener, con precios más bajos, los productos directamente de la empresa. Con este código el cliente vendedor obtiene un porcentaje de las ventas que realicen otros clientes que fueron afiliados a través de ellos. 
-                    P De esta manera, el cliente vendedor gana por el descuento del precio del producto, por el porcentaje en las ventas propias, por el porcentaje en las ventas de las personas que afilió bajo su auspicio hasta el nivel de profundidad establecido por la empresa de multinivel, además de obtener bonificaciones y regalías de acuerdo con las normas que la empresa haya establecido. 
-                    P De esta forma cada integrante puede construir y dirigir su fuerza de venta afiliando, motivando y adiestrando a otros para que realicen lo mismo que él, hasta el punto de construir su propia organización, si así lo desean.
+                    P De esta manera, el cliente vendedor gana por el descuento del precio del producto, por el porcentaje en las ventas propias, por el porcentaje en las ventas de las personas que afilió bajo su patrocinio hasta el nivel de profundidad establecido por la empresa de multinivel, además de obtener bonificaciones y regalías de acuerdo con las normas que la empresa haya establecido. 
+                    P De esta forma cada integrante puede construir y dirigir su fuerza de venta afiliando, motivando y capacitando a otros para que realicen lo mismo que él, hasta el punto de construir su propia organización, si así lo desean.
   
       separador
       #t_2_5.titulo-segundo.mb-5
@@ -609,7 +609,7 @@
         .col-lg-11.col-md-12.col-sm-12
           p Estas  son las normas establecidas oficialmente por las empresas que actualmente regulan a las Plantas Procesadoras de Alimentos (PPA) en relación con los procedimientos de fabricación, limpieza y desinfección, higiene personal, manipulación, controles, registros y almacenamiento, garantizando así la calidad y seguridad de los alimentos (Amagua, Coronel, Quintana y Reyes, 2016).
   
-      p.mb-4 El uso de las BPM en la industria de alimentos puede ser empleado alrededor de las PPA o al interior de estas:
+      p.mb-4 El uso de las BPM en la industria de alimentos pueden aplicarse alrededor de las PPA o al interior de estas:
   
       .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
         .col-lg.col-md-12.col-sm-12.mb-4
@@ -651,7 +651,7 @@
               .col-lg-10.col-md-5.col-5
                 img(src='@/assets/curso/temas/tema2/tar5-5.png', alt='').mb-4
             h4.mb-0.text-center Procesos productivos
-            p.mb-4.text-center Lógica en los procesos sanitarios (de higiene y presentación) del personal, como ejemplo.
+            p.mb-4.text-center Aplicación de criterios sanitarios de higiene y presentación del personal, como ejemplo
   
   
       p Este tema tiene que ver con todo el establecimiento, con el personal o empleados, con la higiene en la producción o transformación de los productos, con el almacenamiento y transporte de materias primas y del producto final, con el control de procesos en la producción y la documentación, entre otros. De tal forma que se pueda garantizar la calidad en los productos alimenticios.
@@ -662,26 +662,26 @@
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="BPM de materias primas")
               .row.justify-content-center.align-items-center
-                p Si se sospecha que la materia prima es inadecuada, debe ser aislada de inmediato para ser rotulada y eliminarla. Las medidas que la empresa debe tener para eliminación de esta materia prima contaminada son específicas, según sea el proceso de elaboración. La materia prima debe estar almacenada en condiciones adecuadas que certifiquen su protección contra cualquier tipo de contaminante. Los productos terminados deben estar lejos del depósito para evitar la contaminación. Además, el almacenamiento se debe realizar en condiciones óptimas y el transporte debe realizarse según sean los principios higiénico - sanitarios que la empresa considere pertinentes.
+                p Si se sospecha que la materia prima es inadecuada, debe ser aislada de inmediato para ser rotulada y eliminarla. Las medidas que la empresa debe tener para la eliminación de esta materia prima contaminada son específicas, según sea el proceso de elaboración. La materia prima debe estar almacenada en condiciones adecuadas que certifiquen su protección contra cualquier tipo de contaminante. Los productos terminados deben estar lejos del depósito para evitar la contaminación. Además, el almacenamiento se debe realizar en condiciones óptimas y el transporte debe realizarse según sean los principios higiénico-sanitarios que la empresa considere pertinentes.
             .row.col-xl-11.m-auto(titulo="BPM en los establecimientos")
               .row.justify-content-center.align-items-center
-                  p No pueden estar ubicados en lugares que afecten la calidad del producto, como, por ejemplo, humedad o agua, peligro de deslave, o incluso olores censurables. Las vías internas en la empresa deben estar pavimentadas de tal forma que permitan la circulación de furgones, camiones y contenedores. La estructura del establecimiento debe ser sólida y sanitariamente apropiada, además, no debe haber materiales que transmitan sustancias indeseables a los alimentos. Deben existir muros y separaciones entre las áreas para evitar la contaminación cruzada. Los equipos e instrumentos deben ser de un material que permita desmontarlos para su desinfección. Es por esto por lo que el diseño de los equipos tiene que admitir una óptima desinfección. La limpieza de las áreas debe hacerse de manera fácil y adecuada. El agua usada para la limpieza tiene que ser potable y los pisos deben tener una inclinación del 2 % para su correcto desagüe. Y finamente, la caja de revisión se debe situar en el exterior de la PPA.
+                  p No pueden estar ubicados en lugares que afecten la calidad del producto, como, por ejemplo, zonas con humedad o agua, peligro de deslave o incluso olores censurables. Las vías internas en la empresa deben estar pavimentadas de tal forma que permitan la circulación de furgones, camiones y contenedores. La estructura del establecimiento debe ser sólida y sanitariamente apropiada, además, no debe haber materiales que transmitan sustancias indeseables a los alimentos. Deben existir muros y separaciones entre las áreas para evitar la contaminación cruzada. Los equipos e instrumentos deben ser de un material que permita desmontarlos para su desinfección. Es por esto por lo que el diseño de los equipos tiene que admitir una óptima desinfección. La limpieza de las áreas debe hacerse de manera fácil y adecuada. El agua usada para la limpieza tiene que ser potable y los pisos deben tener una inclinación del 2 % para su correcto desagüe. Y finalmente, la caja de revisión se debe situar en el exterior de la PPA.
             .row.col-xl-11.m-auto(titulo="BPM en procesadoras de alimentos")
               .row.justify-content-center.align-items-center
-                  p Las herramientas, equipos y material de trabajo se deben mantener en el mejor estado higiénico para su máxima conservación. En la limpieza y desinfección, se debe usar productos que no contaminen el proceso de las PPA. Se recomienda aplicar Planes Operativos Estandarizados de Saneamiento (POES) que muestran cómo, cuándo y dónde hacer limpieza y desinfección. 
+                  p Las herramientas, equipos y material de trabajo se deben mantener en el mejor estado higiénico para su máxima conservación. En la limpieza y desinfección, se deben usar productos que no contaminen el proceso de las PPA. Se recomienda aplicar Planes Operativos Estandarizados de Saneamiento (POES) que muestran cómo, cuándo y dónde hacer limpieza y desinfección. 
             .row.col-xl-11.m-auto(titulo="BPM en la higiene personal")
               .row.justify-content-center.align-items-center
-                  p Su finalidad es garantizar la no contaminación de los alimentos por parte de las personas que entren en contacto, bien sea directo o indirecto, con los alimentos. Para ello, en las PPA debe haber instrucciones por escrito y reglas establecidas de estricto cumplimiento por parte de los estos empleados, y que son referentes a sus hábitos en la higiene personal, como por ejemplo, que se bañen todos los días; tener uñas cortadas y limpias; tener ropa interior y uniformes limpios; uso de mascarillas; mantener los guantes aseados; usar ropa adecuada para evitar la contaminación como mallas para el cabello, guantes o gorras; hombres afeitados o mínimo, que tengan protectores para la barba; no usar joyas; mantenimiento del lugar de trabajo aseado; no ingerir comida, no comer chicle ni fumar en la planta; nada de maquillaje ni lociones o perfumes; lavarse las manos con frecuencia, en especial, luego de usar el teléfono, haber tocado el piso, recipientes de basura o cualquier fuente contaminante; entre otras consideraciones.
+                  p Su finalidad es garantizar la no contaminación de los alimentos por parte de las personas que entren en contacto, bien sea directo o indirecto, con los alimentos. Para ello, en las PPA debe haber instrucciones por escrito y reglas establecidas de estricto cumplimiento por parte de estos empleados, y que son referentes a sus hábitos en la higiene personal, como por ejemplo, que se bañen todos los días; tener uñas cortadas y limpias; tener ropa interior y uniformes limpios; uso de mascarillas; mantener los guantes aseados; usar ropa adecuada para evitar la contaminación como mallas para el cabello, guantes o gorras; hombres afeitados o mínimo, que tengan protectores para la barba; no usar joyas; mantenimiento del lugar de trabajo aseado; no ingerir comida, no comer chicle ni fumar en la planta; nada de maquillaje ni lociones o perfumes; lavarse las manos con frecuencia, en especial, luego de usar el teléfono, haber tocado el piso, recipientes de basura o cualquier fuente contaminante; entre otras consideraciones.
             .row.col-xl-11.m-auto(titulo="BPM en sustancias peligrosas")
               .row.justify-content-center.align-items-center
                   p Se deben rotular con una etiqueta que sea visible todas aquellas sustancias tóxicas, como, por ejemplo, solventes y plaguicidas, que puedan representar un riesgo para la salud y una fuente de contaminación para los productos alimenticios. Además de almacenarlos en áreas exclusivas alejadas de las PPA.
             .row.col-xl-11.m-auto(titulo="BPM en la elaboración de alimentos")
               .row.justify-content-center.align-items-center
-                  p El material que se va a destinar para empacar y envasar no puede emitir sustancias tóxicas y, además, debe estar libre de contaminantes. La elaboración de los alimentos o el proceso que sufren de transformación debe ser realizado por empleados que hayan tenido capacitación al respecto y supervisado por el personal técnico.
+                  p El material que se va a destinar para empacar y envasar no puede emitir sustancias tóxicas y, además, debe estar libre de contaminantes. La elaboración de los alimentos o el proceso de transformación que estos sufren debe ser realizado por empleados que hayan tenido capacitación al respecto y supervisado por el personal técnico.
             .row.col-xl-11.m-auto(titulo="BPM en el almacenamiento y transporte")
               .row.justify-content-center.align-items-center
-                  p Como todas las prácticas anteriores, que sea en condiciones óptimas. Realizar inspecciones periódicas durante el almacenamiento. Dependiendo del tipo de producción se instauran las exigencias para el transporte de materias primas. Cuando hay alimentos congelados deben ser transportados con un correcto funcionamiento del equipo de frío, verificando que su temperatura sea la adecuada. Los vehículos, accesorios y conexiones deben estar siempre limpios, libres de tierra o desperdicio que contaminen los alimentos. Por otro lado, dependiendo del tipo de transporte, pueden variar los procesos y productos de limpieza. 
-            .row.col-xl-11.m-auto(titulo="BPM en el procesos y documentación")
+                  p Como todas las prácticas anteriores, el almacenamiento y transporte deben realizarse en condiciones óptimas. Realizar inspecciones periódicas durante el almacenamiento. Dependiendo del tipo de producción se instauran las exigencias para el transporte de materias primas. Cuando hay alimentos congelados deben ser transportados con un correcto funcionamiento del equipo de frío, verificando que su temperatura sea la adecuada. Los vehículos, accesorios y conexiones deben estar siempre limpios, libres de tierra o desperdicio que contaminen los alimentos. Por otro lado, dependiendo del tipo de transporte, pueden variar los procesos y productos de limpieza. 
+            .row.col-xl-11.m-auto(titulo="BPM en los procesos y documentación")
               .row.justify-content-center.align-items-center
                   p También se deben tener en cuenta los análisis de laboratorios para establecer cuáles son los contaminantes físicos, químicos y microbiológicos. Con el fin de garantizar un resultado óptimo en las BPM, se necesitan los controles que certifiquen el cumplimiento de los procedimientos y los criterios para obtener la calidad deseada. Su propósito es la definición, por escrito, de los procedimientos y los controles. El sistema de control debe permitir diferenciar entre números de lotes, fecha de fabricación y vencimiento, y debe permitir seguir el rastro del producto.
   
