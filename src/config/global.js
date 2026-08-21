@@ -189,7 +189,7 @@ export default {
     {
       termino: 'BPM',
       significado:
-        'sigla para el término “Buenas Prácticas de Manufactura”. Hace referencia a la manera en que se deben administrar los productos para una buena higiene, desde su manipulación hasta su preparación, elaboración, envasado, almacenamiento, transporte y distribución, para que finalmente pueda ser consumido.',
+        'sigla para el término “Buenas Prácticas de Manufactura”. Hace referencia a la manera en que se deben administrar los productos para una buena higiene, desde su manipulación hasta su preparación, elaboración, envasado, almacenamiento, transporte y distribución, para que finalmente puedan ser consumidos.',
     },
     {
       termino: 'Canales',
@@ -204,12 +204,12 @@ export default {
     {
       termino: 'Degustación',
       significado:
-        'pruebas que se le regalan a los clientes dentro de un establecimiento de uno o varios productos para que lo(s) conozcan, lo(s) experimenten en carne propia y luego puedan tomar una decisión de compra.',
+        'acción de ofrecer a los clientes muestras de uno o varios productos dentro de un establecimiento, con el propósito de que los conozcan, los prueben y puedan tomar una decisión de compra.',
     },
     {
       termino: 'Demostración',
       significado:
-        'forma en que se promociona un producto, poniéndolo a prueba con los clientes dentro de un establecimiento para que puedan percibir su funcionamiento.',
+        'acción de presentar un producto a los clientes, mostrando sus características, funcionamiento o beneficios para facilitar su conocimiento y apoyar la decisión de compra.',
     },
     {
       termino: 'Flexibilidad',
@@ -244,10 +244,10 @@ export default {
     {
       termino: 'Promoción',
       significado:
-        'acciones publicitarias que sirven para sensibilizar a los clientes con el objetivo de que tomen decisiones de compra, para mejorar las ventas y crear fidelización de marca.',
+        'conjunto de acciones comerciales y publicitarias destinadas a incentivar la decisión de compra de los clientes, mejorar las ventas y favorecer la fidelización de la marca.',
     },
     {
-      termino: 'Promoción de venta',
+      termino: 'Promoción de ventas',
       significado:
         'acciones publicitarias y de mercadeo que incentivan a los clientes a tomar una decisión de compra en corto plazo, a través de técnicas promocionales como rebajas en el precio de un producto o servicio, descuentos, ofertas, cupones o el tradicional 2 x 1, entre otras.',
     },
@@ -355,7 +355,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional G06. Responsable del Ecosistema de Recursos Educativos Digitales (RED) ',
+            'Profesional G06. Responsable del Ecosistema de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -371,12 +371,12 @@ export default {
         {
           nombre: 'Samuel Pinilla Hurtado',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio – Regional Antioquia',
+          centro: 'Centro de Comercio - Regional Antioquia',
         },
         {
           nombre: 'Zvi Daniel Grosman',
           cargo: 'Diseñador instruccional',
-          centro: 'Centro Agropecuario La Granja – Regional Tolima',
+          centro: 'Centro Agropecuario La Granja - Regional Tolima',
         },
         {
           nombre: 'Carolina Coca Salazar',
@@ -406,7 +406,7 @@ export default {
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrollador <i>full-stack</i>',
+          cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

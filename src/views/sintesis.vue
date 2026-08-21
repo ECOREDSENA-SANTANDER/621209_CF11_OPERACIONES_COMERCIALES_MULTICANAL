@@ -2,7 +2,7 @@
   .curso-main-container.pb-3
     BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p.mb-5 La presente síntesis organiza los elementos clave que estructuran las ventas en el formato comercial, cada sección aborda aspectos relevantes como la promoción, el portafolio de productos, y la omnicanalidad, proporcionando un marco integral para entender las estrategias comerciales y las herramientas que potencian la interacción con los consumidores en distintos escenarios. 
+      p.mb-5 La presente síntesis organiza los elementos clave que estructuran las ventas en el formato comercial, cada sección aborda aspectos relevantes como la promoción, el portafolio de productos, y la omnicanalidad, proporcionando un marco integral para entender las estrategias comerciales de ventas y las herramientas que potencian la interacción con los consumidores en distintos escenarios. 
   
       .row.justify-content-center
         .col-lg-12.mb-5

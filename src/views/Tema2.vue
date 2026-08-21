@@ -607,295 +607,105 @@
         .col-lg-1.col-md-2.col-3.mb-3
           img(src='@/assets/curso/temas/tema2/img11.png', alt='')
         .col-lg-11.col-md-12.col-sm-12
-          p Estas  son las normas establecidas oficialmente por las empresas que actualmente regulan a las Plantas Procesadoras de Alimentos (PPA) en relación con los procedimientos de fabricación, limpieza y desinfección, higiene personal, manipulación, controles, registros y almacenamiento, garantizando así la calidad y seguridad de los alimentos (Amagua, Coronel, Quintana y Reyes, 2016).
+          p Las Buenas Prácticas de Manufactura (BPM) comprenden medidas y procedimientos de higiene, manipulación, limpieza, desinfección, almacenamiento y conservación que contribuyen a prevenir la contaminación y a mantener la calidad y seguridad de los alimentos. En el contexto del punto de venta, son especialmente relevantes cuando se realizan demostraciones o degustaciones de productos. 
   
-      p.mb-4 El uso de las BPM en la industria de alimentos pueden aplicarse alrededor de las PPA o al interior de estas:
+      p.mb-4 Para este componente, su aplicación se aborda en relación con materias primas y productos, higiene personal, elaboración o manipulación, almacenamiento y transporte, y prácticas de limpieza y desinfección. 
   
-      .row.justify-content-center.align-items-center.mb-2(data-aos="zoom-in-left")
-        .col-lg.col-md-12.col-sm-12.mb-4
-          .bordeazulredondo.p-4
-            .row.align-items-center.justify-content-center
-              .col-lg-10.col-md-5.col-5
-                img(src='@/assets/curso/temas/tema2/tar5-1.png', alt='').mb-4
-            h4.mb-0.text-center En la planta
-            p.mb-5.text-center En los pisos, paredes, cielo raso y desagües.
-            .row.mb-5.mt-5
-            .row.mb-3
-        .col-lg.col-md-12.col-sm-12.mb-4
-          .bordeazulredondo.p-4
-            .row.align-items-center.justify-content-center
-              .col-lg-10.col-md-5.col-5
-                img(src='@/assets/curso/temas/tema2/tar5-2.png', alt='').mb-4
-            h4.mb-0.text-center En los alrededores
-            p.mb-5.text-center Zonas externas a las PPA para presentar facilidades sanitarias.
-            .row.mb-5
-        .col-lg.col-md-12.col-sm-12.mb-4
-          .bordeazulredondo.p-4
-            .row.align-items-center.justify-content-center
-              .col-lg-10.col-md-5.col-5
-                img(src='@/assets/curso/temas/tema2/tar5-3.png', alt='').mb-4
-            h4.mb-0.text-center Con equipos
-            p.mb-5.text-center Desinfección, mantenimiento y calibración de los equipos.
-            .row.mb-4
-        .col-lg.col-md-12.col-sm-12.mb-4
-          .bordeazulredondo.p-4
-            .row.align-items-center.justify-content-center
-              .col-lg-10.col-md-5.col-5
-                img(src='@/assets/curso/temas/tema2/tar5-4.png', alt='').mb-4
-            h4.mb-0.text-center En almacenes
-            p.mb-5.text-center Ubicación interna, buena ventilación e iluminación.
-            .row.mb-4
-        .col-lg.col-md-12.col-sm-12.mb-4
-          .bordeazulredondo.p-4
-            .row.align-items-center.justify-content-center
-              .col-lg-10.col-md-5.col-5
-                img(src='@/assets/curso/temas/tema2/tar5-5.png', alt='').mb-4
-            h4.mb-0.text-center Procesos productivos
-            p.mb-4.text-center Aplicación de criterios sanitarios de higiene y presentación del personal, como ejemplo
-  
-  
-      p Este tema tiene que ver con todo el establecimiento, con el personal o empleados, con la higiene en la producción o transformación de los productos, con el almacenamiento y transporte de materias primas y del producto final, con el control de procesos en la producción y la documentación, entre otros. De tal forma que se pueda garantizar la calidad en los productos alimenticios.
-      p.mb-4 A continuación, su aplicación a diferentes procesos:
   
       .row.justify-content-center.align-items-center.mb-5.mt-5
         .col-lg-10.col-md-12.col-sm-12
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             .row.col-xl-11.m-auto(titulo="BPM de materias primas")
               .row.justify-content-center.align-items-center
-                p Si se sospecha que la materia prima es inadecuada, debe ser aislada de inmediato para ser rotulada y eliminarla. Las medidas que la empresa debe tener para la eliminación de esta materia prima contaminada son específicas, según sea el proceso de elaboración. La materia prima debe estar almacenada en condiciones adecuadas que certifiquen su protección contra cualquier tipo de contaminante. Los productos terminados deben estar lejos del depósito para evitar la contaminación. Además, el almacenamiento se debe realizar en condiciones óptimas y el transporte debe realizarse según sean los principios higiénico-sanitarios que la empresa considere pertinentes.
-            .row.col-xl-11.m-auto(titulo="BPM en los establecimientos")
+                p Las materias primas y los productos destinados a demostraciones o degustaciones deben encontrarse en condiciones adecuadas, protegidos de posibles contaminantes y conservarse según los requerimientos del producto antes de su manipulación o entrega al consumidor. 
+                p Las personas que manipulen alimentos deben mantener una adecuada higiene personal, usar indumentaria limpia y los elementos de protección que correspondan, evitar joyas y prácticas que puedan contaminar el producto, y lavarse las manos con frecuencia, especialmente antes de manipular alimentos. 
+            .row.col-xl-11.m-auto(titulo="BPM en la elaboración de alimentos ")
               .row.justify-content-center.align-items-center
-                  p No pueden estar ubicados en lugares que afecten la calidad del producto, como, por ejemplo, zonas con humedad o agua, peligro de deslave o incluso olores censurables. Las vías internas en la empresa deben estar pavimentadas de tal forma que permitan la circulación de furgones, camiones y contenedores. La estructura del establecimiento debe ser sólida y sanitariamente apropiada, además, no debe haber materiales que transmitan sustancias indeseables a los alimentos. Deben existir muros y separaciones entre las áreas para evitar la contaminación cruzada. Los equipos e instrumentos deben ser de un material que permita desmontarlos para su desinfección. Es por esto por lo que el diseño de los equipos tiene que admitir una óptima desinfección. La limpieza de las áreas debe hacerse de manera fácil y adecuada. El agua usada para la limpieza tiene que ser potable y los pisos deben tener una inclinación del 2 % para su correcto desagüe. Y finalmente, la caja de revisión se debe situar en el exterior de la PPA.
-            .row.col-xl-11.m-auto(titulo="BPM en procesadoras de alimentos")
+                  p Durante la preparación o manipulación de alimentos para demostraciones y degustaciones se deben utilizar materiales, utensilios y superficies limpias, evitar fuentes de contaminación y aplicar prácticas higiénicas que protejan la calidad y seguridad del producto. 
+            .row.col-xl-11.m-auto(titulo="BPM en el almacenamiento y transporte ")
               .row.justify-content-center.align-items-center
-                  p Las herramientas, equipos y material de trabajo se deben mantener en el mejor estado higiénico para su máxima conservación. En la limpieza y desinfección, se deben usar productos que no contaminen el proceso de las PPA. Se recomienda aplicar Planes Operativos Estandarizados de Saneamiento (POES) que muestran cómo, cuándo y dónde hacer limpieza y desinfección. 
-            .row.col-xl-11.m-auto(titulo="BPM en la higiene personal")
-              .row.justify-content-center.align-items-center
-                  p Su finalidad es garantizar la no contaminación de los alimentos por parte de las personas que entren en contacto, bien sea directo o indirecto, con los alimentos. Para ello, en las PPA debe haber instrucciones por escrito y reglas establecidas de estricto cumplimiento por parte de estos empleados, y que son referentes a sus hábitos en la higiene personal, como por ejemplo, que se bañen todos los días; tener uñas cortadas y limpias; tener ropa interior y uniformes limpios; uso de mascarillas; mantener los guantes aseados; usar ropa adecuada para evitar la contaminación como mallas para el cabello, guantes o gorras; hombres afeitados o mínimo, que tengan protectores para la barba; no usar joyas; mantenimiento del lugar de trabajo aseado; no ingerir comida, no comer chicle ni fumar en la planta; nada de maquillaje ni lociones o perfumes; lavarse las manos con frecuencia, en especial, luego de usar el teléfono, haber tocado el piso, recipientes de basura o cualquier fuente contaminante; entre otras consideraciones.
-            .row.col-xl-11.m-auto(titulo="BPM en sustancias peligrosas")
-              .row.justify-content-center.align-items-center
-                  p Se deben rotular con una etiqueta que sea visible todas aquellas sustancias tóxicas, como, por ejemplo, solventes y plaguicidas, que puedan representar un riesgo para la salud y una fuente de contaminación para los productos alimenticios. Además de almacenarlos en áreas exclusivas alejadas de las PPA.
-            .row.col-xl-11.m-auto(titulo="BPM en la elaboración de alimentos")
-              .row.justify-content-center.align-items-center
-                  p El material que se va a destinar para empacar y envasar no puede emitir sustancias tóxicas y, además, debe estar libre de contaminantes. La elaboración de los alimentos o el proceso de transformación que estos sufren debe ser realizado por empleados que hayan tenido capacitación al respecto y supervisado por el personal técnico.
-            .row.col-xl-11.m-auto(titulo="BPM en el almacenamiento y transporte")
-              .row.justify-content-center.align-items-center
-                  p Como todas las prácticas anteriores, el almacenamiento y transporte deben realizarse en condiciones óptimas. Realizar inspecciones periódicas durante el almacenamiento. Dependiendo del tipo de producción se instauran las exigencias para el transporte de materias primas. Cuando hay alimentos congelados deben ser transportados con un correcto funcionamiento del equipo de frío, verificando que su temperatura sea la adecuada. Los vehículos, accesorios y conexiones deben estar siempre limpios, libres de tierra o desperdicio que contaminen los alimentos. Por otro lado, dependiendo del tipo de transporte, pueden variar los procesos y productos de limpieza. 
-            .row.col-xl-11.m-auto(titulo="BPM en los procesos y documentación")
-              .row.justify-content-center.align-items-center
-                  p También se deben tener en cuenta los análisis de laboratorios para establecer cuáles son los contaminantes físicos, químicos y microbiológicos. Con el fin de garantizar un resultado óptimo en las BPM, se necesitan los controles que certifiquen el cumplimiento de los procedimientos y los criterios para obtener la calidad deseada. Su propósito es la definición, por escrito, de los procedimientos y los controles. El sistema de control debe permitir diferenciar entre números de lotes, fecha de fabricación y vencimiento, y debe permitir seguir el rastro del producto.
-  
+                  p Los productos destinados a actividades promocionales deben almacenarse y transportarse en condiciones que preserven su calidad y seguridad, manteniendo la temperatura requerida cuando corresponda y evitando su exposición a fuentes de contaminación. 
+           
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Prácticas de limpieza
           img.icon(src='@/assets/curso/temas/icon.svg') 
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-4.mb-3
+          img(src='@/assets/curso/temas/tema2/img01.png' alt='')
+        .col-lg-8
+          p La empresa siempre debe procurar que, de manera permanente, se hagan acciones como barrer, limpiar, enjuagar, escurrir, desinfectar. 
+          p En el punto de venta, la limpieza debe concentrarse en las superficies, utensilios, equipos y áreas utilizadas durante la demostración o degustación, de acuerdo con las necesidades del producto y de la actividad promocional. 
   
-      p.mb-4 La empresa siempre debe procurar que, de manera permanente, se hagan acciones como barrer, limpiar, enjuagar, escurrir, desinfectar. Existen algunos factores que afectan a la limpieza y desinfección de las PPA: 
-  
-      .row(data-aos="fade-down").mb-2
-        .col-lg-4.col-md-12.col-12
-          .tarjeta-avatar
-            img.mt-2(src='@/assets/curso/temas/tema2/tar6-1.png' alt='')
-            .row.justify-content-center.align-items-center.mt-5.mb-5.mx-1
-              .tarjeta--boton.tema1
-                .p-4
-                  br
-                  h4.mt-5.text-center Diseño de la planta
-                  p.mt-2.mb-5.text-center Materiales de construcción, diseño arquitectónico de las instalaciones.
-        .col-lg-4.col-md-12.col-12
-          .tarjeta-avatar
-            img.mt-2(src='@/assets/curso/temas/tema2/tar6-2.png' alt='')
-            .row.justify-content-center.align-items-center.mt-5.mb-5.mx-1
-              .tarjeta--boton.tema1
-                .p-4
-                  br
-                  h4.mt-5.text-center Suciedad 
-                  p.mt-2.mb-5.text-center Cantidad de sucio, tipo y tiempo que lleva acumulado.
-        .col-lg-4.col-md-12.col-12
-          .tarjeta-avatar
-            img(src='@/assets/curso/temas/tema2/tar6-3.png' alt='')
-            .row.justify-content-center.align-items-center.mt-5.mx-1
-              .tarjeta--boton.tema1
-                .p-4
-                  br
-                  h4.mt-5.text-center Procesos de limpieza
-                  p.mt-2.mb-0.text-center Tiempo que dura el proceso, tipo de detergente a usar y su concentración, velocidad de flujo de la solución detergente usada por la PPA, acción mecánica.
-  
-      p.mb-4 Las siguientes son las 4 zonas en las que se  debe poner atención para tener BPM:
-  
-      .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
-        .col-lg-3.col-md-6.col-12.mb-4
-          .bgrosado.p-4.borde-redondo
-            h4.mb-3.text-center Zona 1
-            .row.align-items-center.justify-content-center
-              .col-7
-                img(src='@/assets/curso/temas/tema2/tar7-1.png', alt='').mb-4
-            p.text-center.mb-4 Superficies que tengan contacto con el producto, bandas transportadoras, mesas de trabajo, sierras, tuberías, tanques, rebanadoras, llenadores, herramientas. 
-        .col-lg-3.col-md-6.col-12.mb-4
-          .bgrosado.p-4.borde-redondo
-            h4.mb-3.text-center Zona 2
-            .row.align-items-center.justify-content-center
-              .col-7
-                img(src='@/assets/curso/temas/tema2/tar7-2.png', alt='').mb-4
-            p.mb-5.text-center Exterior de los equipos, unidades de refrigeración, pisos, marcos, coches de transporte.
-            .row.mb-5
-        .col-lg-3.col-md-6.col-12.mb-4
-          .bgrosado.p-4.borde-redondo
-            h4.mb-3.text-center Zona 3
-            .row.align-items-center.justify-content-center
-              .col-7
-                img(src='@/assets/curso/temas/tema2/tar7-3.png', alt='').mb-4
-            p.mb-5.text-center Teléfonos, montacargas, intercomunicadores, drenajes, paneles.
-            .row.mb-5
-        .col-lg-3.col-md-6.col-12.mb-4
-          .bgrosado.p-4.borde-redondo
-            h4.mb-3.text-center Zona 4
-            .row.align-items-center.justify-content-center
-              .col-7
-                img(src='@/assets/curso/temas/tema2/tar7-4.png', alt='').mb-4
-            p.mb-5.text-center Vestidores, pasillos, cafetería, cuarto de entrenamientos, salas de reuniones, lavandería.
-            .row.mb-5
-  
+      
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Métodos de limpieza
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-4.col-md-6.col-6.mb-3
-          img(src='@/assets/curso/temas/tema2/img12.png', alt='')
-        .col-lg-8.col-md-12.col-col-sm-12
-          p.mb-4 Existen dos métodos de limpieza:
-          .bg01.borde-redondo.p-4
-            SlyderF(columnas="col-lg-12 col-md-12 col-12")
-              .tarjeta.tarjeta--slyder.p-3
-                .row.justify-content-center.align-items-center(titulo="xxx")
-                  .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-1.png', alt='Texto que describa la imagen')
-                  .col-md-8
-                    h4.mb-4 Limpieza en húmedo
-                    p.mb-4 Utiliza detergentes y agua. Se usan los siguientes procedimientos: preenjuague para eliminar la suciedad y ablandarla, de tal manera que luego sea fácilmente contrarrestada por el detergente. Luego viene la limpieza con el detergente en la que se pueden tener a disposición compuestos para efectuar la limpieza, como lo son álcalis, fosfatos, ácidos, humectantes y agentes quelantes; cada compuesto se aplica según sea la necesidad.
-              .tarjeta.tarjeta--slyder.p-3
-                .row.justify-content-center.align-items-center(titulo="xxx")
-                  .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-2.png', alt='Texto que describa la imagen')
-                  .col-md-8
-                    h4.mb-4 Limpieza en seco
-                    p.mb-4 Elimina la suciedad seca sin usar agua; se puede desarrollar a través de aspiradora, soplador (aire a presión), escoba, cepillo, raspador, etc.
-              .tarjeta.tarjeta--slyder.p-3
-                .row.justify-content-center.align-items-center(titulo="xxx")
-                  .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-3.png', alt='Texto que describa la imagen')
-                  .col-md-8
-                    h4.mb-4 Desinfección
-                    p.mb-4 Se deben definir planes validados de limpieza y desinfección por cada área y equipo, teniendo en cuenta la frecuencia, método, producto y responsable directo de cada área. Se debe hacer una selección de detergentes y desinfectantes, además de tener claros los datos técnicos y precauciones, con disolución adecuada a la hora de desinfectar. Todas las superficies que entren en contacto con los alimentos incluyen herramientas y guantes, que deben limpiarse y desinfectarse de forma frecuente. Las superficies que se usan para fabricar alimentos de baja humedad deben estar secos y en condiciones sanitarias.
-              .tarjeta.tarjeta--slyder.p-3
-                .row.justify-content-center.align-items-center(titulo="xxx")
-                  .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly4-3.png', alt='Texto que describa la imagen')
-                  .col-md-8
-                    h4.mb-4 Monitoreo ambiental
-                    p.mb-4 Las pruebas para el control  ambiental son una manera de calcular la efectividad de los procesos sanitarios: evaluar las superficies y aguas de enjuague bioluminiscencia. Proteínas descompuestas: método de detección colorimétrico (verde, gris, púrpura). Se deben tener claro cuáles son los puntos de monitoreo, los tanques de almacenamiento, las conexiones en sistemas, los cortadores.
-  
-  
+      .row.justify-content-center.align-items-center.mb-3
+        .col-lg-5.mb-3
+          .tarjeta--boton
+            .row.p-5.align-items-center
+              .col-lg-4.mb-3
+                img(src='@/assets/curso/temas/tema2/img001.png')
+              .col-lg-6
+                h4 Limpieza en húmedo
+                p Utiliza detergentes y agua. 
+              
+        
+        .col-lg-5.mb-3
+          .tarjeta--boton
+            .row.p-5.align-items-center
+              .col-lg-4.mb-3
+                img(src='@/assets/curso/temas/tema2/img002.png')
+              .col-lg-8
+                h4 Limpieza en seco
+                p Elimina la suciedad seca sin usar agua; se puede desarrollar a través de aspiradora, soplador (aire a presión), escoba, cepillo, raspador, etc. 
+              
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Guía de control de plagas
+          h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Desinfección
           img.icon(src='@/assets/curso/temas/icon.svg') 
-  
-      .row.fondocontenedor1.justify-content-center.align-items-center.mb-5
-  
-        .row.justify-content-center.align-items-center
-          .col-lg-11.col-md-12.col-sm-12
-            p.mb-4.mt-4 Las plagas traen consigo un riesgo peligroso porque acarrean una gran cantidad de microorganismos y parásitos nocivos a través de su piel, fosas nasales, tracto gastrointestinal y deposiciones, por ello se deben conocer las condiciones de la planta que facilitan la invasión de plagas, especialmente en el almacenamiento de materia prima, depósitos de basura y desperdicios.
-  
-        .row.justify-content-center.align-items-center
-          .col-lg-10.col-md-12.col-sm-12
-            .titulo-nuevo.mt-2
-              | 
-              h2 Definiciones para elaborar un Programa de Control de Plagas (PCP):
-  
-        .row.justify-content-center.align-items-center.mb-4
-          .col-lg-3.col-md-5.col-5.mb-4
-            img(src='@/assets/curso/temas/tema2/img13.png', alt='')
-          .col-lg-7.col-md-12.col-sm
-            ul.lista-ul--color.color-acento-contenido.fa-ul
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Plaga:] especie que puede llegar hacer mucho daño, siendo una amenaza para la empresa y la PPA, especialmente cuando se encuentra en gran cantidad.
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Cebo:] es un veneno que se prepara en forma de comida y que va dirigida a las plagas para poderlas exterminar.
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Cebar:] poner el cebo seleccionado de manera que sea ingerido por la plaga.
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Infestación:] número alto de individuos que tiene una plaga y que es nocivo para la PPA.
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Plaguicida:] sustancia destinada para la prevención o el control de plagas.
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Rodenticida:] plaguicida que sirve para controlar roedores, ratones y ratas.
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Raticida:] rodenticida que controla solamente ratas.
-              li 
-                i.fas.fa-bullhorn
-                span.mb-0 #[b Fumigación:] método rápido para controlar las plagas como, por ejemplo, cianuro de calcio y fosfuro de hidrógeno.
-  
-      .row.justify-content-center.align-items-center
-        .col-lg-10.col-md-12.col-sm-12
-          p La gerencia del control de calidad de la planta es la que se encarga del control de plagas. La empresa debe asignar a una persona que se encargue de la Planeación y Control de Producción (PCP), quien tendrá la autoridad para requerir la ayuda del personal y supervisar el programa. Esta persona se debe capacitar en la manipulación de plaguicidas y  control de plagas y su responsabilidad es mantener limpios y seguros los alrededores de la planta y su interior. Además, debe conocer si la planta está ubicada en sitios donde los sistemas de limpieza sean deficientes y donde se almacene una gran cantidad de desperdicios.
-        .col-lg-2.col-md-3.col-3
-          img(src='@/assets/curso/temas/tema2/img14.png', alt='')
-      
-      .row(data-aos="fade-down")
-        .col-lg-6.col-md-12.col-12
-          .tarjeta-avatar
-            img.mt-5(src='@/assets/curso/temas/tema2/tar8-1.png' alt='')
-            .row.justify-content-center.align-items-center.mt-5.mb-5.mx-1
-              .tarjeta--boton.bg05.text-white
-                .p-4
-                  br
-                  br
-                  br
-                  h4.text-center.mt-5 Medidas preventivas
-                  ul.lista-ul--color.color-secundario.fa-ul.mt-4
-                    li 
-                      i.fas.fa-check-circle
-                      span.mb-0 Evitar la entrada de plagas al interior de la planta de alimento.
-                    li 
-                      i.fas.fa-check-circle
-                      span.mb-0 Limitar el acceso directo a las zonas donde se encuentran los alimentos. 
-                    li 
-                      i.fas.fa-check-circle
-                      span.mb-0 Eliminar ambientes favorables que permitan la proliferación y desarrollo de plagas. 
-                    li 
-                      i.fas.fa-check-circle
-                      span.mb-0 Diligencia rigurosa del programa de limpieza y desinfección.
-        .col-lg-6.col-md-12.col-12
-          .tarjeta-avatar
-            img.mt-5(src='@/assets/curso/temas/tema2/tar8-2.png' alt='')
-            .row.justify-content-center.align-items-center.mt-5.mb-5.mx-1
-              .tarjeta--boton.bg06
-                .p-4
-                  br
-                  br
-                  br
-                  h4.text-center.mt-5 Medidas correctivas
-                  ul.lista-ul--color.color-secundario.fa-ul.mt-4.mb-5
-                    li 
-                      i.fas.fa-check-circle
-                      span.mb-0 #[b Contra roedores:] trampas y rodenticidas anticoagulantes. 
-                    li 
-                      i.fas.fa-check-circle
-                      span.mb-0 #[b Contra cucarachas:] insecticidas piretroides y del grupo fosforado.
-                    li 
-                      i.fas.fa-check-circle
-                      span.mb-0 #[b Contra moscas:] insecticidas similares y trampas eléctricas, luz UV. Las aves son portadores de enfermedades y parásitos peligrosos para la salud (Amagua, Coronel, Quintana y Reyes, 2016).
-  
+
+      p Además de los procesos de limpieza, se debe realizar la desinfección de las superficies, herramientas y equipos que entren en contacto con los alimentos, de acuerdo con las condiciones de la actividad. 
+
+      .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img003.png')})`}"
+        )
+        .bloque-texto-g__texto.p-5
+          p.mb-0 En síntesis, las BPM deben aplicarse cuando la promoción implique manipulación de alimentos, especialmente en demostraciones y degustaciones, con el fin de proteger al consumidor y conservar la calidad del producto. A partir de este marco, se abordan las técnicas promocionales de demostración y degustación en los apartados siguientes. 
+       
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       separador
       #t_2_6.titulo-segundo
         h2 2.6 Las demostraciones
@@ -991,7 +801,7 @@
           p Un vendedor comercial, siendo un excelente orador y exhibidor de productos, puede mejorar su actuación utilizando otros canales como el audio y el video para reforzar su mensaje, una técnica conocida como demostración.
           p.mb-4 Cuando se enfrenta a un posible cliente, es crucial considerar las diferencias individuales en relación con los medios visuales. Si el cliente no comprende bien la presentación oral, el vendedor debería usar medios visuales de comunicación. Esto resalta la importancia de las cuatro características básicas de la demostración: comprensión, interés, credulidad y persuasión, para motivar la compra.
           .cajon.color-primario.p-5.mb-5
-            .h5 Preguntarse. ¿Qué se puede mostrar al cliente para realzar la presentación? 
+            .h5 Preguntarse: ¿Qué se puede mostrar al cliente para realzar la presentación? 
             p Es fundamental contar con, videos, imágenes, fotografías, multimedia y presentaciones digitales, con las cuales se puede hacer la demostración más efectiva. Incluso, un testimonio de un cliente satisfecho puede ser muy convincente.
       
       p Al exhibir las ventajas del producto, el vendedor debe aprovechar la acumulación espacial y la selectividad de la percepción. Mantener cautivos los ojos y oídos del cliente aumenta las posibilidades de venta. La elección del canal adecuado puede manipular la atención del cliente, incrementando el realismo y facilitando la comprensión de la demostración.
@@ -1128,7 +938,7 @@
           .cajon.color-acento-contenido.p-4.mb-4
             p Hay quienes mencionan que esta actividad solo es una buena alternativa para comer en el punto de venta y que no representa un buen beneficio para la marca. Pero, para poder ser más prudente con el análisis, se recomienda tener claro cómo están las ventas del producto en el momento antes de la degustación, y cómo reaccionan durante y después de la misma. La medición final va a permitir el establecimiento bastante preciso sobre la eficacia de la actividad en el punto de venta. 
   
-      p.mb-4 Las siguientes son tres consideraciones que es vital tenerla en cuenta al implementar un plan de degustación:
+      p.mb-4 Las siguientes son tres consideraciones que es vital tener en cuenta al implementar un plan de degustación:
   
       .row.mb-4
         AcordionA.bg07(tipo="b" clase-tarjeta="tarjeta bg07")

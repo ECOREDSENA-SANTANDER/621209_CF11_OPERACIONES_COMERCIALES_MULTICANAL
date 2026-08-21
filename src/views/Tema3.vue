@@ -18,7 +18,7 @@
   
       separador
       #t_3_1.titulo-segundo.mb-5
-        h2 3.1 Niveles la comunicación comercial
+        h2 3.1 Niveles de la comunicación comercial
   
       p Los instrumentos o herramientas de comunicación son aplicados a diferentes niveles dentro de la empresa, buscando diferentes objetivos según sea el nivel donde se aplique:
   
@@ -113,7 +113,7 @@
                 img(src='@/assets/curso/temas/tema3/ps1-2.png', alt='')
             .row.align-items-center.justify-content-center(numero="3" titulo= "Formulario de contacto")
               .col-md-10.col-lg-7.col-sm-12
-                p Es un medio bastante útil, porque es primordial para interactuar con los clientes y poderles ofrecerles una manera veloz y sin problemas de mantener un contacto directo con la empresa. Su función es la de recibir el primer contacto con un cliente potencial, que por lo general se encuentra ubicado en el sitio web, y que a partir de ahí comienza  la venta, por lo que es una pieza vital en el engranaje para entregar valor a la marca.
+                p Es un medio bastante útil, porque es primordial para interactuar con los clientes y poder ofrecerles una manera veloz y sin problemas de mantener un contacto directo con la empresa. Su función es la de recibir el primer contacto con un cliente potencial, que por lo general se encuentra ubicado en el sitio web, y que a partir de ahí comienza  la venta, por lo que es una pieza vital en el engranaje para entregar valor a la marca.
               .col-md-2.col-lg-4.col-10
                 img(src='@/assets/curso/temas/tema3/ps1-3.png', alt='')
             .row.align-items-center.justify-content-center(numero="4" titulo= "Redes sociales")
@@ -171,7 +171,7 @@
                   img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-3.png', alt='Texto que describa la imagen')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Ser un asesor activo
-                  p Esta función es la que hace la diferencia entre un vendedor de un asesor comercial. El asesor no se limita en responder preguntas del cliente, sino que intenta indagar sobre sus necesidades, escuchándolo con atención para ofrecerle la mejor opción, aunque esta pueda ser completamente distinta a la que en principio el cliente buscaba.
+                  p Esta función es la que hace la diferencia entre un vendedor y un asesor comercial. El asesor no se limita en responder preguntas del cliente, sino que intenta indagar sobre sus necesidades, escuchándolo con atención para ofrecerle la mejor opción, aunque esta pueda ser completamente distinta a la que en principio el cliente buscaba.
               .row.justify-content-center.align-items-center(titulo="D")
                 .col-md-3.col-lg-3.col-6
                   img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-4.png', alt='Texto que describa la imagen')
@@ -243,7 +243,7 @@
                 .col-lg-7.col-md-12.col-sm-12
                   h4.mb-4 Folletos
                   p Son de menor tamaño que los medios antes mencionados y también están basados en una comunicación escrita. 
-                  p Se usan de manera interna para permitir el acercamiento directo con empleados y con clientes reales y potenciales pues en la mayoría de los casos se entregan de manera directa. La marca que los envía a impresión (en este caso, anunciante), brinda a través de este medio una información completa y extensa sobre las características y beneficios del producto. En comparación con los periódicos y revista tienen bajo costo por impresión en volumen (Arellano, Barrera, Buendía, Castillo y Zamora, 2013).
+                  p Se usan de manera interna para permitir el acercamiento directo con empleados y con clientes reales y potenciales pues en la mayoría de los casos se entregan de manera directa. La marca que los envía a impresión (en este caso, anunciante), brinda a través de este medio una información completa y extensa sobre las características y beneficios del producto. En comparación con los periódicos y revistas tienen bajo costo por impresión en volumen (Arellano, Barrera, Buendía, Castillo y Zamora, 2013).
                 .col-lg-4.col-md-6.col-9
                   img(src="@/assets/curso/temas/tema3/sly1-3.png")
   
@@ -382,251 +382,20 @@
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Tipos de material publicitario en el punto de venta
           img.icon(src='@/assets/curso/temas/icon.svg') 
   
-      p.mb-4 A continuación, se invita a interactuar para conocer diferentes tipos de material publicitario utilizado en el punto de venta:
+      p.mb-4 Para conocer los diferentes tipos de material publicitario utilizados en el punto de venta, sus características y aplicaciones, consulte el siguiente recurso descargable.
   
-      .row.justify-content-center.align-items-center
-          .col-lg-12.col-md-12.col-sm-12
-            ImagenInfograficaB.color-acento-botones
-              template(v-slot:imagen)
-                figure
-                  img(src='@/assets/curso/temas/tema3/pc1.png', alt='Texto que describa la imagen')
-              .tarjeta.color-acento-contenido.p-4(x="70%" y="14%" numero="+")
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Exhibidor
-                      p Exponen los productos en diferentes zonas del establecimiento, que van desde el mostrador hasta los pasillos, permitiendo que los artículos se destaquen. 
-                      p Originan la interacción con el cliente, haciendo que se estimule en el cliente una experiencia de compra personalizada, porque le deja analizar que el producto satisface una necesidad, permitiéndole ver, tocar y en ocasiones probar el producto. Al utilizar exhibidores POP, se pueden rentabilizar los espacios vacíos existentes en el establecimiento, ya que se aprovechan zonas donde las góndolas no pueden llegar.
-                    .col-lg-4
-                      img(src='@/assets/curso/temas/tema3/pc1-1.png', alt='')
-  
-              div(x="78%" y="31%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Rompetráfico
-                      p Es una pieza publicitaria que impide, separa o transgrede la circulación de los consumidores en el punto de venta. Su objetivo es llamar la atención para que mejore la percepción de los clientes acerca de los productos exhibidos, a la vez que exhibe sus características.
-                      p Algunas de sus principales características son:
-                      ul.lista-ul--color.color-secundario.fa-ul.mt-4
-                        li 
-                          i.fas.fa-check-circle
-                          span.mb-0 Tiene gráficos que refuerzan la identidad corporativa.
-                        li 
-                          i.fas.fa-check-circle
-                          span.mb-0 Refuerza el posicionamiento y lugar del producto en el establecimiento.
-                        li 
-                          i.fas.fa-check-circle
-                          span.mb-0 Hay varios tipos de rompe tráfico y su clasificación depende del lugar en el punto de venta: de piso, de pared, colgantes, en góndola y corredores.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-2.png', alt='')
-  
-              div(x="80%" y="50%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Hablador
-                      p Pieza publicitaria que enuncia las características de los productos exhibidos. Las siguientes son sus características:
-                      ul.lista-ul--color.color-secundario.fa-ul.mt-4
-                        li 
-                          i.fas.fa-check-circle
-                          span.mb-0 Refuerza la identidad corporativa.
-                        li 
-                          i.fas.fa-check-circle
-                          span.mb-0 Posiciona y mejora la exposición de los productos en el establecimiento.
-                        li 
-                          i.fas.fa-check-circle
-                          span.mb-0 Se puede encontrar en línea de cajas, góndolas, vitrinas, la pared y colgando sobre los pasillos de los supermercados.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-3.png', alt='')
-  
-              div(x="33%" y="12%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Punta de góndola
-                      p Espacio que se designa en los dos extremos de un lineal o góndola para exhibir los productos de una manera más visible e impactante, de tal forma que aumente la comunicación visual porque tiene la posibilidad de tener accesorios publicitarios tales como cabezotes, laterales, frontales, cenefas y partes móviles. Su objetivo es aumentar la visibilidad y posicionar la marca en el punto de venta, por lo que son muy útiles y perfectos para hacer diseño personalizados.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-4.png', alt='')
-  
-              div(x="51%" y="29%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 #[em Dummy]
-                      p Maqueta o modelo a escala natural del producto con el objetivo de apoyar la decisión de compra por parte del cliente. Es una de las formas más efectivas para informar sobre una marca, un producto o un servicio porque presenta una gran versatilidad en diseños, tamaños y conceptos, simulando cualquier tipo de objeto o personaje que se requiera para representar ideas creativas, como, por ejemplo, la mascota y la forma del producto, entre otras. Deben ser una representación muy parecida al original de tal forma que pueda impactar visualmente al cliente.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-5.png', alt='')
-  
-              div(x="69%" y="48%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Cenefa
-                      p Pieza publicitaria que se usa en el punto de venta para beneficiar a las marcas ubicándose de manera perpendicular a los entrepaños de las góndolas o lineales y de frente al producto exhibido para destacar sus cualidades.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-6.png', alt='')
-  
-              div(x="25%" y="26%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Lateral
-                      p Por lo general se usan como exhibidores que permiten captar la atención del cliente dentro del establecimiento comercial, y si posee un diseño y un mensaje contundentes es vital para que el producto mejore su percepción.
-                      p Normalmente se encuentra ubicado en la entrada de un supermercado, en la zona de cajas, en las góndolas o lineales, en las vitrinas de congelados, colgando en los pasillos y en los muros del establecimiento. Sus características y formatos deben ser coherentes con los espacios disponibles o el diseño de la estrategia. Pero lo más importante es que el mensaje posicione la marca, sus beneficios y su diferencia competitiva.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-7.png', alt='')
-  
-              div(x="36%" y="61%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Móvil
-                      p Instrumentos promocionales que se diseñan para descolgarse del techo o de algún exhibidor de gran altura para suministrar información promocional o de ubicación de productos y servicios.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-8.png', alt='')
-  
-              div(x="25%" y="64%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 #[em Sticker]
-                      p También se conoce con el nombre de adhesivo. Es un impreso publicitario o promocional que puede ser adherido sobre los propios productos, o incluso sobre otros materiales publicitarios. Pueden resaltar una promoción, precio o producto en el #[em stock]. Puede destacar una oferta, informar novedades que posea un producto y sirve para cautivar la atención del cliente. Su tamaño es menor al de los demás materiales POP, pero su diseño y formato resultan provechosos, porque aún así la marca puede informar al cliente sobre datos de su interés, y al estar pegado sobre producto, ayuda a aumentar la intención de compra.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-9.png', alt='')
-  
-              div(x="50%" y="62%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Brochure
-                      p Pieza publicitaria que tiene forma de folleto o documento gráfico e informativo que exhibe información relevante sobre la marca que es de valor para los clientes. Desde la teoría, un brochure empresarial incluye materiales publicitarios como afiches, trípticos (plegables de tres cuerpos) y carpetas, entre otros. Estas piezas se pueden crear para uso interno o externo de la marca, es decir, pueden ir dirigidos a los empleados, así como también, puede ser diseñados para informar a los clientes. Esta pieza puede ser diseñada de manera digital para ser compartida con su público a través del correo electrónico, redes sociales e incluso el WhatsApp.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-10.png', alt='')
-  
-              div(x="66%" y="78%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Embalajes presentadores
-                      p Materiales o recipientes que sirven para la contención de un grupo de productos para exhibirlos y ponerlos en venta al público.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-11.png', alt='')
-  
-              div(x="19%" y="47%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 #[em Displays]
-                      p Son soportes independientes que pueden ser de cartón, metal, madera, tela, plástico, alambre, y que pueden exhibir varios productos. Pueden ir ubicados en escaparates (vitrina externa) como también dentro del punto de venta en zonas estratégicas donde sean visibles al cliente.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-12.png', alt='')
-  
-              div(x="46%" y="13%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Carteles
-                      p Es el más básico de la publicidad dentro del establecimiento. Es un elemento primario porque se requiere para informar todo tipo de mensajes, desde la presencia de un producto, hasta destacar precios, descuentos, promociones, etc. 
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-13.png', alt='')
-  
-              div(x="58%" y="12%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Megafonía publicitaria
-                      p Son los anuncios que se escuchan dentro del establecimiento y son emitidos por un medio radiofónico mientras los clientes hacen sus compras.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-14.png', alt='')
-  
-              div(x="39%" y="28%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Proyecciones audiovisuales
-                      p Son videos publicitarios que se emiten por medios audiovisuales como por ejemplo televisores de gran tamaño para llamar la atención del cliente y motivarlos a hacer una compra. Se ubican en zonas estratégicas del establecimiento donde el cliente puede permanecer cierto tiempo como, por ejemplo, una zona de pago.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-15.png', alt='')
-  
-              div(x="30%" y="43%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Punto de degustación
-                      p Expositor que también se sitúa por separado de los demás exhibidores y que también interfiere la circulación de los clientes dentro del establecimiento, pero que promueve una muestra gratuita del producto para que lo pruebe y lo tenga en cuenta a la hora de hacer la compra, a través de un impulsor con el fin de apreciar su calidad. Sus funciones son las de presentar al público un producto en un punto de venta, llamar la atención de los clientes, hacer que el consumidor tenga el producto en la mano y lo pruebe con el fin de ayudar en su percepción por parte de los clientes.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-16.png', alt='')
-  
-              div(x="75%" y="66%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 #[em Flanger]
-                      p Pieza publicitaria que sirve como placa con el nombre o distintivo visual de un producto o marca. Su función es la de comunicar y captar la atención de los usuarios a lo lejos sobre la presencia de un producto dentro del almacén con el objetivo de ayudar en la percepción de este en los clientes.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-17.png', alt='')
-  
-              div(x="56%" y="47%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Saltarín
-                      p Pieza publicitaria que se ubica en el borde de los entrepaños de una góndola para llamar la atención por la forma de su ubicación que lo hace salir del lineal y por su forma que se mueve bien sea al tacto o al viento; conocido también como vibrín o dangler. Su función es la de informar y captar la atención de los clientes con el objetivo de ayudar en la percepción de los productos en los clientes.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-18.png', alt='')
-  
-              div(x="44%" y="47%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Dispensador
-                      pPieza Publicitaria en la cual se ubican un grupo de productos para exhibirlos al cliente y que admite distribuir o suministrar los productos en forma de auto servicio, pero de con una estética más llamativa. Su función es la de exhibir al cliente un producto o una gama de productos dentro de establecimiento. Se usa mucho para cervezas, gaseosas y productos que necesitan ser refrigerados.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-19.png', alt='')
-  
-              div(x="33%" y="80%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Cabezote
-                      p Pieza publicitaria situada en la parte superior de una góndola que es de gran tamaño y que sirve para destacar la existencia de un producto. Sus funciones son las de apoyar visualmente a la campaña publicitaria del producto, destacar su distintivo visual, posicionarlo e informar acerca de promociones, características o beneficios para el consumidor.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-20.png', alt='')
-  
-              div(x="63%" y="61%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 #[em Banner] o pendón
-                      p Pieza publicitaria decorativa colgante que sirve para destacar una categoría, marca o producto y que está situada en el punto de venta. Generalmente son de gran formato y pueden colgar del techo, de la pared, entre columnas o postes o incluso puede tener una estructura autosostenible. Sus funciones son las de magnificar el producto o marca, orientar al cliente, destacar el distintivo visual y ser usado en eventos o fechas especiales como activación de marca, lanzamiento de nuevos productos o promociones especiales.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-21.png', alt='')
-  
-              div(x="44%" y="75%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 #[em Floor Print]
-                      p Pieza publicitaria que se adhiere al piso en el punto de venta, cerca del producto, para destacarlo, llamando la atención del cliente. Sus funciones son las de orientar al cliente, generar recordación de marca y utilizar el piso como medio publicitario.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-22.png', alt='')
-  
-              div(x="53%" y="83%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Banderines
-                      p Son instrumentos de ambientación en la zona comercial que destaca un marca o producto en el punto de venta. Sus funciones son las de aumentar la presencia de la marca o producto, ayudar a las promociones en temporadas especiales (Día del Padre o de la Madre, aniversarios, etc.) y utilizar el espacio bajo el techo como medio publicitario.
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-23.png', alt='')
-  
-              div(x="64%" y="30%" tooltip="Ver más" numero="+")
-                .tarjeta.white-card.p-4
-                  .row.align-items-center.justify-content-center
-                    .col-lg-6
-                      .h4 Cuellos de botella
-                      p Instrumentos promocionales que acompañan a los envases como por ejemplo las botellas o frascos (licores, gaseosas, mermeladas, salsas de tomate, cremas para la piel, etc.) y que son usados para dar información, destacar una promoción, mostrar un valor agregado del producto o informar sobre alguna novedad. Sus funciones son las de contener información adicional del producto como por ejemplo una promoción, recetas o formas de uso; llamar la atención en temporadas o fechas especiales (García, 2015).
-                    .col-lg-3
-                      img(src='@/assets/curso/temas/tema3/pc1-24.png', alt='')
+      .tarjeta.color-acento-contenido.p-3.mb-5
+        .row.justify-content-around.align-items-center
+          .col-3.col-sm-2.col-lg-1
+            img(src="@/assets/curso/temas/tema2/01.svg")
+          .col
+            .row.justify-content-between.align-items-center
+              .col.mb-3.mb-sm-0
+                h4.mb-1 Tipos de material publicitario en el punto de venta.
+              .col-sm-auto
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_Tipos de material publicitario en el punto de venta.pdf')" target="_blank")
+                  span Descargar
+                  i.fas.fa-file-download
   
       Separador
       #t_3_6.titulo-segundo.mb-5
