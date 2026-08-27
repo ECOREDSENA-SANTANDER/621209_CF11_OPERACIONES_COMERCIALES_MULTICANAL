@@ -643,7 +643,8 @@
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
           h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Métodos de limpieza
           img.icon(src='@/assets/curso/temas/icon.svg') 
-  
+
+      p Existen dos métodos de limpieza:
       .row.justify-content-center.align-items-center.mb-3
         .col-lg-5.mb-3
           .tarjeta--boton

@@ -39,7 +39,7 @@
         .col-lg-8.col-md-12.col-sm-12
           .cajon.color-acento-contenido.p-4.mb-4
             p Ahora, en cuanto a la publicidad en el punto de venta, esta se lleva a cabo dentro de la tienda y se conoce comúnmente como #[b PLV (Publicidad en el Lugar de Venta), PPV (Publicidad en el Punto de Venta) o POP (#[em Point of Purchase] - Publicidad en el Punto de Compra).]
-          p Estas siglas hacen referencia a una manera de comunicar que con frecuencia la emplean los anunciantes que mercadean sus productos en el interior de los establecimientos comerciales. Más exactamente se refiere a las piezas publicitarias diseñadas con el propósito de exponerlas en el punto de venta para alcanzar de manera directa a los clientes. Por ello deben ser persuasivas y hacer del punto de venta, su canal de comunicación, logrando que la publicidad sea visible para el cliente, justo en el espacio correcto y en el momento preciso en el que se ejecuta una acción de compra.
+          p Estas siglas hacen referencia a una manera de comunicar que con frecuencia la emplean los anunciantes que mercadean sus productos en el interior de los establecimientos comerciales. Más exactamente, se refiere a las piezas publicitarias diseñadas con el propósito de exponerlas en el punto de venta para alcanzar de manera directa a los clientes. Por ello deben ser persuasivas y hacer del punto de venta, su canal de comunicación, logrando que la publicidad sea visible para el cliente, justo en el espacio correcto y en el momento preciso en el que se ejecuta una acción de compra.
         .col-lg-4.col-md-8.col-8
           img(src='@/assets/curso/temas/tema1/img1.png', alt='')
   
