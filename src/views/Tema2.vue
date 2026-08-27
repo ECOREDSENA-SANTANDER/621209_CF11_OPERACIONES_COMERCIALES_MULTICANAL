@@ -97,7 +97,7 @@
               .tarjeta-slide__contenido.p-4.p-xl-5
                 .row.justify-content-center.align-items-center
                   .col-4
-                    img.mb-4(src='@/assets/curso/temas/tema2/ico1.png', alt='tema1')
+                    img.mb-4(src='@/assets/curso/temas/tema2/ico1.png', alt='')
                 h4.text-center Cabeza de línea
                 p.text-center Son los productos que suministran mayores beneficios a la marca; por lo general tienen mayor rotación de ventas o mayor rentabilidad.
               .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tar1-1.png')})`}")
@@ -107,7 +107,7 @@
               .tarjeta-slide__contenido.p-4.p-xl-5
                 .row.justify-content-center.align-items-center
                   .col-4
-                    img.mb-4(src='@/assets/curso/temas/tema2/ico2.png', alt='tema1')
+                    img.mb-4(src='@/assets/curso/temas/tema2/ico2.png', alt='')
                 h4.text-center Productos a atracción
                 p.text-center Se refiere a los productos que estimulan el interés y motivan a conseguir más información, y concluyen con la compra del artículo sin importar el precio. 
               .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tar1-2.png')})`}")
@@ -117,7 +117,7 @@
               .tarjeta-slide__contenido.p-4.p-xl-5
                 .row.justify-content-center.align-items-center
                   .col-4
-                    img.mb-4(src='@/assets/curso/temas/tema2/ico1.png', alt='tema1')
+                    img.mb-4(src='@/assets/curso/temas/tema2/ico1.png', alt='')
                 h4.text-center Productos reguladores
                 p.text-center Estos productos tienen como misión la de atenuar las variaciones estacionales de la demanda, en épocas malas del año donde las ventas sean mínimas o exista escasez del artículo. Como ejemplo, una marca de productos deportivos vende trajes de baño cuando hay verano y esquís cuando hay invierno.
               .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema2/tar1-3.png')})`}")
@@ -141,35 +141,35 @@
               .tarjeta.tarjeta--slyder
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-1.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-1.png', alt='')
                   .col-md-8
                     h4.mb-4 Generadores de utilidades.
                     p Se refiere a aquellos que se cobran y que el cliente está dispuesto a pagar. Por ejemplo, marcas funerarias, de seguros, de diversiones, financieras, de servicios médicos, entre otros. 
               .tarjeta.tarjeta--slyder
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-2.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-2.png', alt='')
                   .col-md-8
                     h4.mb-4 Mixtos.
                     p Es cuando el producto necesita del componente de servicio, sin importar si es en un grado mayor o menor. Como ejemplo se pueden citar los restaurantes, porque el producto va a variar de precio de acuerdo con la calidad de los servicios y atención prestada (música de fondo o en vivo, espacios amplios y cómodos, zonas de juegos para los niños, entre otros).
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-3.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-3.png', alt='')
                   .col-md-8
                     h4.mb-4 Servicios de apoyo.
                     p Son servicios adicionales que ayudan a vender un producto al proporcionar apoyo extra, como el servicio  de entrega a domicilio, atención clara, oportuna, entre otros. Estos servicios están diseñados para motivar al cliente a realizar una compra. Por ejemplo, en la venta de camionetas 4 x 4, se puede ofrecer a los clientes y sus familias pases de cortesía para asistir a un evento durante el fin de semana, permitiéndoles experimentar el vehículo en un entorno real.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-4.png', alt='')
                   .col-md-8
                     h4.mb-4 Servicio de entrega.
                     p.mb-4 El cliente del siglo XXI quiere hacer el mínimo esfuerzo en la compra de un artículo. Este apartado se refiere a tener un excelente servicio de entrega y manejo de mercancías, con el apoyo de pedidos vía teléfono, fax, correo electrónico y WhatsApp. Así mismo, se deben dar facilidades para su adquisición, pues esto, es vital en el momento de comprar productos.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-4.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly2-4.png', alt='')
                   .col-md-8
                     h4.mb-4 Servicio de crédito.
                     p En la actualidad es el más requerido por los clientes para productos que le resulten costosos. Puede ser por medio de tarjetas de crédito, cheques posfechados, cuentas corrientes, tarjetas débito, etc.
@@ -317,7 +317,7 @@
         .col-lg-6.col-md-12.col-sm-12.p-1
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/tema2/tar3-1.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/tar3-1.png' alt='')
             .tarjeta.tarjeta--azul
               .p-3
                 .row.align-items-center.justify-content-center.mt-2
@@ -328,7 +328,7 @@
         .col-lg-6.col-md-12.col-sm-12.p-1
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/tema2/tar3-2.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/tar3-2.png' alt='')
             .tarjeta.tarjeta--azul
               .p-3
                 .row.align-items-center.justify-content-center.mt-2
@@ -352,38 +352,38 @@
             LineaTiempoC.color-acento-contenido(text-small)
               .row.justify-content-center.align-items-center(titulo="Paso 1")
                 .col-md-3
-                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-1.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-1.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Elaborar la matriz DOFA
                   p Para la ejecución de este paso se debe tener el #[em brief] empresarial, especialmente conocer el contexto y la filosofía de la empresa, o sea, la visión, misión y valores declarados por la misma.
               .row.justify-content-center.align-items-center(titulo="Paso 2")
                 .col-md-3
-                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-2.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-2.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Definir los objetivos comerciales
                   p Es importante saber que estos objetivos no comprenden solo números de ventas, sino también la penetración del mercado, la fidelización de los clientes, el posicionamiento de marca, la percepción e imagen de la marca, entre otros aspectos.
               .row.justify-content-center.align-items-center(titulo="Paso 3")
                 .col-md-3
-                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-3.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-3.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Establecer la cartera de clientes
                   p Tener muy claro cuál es el segmento al cual van dirigidos los productos de la marca. Resulta imposible desarrollar acciones de ventas si no se conoce quiénes son y cómo piensan los clientes a los cuales se dirigirá cada producto.
               .row.justify-content-center.align-items-center(titulo="Paso 4")
                 .col-md-3
-                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-4.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-4.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Definir responsables, plazos y mecanismos de control para cada una de las acciones que se diseñen
                   p Es importante contar con un registro de las personas que hacen parte del equipo de ventas y los ejecutivos comerciales, de tal forma que puedan acceder a un ciclo de trabajo uniforme y concreto, donde se perciba quién es el responsable de cada acción, qué fechas de cumplimiento tiene y cuáles son los mecanismos de control que se tienen, todo con el fin de poder tener oportunidades de mejora en cuanto se tengan indicadores. 
                   p La mayoría de las empresas que trabajan con sistemas de control de ventas tienen mejores resultados e ingresos más altos.
               .row.justify-content-center.align-items-center(titulo="Paso 5")
                 .col-md-3
-                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-5.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-5.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Utilizar la información del embudo de ventas para diseñar las acciones de la estrategia comercial
                   p Las acciones deben diseñarse de manera personalizada y para tener información sobre los hábitos y el comportamiento del cliente, el embudo es primordial para obtener estos datos. (Embudo de ventas: describe el proceso de conversión de prospectos a clientes, incluyendo métricas clave como tasas de conversión y tiempo en cada etapa.)
               .row.justify-content-center.align-items-center(titulo="Paso 6")
                 .col-md-3
-                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-6.png', alt='Texto que describa la imagen')
+                  img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/ps1-6.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mb-4  Diseñar una estrategia comercial con soporte omnicanal
                   p Es el uso creativo de los medios #[em offline] y #[em online] para beneficio de la marca. Las empresas que acogen una estrategia comercial omnicanal tienen mayores posibilidades de retener más clientes y de lograr mejores resultados.
@@ -499,25 +499,25 @@
               p Se ejecuta a través de un catálogo que se envía por correo postal o se pone directamente en el buzón del cliente. Puede tener el formato de “inserto”, que es un anuncio pagado tipo volante o folleto que se ubica dentro de las páginas de las revistas o periódicos. 
               p Este tipo de ventas tiene como ventaja que puede describir la información del producto o servicio con gran detalle. Pero, en la actualidad, con la presencia del correo electrónico su uso ha disminuido considerablemente. 
             .col-md-4.mb-4.mb-md-0.col-8
-              img(src='@/assets/curso/temas/tema2/aco1-1.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco1-1.png', alt='')
           .row.justify-content-center.align-items-center(titulo="Ventas telefónicas")
             .col-md-7
               p También conocida como #[em telemarketing], especialmente se usa en mercados de gran consumo o para lanzar productos nuevos o en promoción especial.
               P Con la aparición de la telefonía celular y de internet, ya no es tan usual ver esta técnica en la actualidad. 
             .col-md-4.mb-4.mb-md-0.col-8
-              img(src='@/assets/curso/temas/tema2/aco1-2.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco1-2.png', alt='')
           .row.justify-content-center.align-items-center(titulo="Ventas electrónicas")
             .col-md-7
               p Es el tipo de venta que se respalda en la transferencia de datos a través del ecosistema digital.
               p Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios web y hasta el WhatsApp sirven de apoyo.
             .col-md-4.mb-4.mb-md-0.col-8
-              img(src='@/assets/curso/temas/tema2/aco1-3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco1-3.png', alt='')
           .row.justify-content-center.align-items-center(titulo="Ventas por televisión")
             .col-md-7
               p Se conocen también como televenta y se refieren a la demostración de productos o servicios de forma minuciosa; la idea es destacar los beneficios como por ejemplo un precio llamativo (puede ser una oferta o descuento) o también las ventajas competitivas.
               p Por lo general, se transmiten diariamente en el mismo horario familiar.
             .col-md-4.mb-4.mb-md-0.col-8
-              img(src='@/assets/curso/temas/tema2/aco1-4.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco1-4.png', alt='')
           .row.justify-content-center.align-items-center(titulo="Venta personal")
             .col-md-7.mb-4
               p En esta técnica sí hay contacto directo entre vendedor y cliente. Puede tener dos variables: ejecutarse por dentro o por fuera de las sedes de la empresa.
@@ -538,7 +538,7 @@
           .crd_hover_txt(data-aos="fade-left").borde-redondo
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tar4-1.png", alt="alt")
+                img(src="@/assets/curso/temas/tema2/tar4-1.png", alt="")
             .crd_hover_txt--body.cambio
               h4.mb-3.text-center Venta directa
               p.mb-0.text-center Cuando el cliente ingresa al establecimiento y es atendido de manera personalizada por el vendedor.
@@ -546,7 +546,7 @@
           .crd_hover_txt(data-aos="fade-left").borde-redondo
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tar4-2.png", alt="alt")
+                img(src="@/assets/curso/temas/tema2/tar4-2.png", alt="")
             .crd_hover_txt--body.cambio
               h4.mb-3.text-center Venta en libre servicio
               p.mb-0.text-center Cuando el cliente realiza una compra en una tienda de autoservicio, de un producto que ya ha elegido y evaluado previamente. Por lo general presenta la ventaja de tener precios más accesibles al consumidor.
@@ -554,7 +554,7 @@
           .crd_hover_txt(data-aos="fade-left").borde-redondo
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema2/tar4-3.png", alt="alt")
+                img(src="@/assets/curso/temas/tema2/tar4-3.png", alt="")
             .crd_hover_txt--body.cambio
               h4.mb-3.text-center Venta en ferias, salones y exhibiciones
               p.mb-0.text-center Cuando la empresa expone sus productos o servicios a clientes potenciales en lugares especiales como salones especiales o zonas amplias donde pueda existir un buen ambiente. La empresa puede usar un salón de un hotel, por ejemplo. 
@@ -573,21 +573,21 @@
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-1.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-1.png', alt='')
                   .col-md-8
                     h4.mb-4 Ventas a domicilio.
                     p.mb-4 Cuando la venta se ejecuta en el lugar de ubicación del cliente y por lo general en ese instante se hace la orden de compra y luego se hace entrega del producto o servicio. Este tipo de ventas puede ser “venta por cita en el domicilio del cliente”, cuando el vendedor visita al consumidor con una cita previa acordada por ambos; “venta de puerta en puerta”, cuando el vendedor, sin pedir cita, toca a la puerta del domicilio o lugar de estadía del cliente; y “venta en el lugar de trabajo”, cuando el vendedor visita al cliente en horario laboral en su oficina, previa cita.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-2.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-2.png', alt='')
                   .col-md-8
                     h4.mb-4 Venta ambulante.
                     p.mb-4 Cuando la venta no tiene un lugar fijo. Lo que sí es seguro es que se realiza en la calle y por lo general no presenta garantía en la calidad del producto.
               .tarjeta.tarjeta--slyder.p-3
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
-                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-3.png', alt='Texto que describa la imagen')
+                    img.d-none.d-lg-block(src='@/assets/curso/temas/tema2/sly3-3.png', alt='')
                   .col-md-8
                     h4.mb-4 Auto venta.
                     p.mb-4 Cuando la empresa establece itinerarios para llevar a los clientes los productos que normalmente son perecederos y se consumen diariamente. El vendedor usa una ruta ya establecida de manera estratégica y entrega los productos a clientes que por lo general son tiendas minoristas.
@@ -750,7 +750,7 @@
         .col-lg-6.col-md-12.col-sm-12.p-1
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/tema2/tar9-1.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/tar9-1.png' alt='')
             .tarjeta.bg01
               .p-3
                 .row.align-items-center.justify-content-center
@@ -761,7 +761,7 @@
         .col-lg-6.col-md-12.col-sm-12.p-1
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/tema2/tar9-2.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema2/tar9-2.png' alt='')
             .tarjeta.bg01
               .p-3
                 .row.align-items-center.justify-content-center
@@ -945,17 +945,17 @@
         AcordionA.bg07(tipo="b" clase-tarjeta="tarjeta bg07")
           .row.justify-content-center.align-items-center(titulo="Preparación")
             .col-lg-2.col-md-3.col-6.mb-3
-              img(src='@/assets/curso/temas/tema2/aco2-1.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco2-1.png', alt='')
             .col-lg-8.col-md-12.col-sm-12
               p Hay productos que necesitan ser preparados porque pueden ser cocinados, asados o se les puede agregar algún condimento, dejando esto en responsabilidad de quien exhibe la degustación. Logrando así, la aceptación o rechazo, por parte del cliente.  Es importante tener en cuenta que no se puede alterar el sabor original con demasiados condimentos, para no afectar la intención de la degustación.
           .row.justify-content-center.align-items-center(titulo="Ejecución")
             .col-lg-2.col-md-3.col-6.mb-3
-              img(src='@/assets/curso/temas/tema2/aco2-2.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco2-2.png', alt='')
             .col-lg-8.col-md-12.col-sm-12
               p Es vital que en la creación del plan de degustación se tengan en cuenta las negociaciones necesarias con el establecimiento comercial para ejecutar la actividad de forma adecuada. Por ejemplo, la instalación de un #[em stand] o mueble degustador, su tamaño, si se requiere de tomacorriente, que esté cerca del producto en góndola, cuántas personas estarán presentes haciendo la presentación de la degustación, si se necesita refrigeración, si es necesario un espacio en el establecimiento para guardar materiales o productos, etc. 
           .row.justify-content-center.align-items-center(titulo="Personal")
             .col-lg-2.col-md-3.col-6.mb-3
-              img(src='@/assets/curso/temas/tema2/aco2-3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema2/aco2-3.png', alt='')
             .col-lg-8.col-md-12.col-sm-12
               p La degustación brinda significativos beneficios para la marca, aunque su implementación no siempre es fácil. Por esta razón se sugiere contar  con expertos en el tema, más específicamente, de agencias promocionales que recluten, seleccionen, contraten, capaciten y supervisen al personal que desarrollará la actividad de degustación. También es vital que la actividad se realice con tiempo para que la agencia promocional pueda reunir al personal idóneo, prepararlo de la mejor forma y evitar contratiempos en el momento de la degustación. 
   

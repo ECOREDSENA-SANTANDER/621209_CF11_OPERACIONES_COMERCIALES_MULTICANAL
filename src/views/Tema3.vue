@@ -156,49 +156,49 @@
             LineaTiempoC.color-acento-contenido(text-small)
               .row.justify-content-center.align-items-center(titulo="A")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-1.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-1.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conocer ampliamente el mercado
                   p Esta función abarca no solo poseer datos precisos sobre la esencia de la venta, sino también sobre desarrollar una investigación de las necesidades reales de los clientes, para ofrecerles el producto o servicio que mejor se adecúe a sus necesidades o deseos. También permite al asesor comercial descubrir potenciales clientes, conociendo en dónde se encuentran y cómo contactarlos.
               .row.justify-content-center.align-items-center(titulo="B")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-2.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-2.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conocer el producto o servicio que ofrece
                   p Todo asesor comercial debe probar el producto o servicio que ofrece poniéndose por un instante en la piel del consumidor. Así es como el asesor puede estar en capacidad de dar respuesta a cualquier pregunta o duda que tenga el cliente, y llegar incluso a anticiparse, proporcionándole la información puntual que él está requiriendo.
               .row.justify-content-center.align-items-center(titulo="C")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-3.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-3.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Ser un asesor activo
                   p Esta función es la que hace la diferencia entre un vendedor y un asesor comercial. El asesor no se limita en responder preguntas del cliente, sino que intenta indagar sobre sus necesidades, escuchándolo con atención para ofrecerle la mejor opción, aunque esta pueda ser completamente distinta a la que en principio el cliente buscaba.
               .row.justify-content-center.align-items-center(titulo="D")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-4.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-4.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Proporcionar información pertinente
                   p Es una obligación tener consigo toda la información sobre el producto. Esto lo puede lograr leyendo los instructivos y datos de los productos, pero también probándolos, sintiendo en carne propia los atributos y carencias, usos y precauciones. El vendedor busca el producto que el cliente le pidió. En cambio, el asesor comercial averigua sobre la necesidad que el comprador desea satisfacer al adquirirlo y, si es del caso, le puede sugerir una mejor elección, o simplemente ratifica la buena selección del producto por parte del cliente. También debe estar enterado sobre competencia y sobre las características del mercado. Por ello, debe tener curiosidad, ser investigador y estar al día sobre tendencias, novedades, actualidad, lanzamiento de productos, artículos discontinuos, cambios en las políticas comerciales o de fabricación, leyes, normas y todo aquello que pueda incidir o comprometer la venta.
               .row.justify-content-center.align-items-center(titulo="E")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-5.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-5.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Mantener una comunicación eficiente
                   p También es obligatorio tener los instrumentos adecuados para tener una excelente comunicación, tanto oral como escrita, con el comprador. Además de entenderlo y escucharlo, debe aplicar la psicología para conseguir información relevante con el fin de ofrecerle la mejor elección o, si es necesario, hacerlo cambiar de opinión. Por eso, esta función también trae consigo el ser perceptivo y el ser comprensivo.
               .row.justify-content-center.align-items-center(titulo="F")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-6.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-6.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Tener una actitud proactiva
                   p Debe adelantarse a las necesidades del cliente, siempre pensando en su satisfacción y en la solución de sus problemas. Esto lo logra siempre y cuando lo conozca bien, sabiendo qué es lo que necesita y por qué lo busca, llevando un historial de sus compras y obteniendo datos relevantes como, por ejemplo, qué productos ha adquirido, cuál es el estilo de vida que tiene, cuáles son sus gustos e intereses, cómo se compone su núcleo familiar, y todos los datos que pueda obtener de él. Es así como el asesor comercial podrá estar en condiciones de anticiparse al cliente para poderle ofrecer beneficios o variedad de elecciones hasta que descubra lo que realmente requiere, como, por ejemplo, nuevos productos o nuevas versiones de artículos que ya tiene.
               .row.justify-content-center.align-items-center(titulo="G")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-7.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-7.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Hacer seguimiento de los clientes
                   p Una de las funciones más importantes es hacer un seguimiento exhaustivo de los clientes, identificando a los compradores insatisfechos  que no encontraron en el mercado el producto que satisfaga sus necesidades o deseos. Es crucial mantener la lealtad de los clientes fieles y captar a los potenciales, motivándolos a realizar una compra y familiarizarse con los productos de la marca. Para lograrlo, es esencial administrar una base de datos actualizada que permita al asesor comercial contactar tanto a clientes actuales como potenciales. Esta base de datos debe incluir información como números telefónicos y correos electrónicos para enviarles noticias y ofertas de su interés.
               .row.justify-content-center.align-items-center(titulo="H")
                 .col-md-3.col-lg-3.col-6
-                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-8.png', alt='Texto que describa la imagen')
+                  img.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/tema3/ps2-8.png', alt='')
                 .col-md-9.col-lg-7.col-sm-12
                   h4.mb-4  Conjugar intereses
                   p En una acción de compra intervienen tres actores: el cliente, el vendedor y el producto que se promociona. Como en toda relación comercial, el objetivo es que todos los actores obtengan un beneficio: el comprador satisface su necesidad, el vendedor recibe una comisión por la venta, y el producto contribuye a la rentabilidad de la empresa. Para que esta relación comercial perdure en el tiempo, es esencial que el asesor comercial, quien actúa como puente entre la empresa y el cliente, mantenga satisfechos a ambos a través de una excelente atención. Esto se logra mediante una comunicación honesta y clara entre los tres actores (Wetto, 2017).

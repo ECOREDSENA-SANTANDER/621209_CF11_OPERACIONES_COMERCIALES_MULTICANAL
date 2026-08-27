@@ -13,7 +13,7 @@
         .col-lg-6.col-md-12.col-sm-12.p-1
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/tema1/avar1-1.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/avar1-1.png' alt='')
             .tarjeta.bg01
               .p-3
                 .row.align-items-center.justify-content-center
@@ -24,7 +24,7 @@
         .col-lg-6.col-md-12.col-sm-12.p-1
           .tarjeta-avatar-b
             .tarjeta-avatar-b__img
-              img(src='@/assets/curso/temas/tema1/avar1-2.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/avar1-2.png' alt='')
             .tarjeta.bg01
               .p-3
                 .row.align-items-center.justify-content-center
@@ -53,7 +53,7 @@
               .tarjeta-slide__contenido.p-4.p-xl-5
                 .row.justify-content-center.align-items-center
                   .col-4
-                    img.mb-4(src='@/assets/curso/temas/tema1/ico1.png', alt='tema1')
+                    img.mb-4(src='@/assets/curso/temas/tema1/ico1.png', alt='')
                 p.text-center La PLV presenta mensajes que buscan llamar la atención de los clientes y motivar la compra dentro del establecimiento. No debe confundirse con el diseño de envases y empaques ni con el #[em merchandising], es decir, con las estrategias utilizadas para organizar y presentar los productos en el punto de venta.
 
               .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-1.png')})`}")
@@ -63,7 +63,7 @@
               .tarjeta-slide__contenido.p-4.p-xl-5
                 .row.justify-content-center.align-items-center
                   .col-4
-                    img.mb-4(src='@/assets/curso/temas/tema1/ico1.png', alt='tema1')
+                    img.mb-4(src='@/assets/curso/temas/tema1/ico1.png', alt='')
                 p.text-center La PLV incluye los materiales publicitarios que una empresa o marca ubica dentro del establecimiento para promocionar sus productos. No incluye las señales que utiliza el establecimiento para orientar a los clientes o indicar dónde se encuentran los productos.
               .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-2.png')})`}")
   
@@ -78,21 +78,21 @@
             h4.text-center Informar
             .col-6
               figure
-                img(src='@/assets/curso/temas/tema1/tar2-1.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/tar2-1.png', alt='')
           p Se refiere a mantener informado al cliente. Sus funciones son la comunicación sobre el lanzamiento de un nuevo producto, servicio o marca, la descripción de sus características, la sugerencia de usos nuevos para el producto, el anuncio sobre un cambio que pueda tener el producto, la creación de la identidad corporativa, el posicionamiento en la mente del consumidor y el apoyo en las promociones de venta.
         .col-md.tarjeta.bg03.p-5
           .row.justify-content-center.mb-4
             h4.text-center Animar
             .col-6
               figure
-                img(src='@/assets/curso/temas/tema1/tar2-2.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/tar2-2.png', alt='')
           p Se refiere a persuadir y motivar. Sus funciones son la atracción de clientes nuevos, el incremento de la frecuencia de uso, la preferencia de marca, la persuasión para que el producto sea comprado ahora, la motivación al cliente para que realice un cambio de marca o establecimiento y lograr que la percepción del cliente sea positiva.
         .col-md.tarjeta.bg01.bd.p-5
           .row.justify-content-center.mb-4
             h4.text-center Recordar
             .col-6
               figure
-                img(src='@/assets/curso/temas/tema1/tar2-3.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/tar2-3.png', alt='')
           p Se refiere a la recordación de marca. Sus funciones incluyen mantener una reputación elevada del producto o servicio, recordar su presencia en el mercado y el lugar donde se puede adquirir, hacer que el cliente lo tenga en mente para futuras necesidades y evocar el producto o servicio incluso cuando no hay fechas especiales. 
   
       .row.justify-content-center.align-items-end(data-aos="fade-right")
@@ -106,7 +106,7 @@
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     figure
-                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-1.png', alt='Texto que describa la imagen')
+                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-1.png', alt='')
                   .col-md-8
                     h4.mb-4 Detallista
                     p.mb-4 Traer hacia el punto de venta, mostrar las ventajas que posee el establecimiento, alcanzar una imagen determinada, posicionar el punto de venta, motivar la visita a la tienda y tener compras a futuro, dar eficacia y animación al establecimiento.
@@ -114,7 +114,7 @@
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     figure
-                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-2.png', alt='Texto que describa la imagen')
+                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-2.png', alt='')
                   .col-md-8
                     h4.mb-4 Fabricantes
                     p.mb-4 Incrementar sus marcas o productos en el punto de venta, diferenciarlos de la competencia, conseguir ubicaciones idóneas dentro del punto de venta, recalcar visualmente las propiedades del producto.
@@ -122,7 +122,7 @@
                 .row.justify-content-center.align-items-center(titulo="xxx")
                   .col-md-4.mb-4.mb-md-0
                     figure
-                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-3.png', alt='Texto que describa la imagen')
+                      img.d-none.d-lg-block(src='@/assets/curso/temas/tema1/sly1-3.png', alt='')
                   .col-md-8
                     h4.mb-4 Consumidor
                     p.mb-4 García (2015) explica que, aunque el establecimiento sea de autoservicio, el consumidor generalmente necesita orientación e información para encontrar y seleccionar los productos.
@@ -442,7 +442,7 @@
         .col-12
           .tarjeta-avatar-b.correr
             .tarjeta-avatar-b__img.nueva
-              img(src='@/assets/curso/temas/tema1/1.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/1.png' alt='')
             .tarjeta.bg01
               .p-3
                 p.mt-1 #[b Eventos de proyección externa.] Dirigidos a un público ajeno a la empresa. Se caracterizan por una mayor superficialidad en los mensajes, ya que van dirigidos a un público muy heterogéneo. Su finalidad puede ser muy diversa: institucional, de posicionamiento, de motivación (de agentes externos), promocionales, formación, etc. La siguiente clasificación son tipos de eventos externos:
@@ -477,7 +477,7 @@
         .col-12
           .tarjeta-avatar-b.correr
             .tarjeta-avatar-b__img.nueva
-              img(src='@/assets/curso/temas/tema1/2.png' alt='AvatarTop')
+              img(src='@/assets/curso/temas/tema1/2.png' alt='')
             .tarjeta.bg01
               .p-3
                 p.mt-1 #[b Eventos internos.] Hacia dentro de la empresa, dirigido al personal de esta o público vinculado de forma muy estrecha, principalmente eventos de formación, motivación e incentivo. La siguiente clasificación son tipos de eventos internos:
