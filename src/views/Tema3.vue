@@ -393,7 +393,7 @@
               .col.mb-3.mb-sm-0
                 h4.mb-1 Tipos de material publicitario en el punto de venta.
               .col-sm-auto
-                a.boton.color-acento-botones(:href="obtenerLink('/downloads/ANEXO_Tipos de material publicitario en el punto de venta.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Tipos_de_material_publicitario_en_el_punto_de_venta.pdf')" target="_blank")
                   span Descargar
                   i.fas.fa-file-download
   
